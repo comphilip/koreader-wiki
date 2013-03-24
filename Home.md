@@ -10,7 +10,6 @@ KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhil
 
 
 ## User Documents
-* [[Installation Guide]]
 * [[KOReader User Guide]]
 * [[中文指南]]
 
