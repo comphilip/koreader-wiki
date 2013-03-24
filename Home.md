@@ -16,7 +16,6 @@ KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhil
 ## Dev Documents
 * [[UI Design|UIDesign]]
 * [[How to collaborate with Git|CollaboratingWithGit]]
-* [[New UI Design|NewDesign]]
 * [Build Environment Setup Guide][build_env], by @Kai771
 * [[Bug Hunting in KPV]]
 * [nightly build script] by @chrox
