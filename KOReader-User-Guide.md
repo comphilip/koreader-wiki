@@ -10,3 +10,4 @@ You can use KPV Booklet or KUAL or both.
 ### via KUAL
 
 ## Features
+### Supported gestures
