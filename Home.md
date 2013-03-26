@@ -20,7 +20,7 @@ KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhil
 * [[UI Design|UIDesign]]
 * [[How to collaborate with Git|CollaboratingWithGit]]
 * [Build Environment Setup Guide][build_env], by @Kai771
-* [Bug Hunting in Koreader-basae][bug-hunt]
+* [Bug Hunting in Koreader-basae][bug-hunt-base]
 * [nightly build script] by @chrox
 
 ## Known problems
