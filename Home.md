@@ -20,5 +20,9 @@ KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhil
 * [[Bug Hunting in KPV]]
 * [nightly build script] by @chrox
 
+##Problems known*已知问题*
+* click_paging gesture in EPUB and CHM（kindlepaperwhite 5.3.1 by ranhao）
+* your problems. 
+
 [build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
 [nightly build script]:https://gist.github.com/4002028
