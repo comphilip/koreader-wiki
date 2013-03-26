@@ -29,4 +29,4 @@ See our [issue tracker][issue-tracker].
 [build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
 [nightly build script]:https://gist.github.com/4002028
 [issue-tracker]:https://github.com/koreader/koreader/issues?state=open
-[bug-hunt]：https://github.com/koreader/koreader-base/wiki/Bug-hunting-in-kpv
+[bug-hunt]:https://github.com/koreader/koreader-base/wiki/Bug-hunting-in-kpv
