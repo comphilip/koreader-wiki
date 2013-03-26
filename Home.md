@@ -3,7 +3,7 @@ Welcome to KOReader WIKI!
 You can check out the latest download from the [[Download]] page.
 
 WIKI in other languages:
-* [[中文维基]]
+* [[KOReader维基]]
 
 ## Introduction
 
@@ -24,7 +24,7 @@ KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhil
 * [nightly build script] by @chrox
 
 ## Known problems
-See our issue [tracker|issue-tracker].
+See our [issue tracker][issue-tracker].
 
 [build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
 [nightly build script]:https://gist.github.com/4002028
