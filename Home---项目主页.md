@@ -28,10 +28,10 @@ KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhil
 * [[Bug Hunting in KPV]]  抓取KPV的漏洞
 * [nightly build script] by @chrox  日编译脚本by @chrox
 
-##Problems known
-*已知问题*
+##Problems known 已知问题
 * click_paging gesture in EPUB and CHM does not work（kindlepaperwhite 5.3.1）
->在epub和chm格式中，点击翻页的手势没有工作。（测试版本kp5.3.1）
+>在epub和chm格式中，点击翻页的手势没有工作。（测试版本kp5.3.1）  
+
 * your problems. 
 
 [build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
