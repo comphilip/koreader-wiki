@@ -20,7 +20,7 @@ KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhil
 * [[UI Design|UIDesign]]
 * [[How to collaborate with Git|CollaboratingWithGit]]
 * [Build Environment Setup Guide][build_env], by @Kai771
-* [Bug Hunting in KPV]
+* [Bug Hunting in KPV][bug-hunt]
 * [nightly build script] by @chrox
 
 ## Known problems
@@ -29,4 +29,4 @@ See our [issue tracker][issue-tracker].
 [build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
 [nightly build script]:https://gist.github.com/4002028
 [issue-tracker]:https://github.com/koreader/koreader/issues?state=open
-[Bug Hunting in KPV]：https://github.com/koreader/koreader-base/wiki/Bug-hunting-in-kpv
+[bug-hunt]：https://github.com/koreader/koreader-base/wiki/Bug-hunting-in-kpv
