@@ -1,7 +1,7 @@
 Welcome to KOReader WIKI!
-
+>欢迎来到KOReader百科！
 You can check out the latest download from the [[Download]] page.
-
+>你可以在[[Download]]页面下载最新版本的KOReader。
 ## Introduction
 
 KOReader is a document viewer for the Linux based eink devices. The formats it supports includes Pdf, DjVu, XPS, CBZ, FB2, TXT, HTML, RTF, CHM, EPUB, DOC, MOBI, and ZIP files.
