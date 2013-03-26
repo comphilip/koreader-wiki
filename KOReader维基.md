@@ -24,4 +24,4 @@ KOReader基于kindlepdfviewer重写，原项目由[hawhill](http://www.mobilerea
 
 [编译环境搭建指南]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
 [自动编译打包脚本]:https://github.com/koreader/koreader-misc/tree/master/koreader-nightlybuild
-[BUG调试指南]:https://github.com/koreader/koreader-base/wiki/Bug-hunting-in-kpv
+[BUG调试指南]:https://github.com/koreader/koreader-base/wiki/Bug-hunting-in-koreader-base
