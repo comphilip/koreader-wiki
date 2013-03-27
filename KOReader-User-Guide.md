@@ -21,13 +21,18 @@ After installed KOReader, you will see related entries in KUAL's menu. Just tap 
 ### Features that can be launched by gestures
 #### invoke main menu
   single tap on the upper center of screen.
+
 #### invoke configure menu
   single tap on the lower center of screen.
+
 #### add bookmark
   single tap on the upper right corner.
+
 #### page turn in menus
   * next page: swipe to left
   * previous page: swipe to right
+
 #### Screen Capture
-  * tap on diangonal sides of the screen with two fingers at the same time.
+tap on diangonal sides of the screen with two fingers at the same time.
+
 
