@@ -28,4 +28,6 @@ After installed KOReader, you will see related entries in KUAL's menu. Just tap 
 #### page turn in menus
   * next page: swipe to left
   * previous page: swipe to right
+#### Screen Capture
+  * tap on diangonal sides of the screen with two fingers at the same time.
 
