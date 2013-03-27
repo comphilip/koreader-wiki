@@ -1,15 +1,23 @@
 # KOReader User Guide
 
 ## Installation
-You can use KPV Booklet or KUAL or both.
-### KPV Booklet
-### KUAL
+Except from the reader itself, you also need to install a launcher. For the
+launcher, you can use KPVBooklet or KUAL or both.
 
-## How to launch
+  * jailbreak you kindle, refer to [this post](http://www.mobileread.com/forums/showthread.php?t=198446).
+  * install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki).
+  * install KUAL, refer to [the official post](http://www.mobileread.com/forums/showthread.php?t=203326)
+  * install KOreader
+    * download the package from [this page](https://github.com/koreader/koreader/wiki/Download).
+    * unzip the whole archive into kindle's root directory
+
+## Launching
 ### via KPV Booklet
+Just open any book in native system, all files except for mobi and txt will be opened with KOReader.
 ### via KUAL
+After installed KOReader, you will see related entries in KUAL's menu. Just tap on it :)
 
-## Usage Tips
+## Tips
 ### Features that can be launched by gestures
 #### invoke main menu
   single tap on the upper center of screen.
