@@ -20,7 +20,7 @@ There is a related discussion thread on the MobileRead Forums, one of the bigges
 ## Dev Documents
 
 * [[UI Design|UIDesign]]
-* [[How to collaborate with Git|CollaboratingWithGit]]
+* [How to collaborate with Git](https://github.com/koreader/koreader/wiki/CollaboratingWithGit)
 * [Build Environment Setup Guide][build_env], by @Kai771
 * [Bug Hunting in Koreader-basae][bug-hunt-base]
 * [nightly build script] by @chrox
