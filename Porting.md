@@ -4,6 +4,7 @@ There are mainly two modules that you need to take care of: input and output.
 After you finish these two, KOReader should have no problem running on your
 platform.
 
+
 ## Output Module
 
 KOReader uses framebuffer to control EInk devices, so the output module here is
@@ -61,14 +62,26 @@ We have a `input.c` module in [koreaer-base][bk-framework] that reads input
 events from Linux's input system and pass to Lua frontend. Basically, you don't
 need to change on that module because it should support most of the events.
 
-For this part, the file you need to hack on is [inputevent.lua][inputev].
+For this part, the file you have to hack on is [inputevent.lua][inputev].
 
 Firstly, you need to tell which input deivce to open on KOReader start. All the
 input devices are opened in `Input:init()` function.
 
 Next, you might need to define `Input:eventAdjustHook()` function in
 `Input:init()` method. We use this hook function to translates events into a
-format that KOReader understands.
+format that KOReader understands. You can look at the KinldTouch initilization
+part for real example.
+
+Linux supports two kinds of Multi-touch protocols:
+ * http://www.kernel.org/doc/Documentation/input/multi-touch-protocol.txt
+
+Currently, KOReader only supports protocol B, so if your device sends out
+protocol A, you need to adapt it in the hook function and simulate protocol B.
+Also you are welcome to send a PR that adds protocol A support to KOReader.
+
+More information on Linux's input system:
+ * http://www.kernel.org/doc/Documentation/input/event-codes.txt
+ * http://www.kernel.org/doc/Documentation/input/input.txt
 
 
 
