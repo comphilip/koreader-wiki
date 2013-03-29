@@ -18,22 +18,39 @@ Just open any book in native system, all files except for mobi and txt will be o
 ### via KUAL
 After installed KOReader, you will see related entries in KUAL's menu. Just tap on it :)
 
-## Tips
-### Features that can be launched by gestures
-#### invoke main menu
-  single tap on the upper center of screen.
+## KOReader Gestures
+KOReader on Kindle Touch/Paperwhite support various [multi-touch gestures](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
 
-#### invoke configure menu
-  single tap on the lower center of screen.
+### Features that can be launched by gestures:
+#### display main menu
+  single tap on the upper center of screen
 
-#### add bookmark
-  single tap on the upper right corner.
+#### display config menu
+  single tap on the lower center of screen
+
+#### dismiss main/config menu
+  single tap outside of menu frame
 
 #### page turn in menus
   * next page: swipe to left
   * previous page: swipe to right
 
-#### Screen Capture
-tap on diangonal sides of the screen with two fingers at the same time.
+#### add/remove bookmark on current page
+  single tap on the upper right corner
 
+#### turn on/off flipping mode
+  single tap on the upper left corner
 
+#### set page zoom mode
+  * page: pinch in diagonal direction
+  * pagewidth: pinch in horizontal direction
+  * pageheight: pinch in vertical direction
+  * content: spread in diagonal direction
+  * contentwidth: spread in horizontal direction
+  * contentheight: spread in vertical direction
+
+#### set screen mode (portrait/landscape)
+  rotate on screen with an angle larger than 15 degree
+
+#### screenshot
+tap on diagonal corners of the screen with two fingers at the same time
