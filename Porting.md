@@ -43,7 +43,7 @@ KOReader will handle the 4BPP shadow buffer for you, all you need to do is to
 teach `einkfb.c` how to control the EInk screen and translate the 4BPP inverted
 bitmap into the format that your framebuffer understands.
 
-In `openFrameBuffer` function, the value for a function pointer
+In `openFrameBuffer()` function, the value for a function pointer
 `einkUpdateFunc` is assigned according to devices' model. This function is
 called on every screen refresh. It transforms the shadow buffer and write the
 result into framebuffer. Then it calls ioctl to refresh the screen.
