@@ -2,7 +2,7 @@ Following are some notes on how to port KOReader to other platforms.
 
 There are mainly two modules that you need to take care of: input and output.
 After you finish these two, KOReader should have no problem running on your
-platform.
+platform. Feel free to open issues in our issue tracker if you need further help on this topic :)
 
 
 ## Output Module
