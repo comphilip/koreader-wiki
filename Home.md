@@ -24,7 +24,7 @@ There is a related discussion thread on the MobileRead Forums, one of the bigges
 * [Build Environment Setup Guide][build_env], by @Kai771
 * [Bug Hunting in Koreader-basae][bug-hunt-base]
 * [nightly build script] by @chrox
-* [How to port KOReader to other platform|porting]
+* [How to port KOReader to other platform][porting]
 
 ## Known problems
 See our [issue tracker][issue-tracker].
@@ -33,3 +33,4 @@ See our [issue tracker][issue-tracker].
 [nightly build script]:https://gist.github.com/4002028
 [issue-tracker]:https://github.com/koreader/koreader/issues?state=open
 [bug-hunt-base]:https://github.com/koreader/koreader-base/wiki/Bug-hunting-in-koreader-base
+[porting]:https://github.com/koreader/koreader/wiki/porting
