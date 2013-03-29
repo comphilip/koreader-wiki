@@ -69,8 +69,7 @@ input devices are opened in `Input:init()` function.
 
 Next, you might need to define `Input:eventAdjustHook()` function in
 `Input:init()` method. We use this hook function to translates events into a
-format that KOReader understands. You can look at the KinldTouch initilization
-part for real example.
+format that KOReader understands. You can look at the KindleTouch initialization code for real example.
 
 Linux supports two kinds of Multi-touch protocols:
  * http://www.kernel.org/doc/Documentation/input/multi-touch-protocol.txt
