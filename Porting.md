@@ -31,6 +31,29 @@ flipped in the same way as 4BPP inverted framebuffer does.
 If your device's framebuffer does not fit into any of the categories above,
 then you need to add a new transformation function in `einkfb.c`.
 
+The `einkfb.c` module works in following ways for non 4BPP framebuffers;
+  * a shadow buffer is created and structured as 4BPP inverted framebuffer.
+  * all updates on screen bitmap are temporally written into the shadow buffer.
+  * each time we want to reflect the updated bitmap on screen, we translate
+    the shadow buffer into a format that the real framebuffer understands and
+    write into the mapped memory region. (varies on devices)
+  * call ioctl system call to refresh EInk screen. (varies on devices)
+
+KOReader will handle the 4BPP shadow buffer for you, all you need to do is to
+teach `einkfb.c` how to control the EInk screen and translate the 4BPP inverted
+bitmap into the format that your framebuffer understands.
+
+In `openFrameBuffer` function, the value for a function pointer
+`einkUpdateFunc` is assigned according to devices' model. This function is
+called on every screen refresh. It transforms the shadow buffer and write the
+result into framebuffer. Then it calls ioctl to refresh the screen.
+
+So you need to write a einkUpdateFunction for your device's framebuffer and
+assigned it to `einkUpdateFunc` on eink open. You may want to refer to
+`kindle51einkUpdate()`, `kindle4einkUpdate()` and `kindle3einkUpdate()`
+functions for real examples.
+
+
 
 ## Input Module
 
