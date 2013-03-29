@@ -1,4 +1,4 @@
-Following are some notes on how to port KOReader to other platforms.
+This page aims to provide guidance on how to port KOReader to other platforms.
 
 There are mainly two modules that you need to take care of: input and output.
 After you finish these two, KOReader should have no problem running on your
