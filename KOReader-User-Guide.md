@@ -19,7 +19,7 @@ Just open any book in native system, all files except for mobi and txt will be o
 After installed KOReader, you will see related entries in KUAL's menu. Just tap on it :)
 
 ## KOReader Gestures
-KOReader on Kindle Touch/Paperwhite support various [multi-touch gestures](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
+KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
 
 ### Features that can be launched by gestures:
 #### display main menu
