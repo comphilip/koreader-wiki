@@ -1,4 +1,4 @@
-Welcome to KOReader WIKI!
+Welcome to Kindle Open Reader WIKI!
 
 You can check out the latest download from the [[Download]] page.
 
