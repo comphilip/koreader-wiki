@@ -18,7 +18,7 @@ There is a related discussion thread on the MobileRead Forums, one of the bigges
 * [[KOReader User Guide]]
 
 ## Dev Documents
-
+* [Coding Style][coding_style]
 * [How to port KOReader to other platform][porting]
 * [[UI Design|UIDesign]]
 * [How to collaborate with Git](https://github.com/koreader/koreader-base/wiki/CollaboratingWithGit)
@@ -28,6 +28,7 @@ There is a related discussion thread on the MobileRead Forums, one of the bigges
 ## Known problems
 See our [issue tracker][issue-tracker].
 
+[coding_style]:https://github.com/koreader/koreader-base/wiki/Coding-style
 [build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
 [nightly build script]:https://gist.github.com/4002028
 [issue-tracker]:https://github.com/koreader/koreader/issues?state=open
