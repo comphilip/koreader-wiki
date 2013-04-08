@@ -1,5 +1,7 @@
 ## [Nightly builds of master branch (Link)](https://code.google.com/p/koreader-package/downloads/list)
 * Add two finger swipe/pan gesture
+* bug fix in bbox calculation
+* gettext support
 
 ## [First release](https://code.google.com/p/koreader-package/downloads/detail?name=koreader-v2013.03.zip)
 * Touch support
