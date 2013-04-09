@@ -15,7 +15,7 @@ There is a related discussion thread on the MobileRead Forums, one of the bigges
 
 ## User Documents
 
-* [[KOReader用户手册]]
+* [[KOReader User Guide]]
 
 ## Dev Documents
 * [Coding Style][coding_style]
