@@ -1,4 +1,5 @@
 ## [Nightly builds of master branch (Link)](https://code.google.com/p/koreader-package/downloads/list)
+* Translation for Turkish and Chinese
 * Add two finger swipe/pan gesture
 * bug fix in bbox calculation
 * gettext support
