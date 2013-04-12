@@ -1,5 +1,5 @@
 ## [Nightly builds of master branch (Link)](https://code.google.com/p/koreader-package/downloads/list)
-* Translation for Turkish, German, Czech and Chinese
+* Translation for Turkish, German, Czech, Russian, French, Portuguese, Italian and Chinese
 * Add two finger swipe/pan gesture
 * bug fix in bbox calculation
 * gettext support
