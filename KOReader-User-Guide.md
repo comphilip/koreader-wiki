@@ -14,7 +14,7 @@ launcher, you can use KPVBooklet or KUAL or both.
   1. install Stardict dictionary (optional)
     * copy Stardict format dictionary files(*.idx, *.inf, *.dict) into koreader/data/dict directory.
   1. install Tesseract language data (optional)
-    * copy Tesseract-OCR language data for Tesseract 3.02 into koreader/data/tessdata directory.
+    * copy Tesseract-OCR language data files(eng.*) for Tesseract 3.02 into koreader/data/tessdata directory.
 
 ## Launching
 ### via KPV Booklet
