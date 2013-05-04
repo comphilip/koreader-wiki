@@ -12,7 +12,7 @@ launcher, you can use KPVBooklet or KUAL or both.
     1. download the package from [this page](https://github.com/koreader/koreader/wiki/Download).
     1. unzip the whole archive into kindle's root directory
   1. install Stardict dictionary (optional)
-    * copy Stardict format dictionary files(*.idx, *.inf, *.dict) into koreader/data/dict directory.
+    * copy Stardict format dictionary files(*.idx, *.ifo, *.dict) into koreader/data/dict directory.
   1. install Tesseract language data (optional)
     * copy Tesseract-OCR language data files(eng.*) for Tesseract 3.02 into koreader/data/tessdata directory.
 
