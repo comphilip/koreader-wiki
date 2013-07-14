@@ -58,7 +58,7 @@ functions for real examples.
 
 ## Input Module
 
-We have a `input.c` module in [koreaer-base][bk-framework] that reads input
+We have a `input.c` module in [koreaer-base][kb-framework] that reads input
 events from Linux's input system and pass to Lua frontend. Basically, you don't
 need to change on that module because it should support most of the events.
 
