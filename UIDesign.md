@@ -12,15 +12,14 @@ Anything printed by `DEBUG` will starts with a `#` sign.
 ## Event system
 Event system is used for widgets to communicate with each others.
 
-Each event is an object that has two properties: `args` and `handler`. `handler` is the name of function that will be called on receive. `args` is a table that contains all the arguments needed to be passed to the event handler. When a widget receives a event, it will first check to see if `self[event.handler]` exists. If yes, the `self[event.handler]` function will be called and the return value of the handler will be returned.
+Each event is an object that has two properties: `args` and `handler`. `handler` is the name of function that will be called on receive. `args` is a table that contains all the arguments needed to be passed to the event handler. When a widget receives a event, it will first check to see if `self[event.handler]` exists. If yes, the `self[event.handler]` function will be called and the return value of the handler will be returned to UIManager.
 
-Notice that If you don't want the event propagate after consumed in your handler, your handler must return True. Otherwise, the event will be passed to other widgets' handlers until one of the handler returns True.
+Notice that If you don't want the event propagate after consumed in your handler, your handler must return True. Otherwise, the event will be passed to other widgets' handlers until one of the handlers returns True.
 
 `WidgetContainer` is a special kind of widget. When it receives an event, it will first propagate the event to all its children. If the event is still not consumed (handler returns True), then it will try to handle by itself.
 
 When you call `UIManager:show` on an widget, this widget will be added to the top of `UIManager._window_stack`.
 Events are sent to the first widget in `UIManager._window_stack`. If it is not consumed, then UIManager will try to send it to all active widgets (`widget.is_always_active` equals `true`) in the `_window_stack`.
-
 
 ## Draw Page Code Path
 * **in readerview.lua:** ReaderView widget flag itself dirty in `ReaderView:recalculate`
