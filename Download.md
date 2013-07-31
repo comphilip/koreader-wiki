@@ -1,5 +1,7 @@
 ## [Nightly builds of master branch (Link)](https://code.google.com/p/koreader-package/downloads/list)
-* Add dictionary support
+* add goto page support
+* add highlight support
+* add dictionary support
 * Translation for Turkish, German, Czech, Russian, French, Portuguese, Italian and Chinese
 * Add two finger swipe/pan gesture
 * bug fix in bbox calculation
