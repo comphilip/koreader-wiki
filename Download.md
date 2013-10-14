@@ -1,7 +1,8 @@
 ## [Nightly builds of master branch (Link)](https://code.google.com/p/koreader-package/downloads/list)
-* add goto page support
-* add highlight support
-* add dictionary support
+* synchronize highlights in non-/reflowing modes (PDF/Djvu only)
+* add goto page support (PDF/Djvu only)
+* add highlight support (PDF/Djvu only)
+* add dictionary support (PDF/Djvu only)
 * Translation for Turkish, German, Czech, Russian, French, Portuguese, Italian and Chinese
 * Add two finger swipe/pan gesture
 * bug fix in bbox calculation
