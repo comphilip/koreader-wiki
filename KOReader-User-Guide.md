@@ -1,5 +1,3 @@
-# KOReader User Guide
-
 ## Installation
 Except from the reader itself, you also need to install a launcher. For the
 launcher, you can use KPVBooklet or KUAL or both.
