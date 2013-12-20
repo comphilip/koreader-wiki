@@ -58,11 +58,11 @@ functions for real examples.
 
 ## Input Module
 
-We have a `input.c` module in [koreaer-base][kb-framework] that reads input
+We have a `input.c` module in [koreader-base][kb-framework] that reads input
 events from Linux's input system and pass to Lua frontend. Basically, you don't
 need to change on that module because it should support most of the events.
 
-For this part, the file you have to hack on is [koreader/frontend/ui/input.lua](https://github.com/koreader/koreader/blob/master/frontend/ui/input.lua).
+For this part, the file you have to hack on is [`koreader/frontend/ui/input.lua`](https://github.com/koreader/koreader/blob/master/frontend/ui/input.lua).
 
 Firstly, you need to tell which input device to open on KOReader start. All the
 input devices are opened in `Input:init()` function.
@@ -71,11 +71,13 @@ Next, you might need to define `Input:eventAdjustHook()` function in
 `Input:init()` method. We use this hook function to translates events into a
 format that KOReader understands. You can look at the KindleTouch initialization code for real example.
 
+For Kobo devices (Mini, Touch, Glo and Aura HD) the function `Input:eventAdjustHook()` was skipped and the functions `Input:init()` and `Input:handleTypeBTouchEv` were changed to allow the single touch protocol. For Kobo Aura with multitouch support an extra function `Input:handlePhoenixTouchEv` was added.
+
 Linux supports two kinds of Multi-touch protocols:
  * http://www.kernel.org/doc/Documentation/input/multi-touch-protocol.txt
 
-Currently, KOReader only supports protocol B, so if your device sends out
-protocol A, you need to adapt it in the hook function and simulate protocol B.
+Currently, KOReader supports gesture detection of protocol B, so if your device sends out
+protocol A, you need to make a variant of function `Input:handleTouchEv()` (like `Input:handleTypeBTouchEv` and `Input:handlePhoenixTouchEv`) and simulate protocol B.
 Also you are welcome to send a PR that adds protocol A support to KOReader.
 
 More information on Linux's input system:
