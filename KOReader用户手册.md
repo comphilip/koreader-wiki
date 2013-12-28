@@ -57,3 +57,6 @@ KOReader支持多种[手势操作](http://en.wikipedia.org/wiki/Multi-touch#Mult
 
 #### 截屏
   * 同时点击屏幕两对角区域
+
+## 退出Koreader
+在文档管理器界面点击标题，弹出的阅读器菜单中点击Home图标可退出Koreader。
