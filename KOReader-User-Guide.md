@@ -56,3 +56,6 @@ KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http
 
 #### screenshot
 tap on diagonal corners of the screen with two fingers at the same time
+
+## Exiting
+tap on the "File Manager" title will popup the reader menu from which you can exit Koreader.
