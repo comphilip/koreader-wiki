@@ -1,5 +1,5 @@
 ## [Nightly builds of master branch (Link)](https://code.google.com/p/koreader-package/downloads/list)
-* add dictionary support (PDF/Djvu/Epub only)
+* add dictionary support (PDF/Djvu/Epub)
 * synchronize highlights in non-/reflowing modes (PDF/Djvu only)
 * add goto page support (PDF/Djvu only)
 * add highlight support (PDF/Djvu only)
