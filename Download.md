@@ -1,5 +1,6 @@
 ## [Nightly builds of master branch (Link)](https://code.google.com/p/koreader-package/downloads/list)
 * add battery icons in page header
+* fix memory leak when reading EPUB document
 * add dictionary support (PDF/Djvu/Epub)
 * synchronize highlights in non-/reflowing modes (PDF/Djvu only)
 * add goto page support (PDF/Djvu only)
