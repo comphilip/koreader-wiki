@@ -21,8 +21,8 @@ Kobo based http://www.mobileread.com/forums/showthread.php?t=216960
 
 **Overview:**
 * [[Features list]]
-* [[Getting Started in Kindle devices]]
-* [[Getting Started in Kobo devices]]
+* [[Getting started in Kindle devices]]
+* [[Getting started in Kobo devices]]
 * [[Troubleshooting]]
 * [[KOReader User Guide]]
 
