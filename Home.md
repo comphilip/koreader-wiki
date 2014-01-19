@@ -38,14 +38,15 @@ Kobo based http://www.mobileread.com/forums/showthread.php?t=216960
 * [[UI Design|UIDesign]]
 * [How to collaborate with Git](https://github.com/koreader/koreader-base/wiki/CollaboratingWithGit)
 * [Build Environment Setup Guide][build_env], by @Kai771
-* [Bug Hunting in Koreader-basae][bug-hunt-base]
+* [Bug Hunting in Koreader-base][bug-hunt-base]
 * [Remote debugging with gdbserver](https://github.com/koreader/koreader-base/wiki/Remote-debugging-with-gdbserver)
 
 ## Known problems
 See our [issue tracker][issue-tracker].
 
 ## Changelog
-
+* [[Changelog]]
+* [[更新日志]]
 
 [coding_style]:https://github.com/koreader/koreader-base/wiki/Coding-style
 [build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
