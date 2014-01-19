@@ -1,4 +1,4 @@
-| Feature |   |
+| Feature |  Status  |
 | ------ | ------ |
 |  supported devices  |  KT、KPW、Kobo Glo, Touch, Mini, Aura, AuraHD  |
 |  supported formats  |  PDF, DJVU, EPUB, MOBI, TXT, ZIP, CBZ, FB2, RTF, CHM, DOC  |
