@@ -1,4 +1,7 @@
 ## [Nightly builds of master branch (Link)](https://code.google.com/p/koreader-package/downloads/list)
+* language settings in reader menu
+* highlight in EPUB document
+* support link in EPUB/PDF document
 * add battery icons in page header
 * fix memory leak when reading EPUB document
 * add dictionary support (PDF/Djvu/Epub)
