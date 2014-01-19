@@ -17,11 +17,22 @@ Kindle based http://www.mobileread.com/forums/showthread.php?t=209276
 
 Kobo based http://www.mobileread.com/forums/showthread.php?t=216960
 
-## User Documents
+## For Users
 
+**Overview:**
+* [[Features list]]
+* [[Getting Started in Kindle devices]]
+* [[Getting Started in Kobo devices]]
+* [[Troubleshooting]]
 * [[KOReader User Guide]]
 
-## Dev Documents
+**Advanced:**
+* [[Change defaults]]
+* [[Dictionary support]]
+* [[Reflowing tweaks]]
+
+## For Developers
+
 * [Coding Style][coding_style]
 * [How to port KOReader to other platform][porting]
 * [[UI Design|UIDesign]]
