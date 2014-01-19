@@ -3,8 +3,7 @@ Welcome to **Kindle/Kobo Open Reader(KOReader)** WIKI!
 You can check out the latest download from the [[Download]] page.
 
 WIKI in other languages:
-* [中文](wiki/KOReader维基)
-* [[KOReader维基]]
+* [简体中文](wiki/KOReader维基)
 
 ## Introduction
 
