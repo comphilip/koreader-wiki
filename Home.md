@@ -26,12 +26,12 @@ Kobo based http://www.mobileread.com/forums/showthread.php?t=216960
 * [[on Kindle devices]]
 * [[on Kobo devices]]
 * [[KOReader User Guide]]
+* [[Dictionary support]]
 * [[Troubleshooting]]
 
 **Advanced:**
 * [[Tips and Tricks]]
 * [[Change defaults]]
-* [[Dictionary support]]
 * [[Reflowing tweaks]]
 
 ## For Developers
