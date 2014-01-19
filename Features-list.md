@@ -4,14 +4,15 @@
 |  supported formats  |  PDF, DJVU, EPUB, MOBI, TXT, ZIP, CBZ, FB2, RTF, CHM, DOC  |
 | native system integration | supported on Kindle devices |
 | localization | supported |
+| file manager | supported |
 | screenshot | supported |
 | landscape reading | supported |
 | partial refresh | supported |
 | bookmarking | supported |
 | Table of Content | supported |
 | flipping mode | supported |
-| search text | not supported yet |
-| highlightling | supported |
+| text search | not supported yet |
+| highlighting | supported |
 | taking note | not supported yet |
 | dictionary lookup | supported |
 | PDF zoom mode | zoom to fit page, zoom to fit page width, zoom to fit page height, zoom to fit content, zoom to fit content width, zoom to fit content height|
