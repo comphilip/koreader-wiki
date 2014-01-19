@@ -25,9 +25,9 @@ Kobo based http://www.mobileread.com/forums/showthread.php?t=216960
 **Getting started:**
 * [[Installation on Kindle devices]]
 * [[Installation on Kobo devices]]
-* [[KOReader User Guide]]
 * [[Dictionary support]]
 * [[Troubleshooting]]
+* [[KOReader User Guide]]
 
 **Advanced:**
 * [[Tips and Tricks]]
