@@ -33,6 +33,9 @@ Kobo based http://www.mobileread.com/forums/showthread.php?t=216960
 ## Known problems
 See our [issue tracker][issue-tracker].
 
+## Changelog
+
+
 [coding_style]:https://github.com/koreader/koreader-base/wiki/Coding-style
 [build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
 [nightly build script]:https://gist.github.com/4002028
