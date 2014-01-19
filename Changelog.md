@@ -81,3 +81,58 @@
 **New features**：
 * dictionary lookup in EPUB document
 
+================================================================
+### koreader-nightly-20131217
+
+**New features**：
+* customizable tap zones for page turning
+* current time can be shown in progress bar in PDF/DJVU document
+
+**Enhancements**：
+* show page overlap in non-scroll mode bt default
+* return to Nickel when exiting Koreader in Kobo
+
+**Bug fixes**：
+* fixed dictionary lookup not working properly in reflowing mode
+* fixed menu items rendered out of menu window
+* fixed less responsive UI after running for a while in Kobo
+
+================================================================
+### koreader-nightly-20131202
+
+**Enhancements**：
+* K2pdfopt updated to latest version 2.12
+
+**Bug fixes**：
+* fixed word picking failure in multicolumn PDF pages in reflowing mode
+* fixed history file list not sorted by last accessed time
+* fixed koreader cannot be launched in some 3G Paperwhite2 models
+
+================================================================
+### koreader-nightly-20131128
+
+**New features**：
+* add Kindle Paperwhite2 and Kobo Aura support
+
+**Enhancements**：
+* new blitbuffer for 4-bit(Kindle), 8-bit, 16-bit(Kobo), 24-bit and 32-bit framebuffer devices
+
+**Bug fixes**：
+* fixed full refresh bug in new blitbuffer
+
+================================================================
+### koreader-nightly-20131029
+
+**Enhancements**：
+* code refactoring (avoid usage of global variables)
+* code refactoring (new blitbuffer implemented with lua ffi)
+* more smooth scroll in scroll mode
+* calculate word gap in reflowing mode
+* calculate indendtation in reflowing mode
+
+**Bug fixes**：
+* fixed word picking problems in reflowing mode
+* fixed screen refresh failure caused by Enter key in Goto dialog
+* fixed highlighting failure when highlighted line only has one word
+
+================================================================
