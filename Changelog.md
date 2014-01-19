@@ -76,7 +76,7 @@
 * fixed rendering problem on Kobo devices
 
 ================================================================
-### 12月25日更新（koreader-nightly-20131225)
+### koreader-nightly-20131225
 
 **New features**：
 * dictionary lookup in EPUB document
