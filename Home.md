@@ -21,13 +21,15 @@ Kobo based http://www.mobileread.com/forums/showthread.php?t=216960
 
 **Overview:**
 * [[Features list]]
-* [[Getting started in Kindle devices]]
-* [[Getting started in Kobo devices]]
-* [[Tips and Tricks]]
-* [[Troubleshooting]]
+
+**Getting started:**
+* [[on Kindle devices]]
+* [[on Kobo devices]]
 * [[KOReader User Guide]]
+* [[Troubleshooting]]
 
 **Advanced:**
+* [[Tips and Tricks]]
 * [[Change defaults]]
 * [[Dictionary support]]
 * [[Reflowing tweaks]]
@@ -47,7 +49,6 @@ See our [issue tracker][issue-tracker].
 
 ## Changelog
 * [[Changelog]]
-* [[更新日志]]
 
 [coding_style]:https://github.com/koreader/koreader-base/wiki/Coding-style
 [build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
