@@ -9,3 +9,5 @@ For the launcher, you can use KPVBooklet or KUAL(Kindle Unified Application Laun
   1. install the Koreader main program
     * download the package from [this page](https://github.com/koreader/koreader/wiki/Download).
     * unzip the whole archive and copy the extracted three folders(extensions, koreader and launchpad) into your kindle's root directory(not any sub-directory)
+
+NOTE: Please reinstall the launcher after updating firmware of your Kindle.
