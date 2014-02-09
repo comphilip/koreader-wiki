@@ -1,4 +1,11 @@
 ================================================================
+### koreader-nightly-20140123
+
+**Bug fixes**：
+* fixed font and margin settings missing when toggling floating punctuation on/off 
+* several crash fixes
+
+================================================================
 ### koreader-nightly-20140119
 
 **New features**：
