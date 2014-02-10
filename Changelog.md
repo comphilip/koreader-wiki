@@ -1,5 +1,20 @@
 ================================================================
-### koreader-nightly-20140123
+### koreader-nightly-20140210
+
+**New features**：
+* exporting highlights to PDF document
+
+**Enhancements**：
+* keep up with latest crengine updates
+* avoid unnecessary floating of CJK punctuations
+
+**Bug fixes**：
+* fixed no screen refresh when exiting from koreader in Kobo
+* fixed wrong reading progress when switching between portrait and landscape screen mode
+* fixed no default css when opening EPUB/FB2 document
+
+================================================================
+### koreader-nightly-20140124
 
 **Bug fixes**：
 * fixed font and margin settings missing when toggling floating punctuation on/off 
