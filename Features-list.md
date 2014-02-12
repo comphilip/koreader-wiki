@@ -25,4 +25,5 @@
 | EPUB pagination | supported |
 | EPUB embeded stylesheet | supported |
 | EPUB embeded font | supported |
-| EPUB text contrast | supported |
+| EPUB font gamma | supported |
+| EPUB hyphenation | supported |
