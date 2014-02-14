@@ -9,6 +9,7 @@ There are two configuration files that will configure initial settings for Korea
 | `DFULL_SCREEN = 1` | `defaults.lua` | `1` or `0` | hiding progress bar | PDF/DJVU |
 | `DSCROLL_MODE = 0` | `defaults.lua` | `1` or `0` | displaying pages continuously | PDF/DJVU |
 | `DSHOWOVERLAP = false` | `defaults.lua` | `false` or `true` | showing gray area to indicate page overlap | PDF/DJVU |
-| `DCREREADER_VIEW_MODE = "page"` | `defaults.lua` | `"page"` or `"scroll"` | pagination in "page" mode | EPUB/FB2 |
+| `DCREREADER_VIEW_MODE = "page"` | `defaults.lua` | `"page"` or `"scroll"` | pagination in "page" mode, no pagination in "scroll" mode | EPUB/FB2 |
+| `DCREREADER_PROGRESS_BAR = 1` | `defaults.lua` | `1` or `0` | progress bar style: `1` for "mini", `0` for "full" | EPUB/FB2 |
 | `DSHOWHIDDENFILES = false` | `defaults.lua` | `false` or `true` | showing hidden files in file manager | - |
 | `DSHOWFILESIZE = false` | `defaults.lua` | `false` or `true` | showing file size in file manager | - |
