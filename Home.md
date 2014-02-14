@@ -13,9 +13,9 @@ KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhil
 
 There are related discussion thread on the MobileRead Forums, one of the biggest english language web forums for e-book publishing:
 
-Kindle based http://www.mobileread.com/forums/showthread.php?t=209276
+* [For Kindle devices](http://www.mobileread.com/forums/showthread.php?t=209276)
 
-Kobo based http://www.mobileread.com/forums/showthread.php?t=216960
+* [For Kobo devices](http://www.mobileread.com/forums/showthread.php?t=216960)
 
 ## For Users
 
