@@ -1,4 +1,19 @@
 ================================================================
+### koreader-nightly-20140214
+
+**New features**：
+* two finger swipe to right gesture to show Table of Content
+* two finger swipe to left gesture to show bookmarks
+* long press on progress bar to show Goto dialog
+
+**Enhancements**：
+* add full/mini progress bar options
+* disable tap zone for bottom config panel
+
+**Bug fixes**：
+* fixed frontlight toggler on Kindle Paperwhite2
+
+================================================================
 ### koreader-nightly-20140210
 
 **New features**：
