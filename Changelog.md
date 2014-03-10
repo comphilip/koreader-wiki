@@ -8,7 +8,6 @@
 * fixed a bug in processing font-family definition in EPUB css
 
 ================================================================
-================================================================
 ### koreader-nightly-20140214
 
 **New features**：
