@@ -1,4 +1,14 @@
 ================================================================
+### koreader-nightly-20140311
+
+**Bug fixes**：
+* fixed tap gesture unresponsive in page flipping mode
+* fixed semi-auto page crop in DJVU documents
+* fixed a rare case of infinite loop when processing EPUB docs
+* fixed a bug in processing font-family definition in EPUB css
+
+================================================================
+================================================================
 ### koreader-nightly-20140214
 
 **New features**：
