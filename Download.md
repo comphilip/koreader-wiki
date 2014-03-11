@@ -1,4 +1,4 @@
-## [Nightly builds of master branch (Link)](https://code.google.com/p/koreader-package/downloads/list)
+## [Nightly builds of master branch (Link)](https://github.com/koreader/koreader/releases)
 * file copy/paste in filemanager
 * language settings in reader menu
 * highlight in EPUB document
