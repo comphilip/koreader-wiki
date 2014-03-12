@@ -15,7 +15,7 @@
 * gettext support
 * 2x reflow speed
 
-## [First release](https://code.google.com/p/koreader-package/downloads/detail?name=koreader-v2013.03.zip)
+## [First release](https://github.com/koreader/koreader/releases)
 * Touch support
 * Scroll mode in PDF/DJVU
 * Many features ported from the old code base.
