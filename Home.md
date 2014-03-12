@@ -37,7 +37,7 @@ There are related discussion thread on the MobileRead Forums, one of the biggest
 
 ## For Developers
 
-* [How to Start][start-dev]
+* [[How to Start|start-dev]]
 * [Coding Style][coding_style]
 * [[UI Design|UIDesign]]
 * [How to collaborate with Git](https://github.com/koreader/koreader-base/wiki/CollaboratingWithGit)
