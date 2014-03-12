@@ -41,7 +41,7 @@ There are related discussion thread on the MobileRead Forums, one of the biggest
 * [Coding Style][coding_style]
 * [[UI Design|UIDesign]]
 * [How to collaborate with Git](https://github.com/koreader/koreader-base/wiki/CollaboratingWithGit)
-* [Build Environment Setup Guide][build_env], by @Kai771
+* [Build Environment Setup Guide][build_env]
 * [Bug Hunting in Koreader-base][bug-hunt-base]
 * [Remote debugging with gdbserver](https://github.com/koreader/koreader-base/wiki/Remote-debugging-with-gdbserver)
 * [How to port KOReader to other platform][porting]
