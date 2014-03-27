@@ -1,4 +1,12 @@
 ================================================================
+### koreader-nightly-20140327
+
+**Enhancements**：
+* K2pdfopt updated to latest version 2.15
+* Luajit updated to latest version 2.1-beta
+* License updated to GNU AGPLv3
+
+================================================================
 ### koreader-nightly-20140311
 
 **Bug fixes**：
