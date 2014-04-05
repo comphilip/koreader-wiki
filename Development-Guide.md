@@ -4,12 +4,43 @@ The source tree of frontend looks like this:
 ```
 frontend
 ├── apps
-│   └── filemanager
-│       ├── filemanagerhistory.lua
-│       ├── filemanager.lua
-│       └── filemanagermenu.lua
+│   ├── filemanager
+│   │   ├── filemanagerhistory.lua
+│   │   ├── filemanager.lua
+│   │   └── filemanagermenu.lua
+│   └── reader *
+│       ├── modules
+│       │   ├── readeractivityindicator.lua
+│       │   ├── readerbookmark.lua
+│       │   ├── readerconfig.lua
+│       │   ├── readercoptlistener.lua
+│       │   ├── readercropping.lua
+│       │   ├── readerdictionary.lua
+│       │   ├── readerdogear.lua
+│       │   ├── readerflipping.lua
+│       │   ├── readerfont.lua
+│       │   ├── readerfooter.lua
+│       │   ├── readerfrontlight.lua
+│       │   ├── readergoto.lua
+│       │   ├── readerhighlight.lua
+│       │   ├── readerhinting.lua
+│       │   ├── readerhyphenation.lua
+│       │   ├── readerkoptlistener.lua
+│       │   ├── readerlink.lua
+│       │   ├── readermenu.lua
+│       │   ├── readerpaging.lua
+│       │   ├── readerpanning.lua
+│       │   ├── readerrolling.lua
+│       │   ├── readerrotation.lua
+│       │   ├── readerscreenshot.lua
+│       │   ├── readertoc.lua
+│       │   ├── readertypeset.lua
+│       │   ├── readerview.lua
+│       │   └── readerzooming.lua
+│       └── readerui.lua
 ├── cacheitem.lua
 ├── cache.lua
+├── configurable.lua
 ├── dbg.lua
 ├── docsettings.lua
 ├── document *
@@ -42,36 +73,6 @@ frontend
     ├── gesturerange.lua
     ├── input.lua
     ├── language.lua
-    ├── reader *
-    │   ├── configurable.lua
-    │   ├── readeractivityindicator.lua
-    │   ├── readerbookmark.lua
-    │   ├── readerconfig.lua
-    │   ├── readercoptlistener.lua
-    │   ├── readercropping.lua
-    │   ├── readerdictionary.lua
-    │   ├── readerdogear.lua
-    │   ├── readerflipping.lua
-    │   ├── readerfont.lua
-    │   ├── readerfooter.lua
-    │   ├── readerfrontlight.lua
-    │   ├── readergoto.lua
-    │   ├── readerhighlight.lua
-    │   ├── readerhinting.lua
-    │   ├── readerhyphenation.lua
-    │   ├── readerkoptlistener.lua
-    │   ├── readerlink.lua
-    │   ├── readermenu.lua
-    │   ├── readerpaging.lua
-    │   ├── readerpanning.lua
-    │   ├── readerrolling.lua
-    │   ├── readerrotation.lua
-    │   ├── readerscreenshot.lua
-    │   ├── readertoc.lua
-    │   ├── readertypeset.lua
-    │   ├── readerview.lua
-    │   └── readerzooming.lua
-    ├── readerui.lua
     ├── rendertext.lua
     ├── screen.lua
     ├── timeval.lua
@@ -122,7 +123,7 @@ frontend
         ├── virtualkeyboard.lua
         └── widget.lua
 ```
-in which you will find the asterisked `frontend/document`, `frontend/ui/reader` and `frontend/ui/widget` the most interesting parts.
+in which you will find the asterisked `frontend/document`, `frontend/apps/reader` and `frontend/ui/widget` the most interesting parts.
 
 ### document: API for document parsing and rendering
 
