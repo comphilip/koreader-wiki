@@ -1,4 +1,11 @@
 ================================================================
+### koreader-nightly-20140405
+
+**New features**：
+* highlight current entry in TOC window
+* tap on mini progress bar to hide it
+
+================================================================
 ### koreader-nightly-20140327
 
 **Enhancements**：
