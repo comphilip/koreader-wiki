@@ -1,4 +1,8 @@
 ## [Nightly builds of master branch (Link)](https://github.com/koreader/koreader/releases)
+* dewatermark option for pdf/djvu
+
+## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.04)
+* dewatermark option for pdf/djvu
 * file copy/paste in filemanager
 * language settings in reader menu
 * highlight in EPUB document
@@ -14,8 +18,6 @@
 * bug fix in bbox calculation
 * gettext support
 * 2x reflow speed
-
-## [First release](https://github.com/koreader/koreader/releases)
 * Touch support
 * Scroll mode in PDF/DJVU
 * Many features ported from the old code base.
