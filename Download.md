@@ -1,4 +1,4 @@
-## [Nightly builds of master branch (Link)](https://github.com/koreader/koreader/releases)
+## [Nightly builds](https://github.com/koreader/koreader/releases)
 * dewatermark option for pdf/djvu
 
 ## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.04)
