@@ -1,4 +1,16 @@
 ================================================================
+### koreader-nightly-20140424
+
+**New features**：
+* add Evernote plugin to export highlights and notes
+
+================================================================
+### koreader-nightly-20140408
+
+**New features**：
+* add dewatermark option for PDF/DJVU
+
+================================================================
 ### koreader-nightly-20140405
 
 **New features**：
