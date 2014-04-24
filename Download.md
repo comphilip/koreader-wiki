@@ -1,7 +1,7 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
-* dewatermark option for pdf/djvu
+* add Evernote plugin to export highlights and notes
 
-## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.04)
+## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.04-stable)
 * dewatermark option for pdf/djvu
 * file copy/paste in filemanager
 * language settings in reader menu
