@@ -27,3 +27,4 @@
 | EPUB embeded font | supported |
 | EPUB font gamma | supported |
 | EPUB hyphenation | supported |
+| Evernote export | supported |
