@@ -1,4 +1,15 @@
 ================================================================
+### koreader-nightly-20140502
+
+**New features**：
+* add Yinxiang domain for Evernote plugin
+
+**Enhancements**：
+* improvement on startup speed especially for reflowing mode
+* persistent footer bar status between launchings
+* invert effect when tapping on buttons
+
+================================================================
 ### koreader-nightly-20140424
 
 **New features**：
