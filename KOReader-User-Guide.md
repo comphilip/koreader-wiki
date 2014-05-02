@@ -25,26 +25,26 @@ KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http
 
 ### Features that can be launched by gestures:
 #### page up
-  single tap on left one quarter of the screen
+  * single tap on left one quarter of the screen
 
 #### page down
-  single tap on right three quarters of the screen
+  * single tap on right three quarters of the screen
 
 #### display main menu/config menu
-  single tap on the upper center of screen
+  * single tap on the upper center of screen
 
 #### dismiss main/config menu
-  single tap outside of menu frame
+  * single tap outside of menu frame
 
 #### page turn in menus
   * next page: swipe to left
   * previous page: swipe to right
 
 #### add/remove bookmark on current page
-  single tap on the upper right corner
+  * single tap on the upper right corner
 
 #### turn on/off flipping mode
-  single tap on the upper left corner
+  * single tap on the upper left corner
 
 #### set page zoom mode
   * page: pinch in diagonal direction
@@ -55,10 +55,10 @@ KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http
   * contentheight: spread in vertical direction
 
 #### set screen mode (portrait/landscape)
-  rotate on screen with an angle larger than 15 degree
+  * rotate on screen with an angle larger than 15 degree
 
 #### screenshot
-tap on diagonal corners of the screen with two fingers at the same time
+  * tap on diagonal corners of the screen with two fingers at the same time
 
 ## Exiting
 Single tap on the "File Manager" title will popup the reader menu from which you can exit Koreader.
