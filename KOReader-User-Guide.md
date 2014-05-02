@@ -24,6 +24,12 @@ After installed KOReader, you will see related entries in KUAL's menu. Just tap 
 KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
 
 ### Features that can be launched by gestures:
+#### page up
+  single tap on left one quarter of the screen
+
+#### page down
+  single tap on right three quarters of the screen
+
 #### display main menu/config menu
   single tap on the upper center of screen
 
