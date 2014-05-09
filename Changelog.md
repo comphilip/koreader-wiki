@@ -1,4 +1,10 @@
 ================================================================
+### koreader-nightly-20140509
+
+**Bug fixes**：
+* return to home screen after exiting koreader for Kobo Mini, Touch and Aura
+
+================================================================
 ### koreader-nightly-20140502
 
 **New features**：
