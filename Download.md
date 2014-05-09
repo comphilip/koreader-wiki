@@ -1,4 +1,9 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+* return to home screen after exiting koreader for Kobo Mini, Touch and Aura
+* add Yinxiang domain for Evernote plugin
+* improvement on startup speed especially for reflowing mode
+* persistent footer bar status between launchings
+* invert effect when tapping on buttons
 * add Evernote plugin to export highlights and notes
 
 ## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.04-stable)
