@@ -9,3 +9,6 @@ Long press at the bottom progress bar will popup the Goto dialog instantly.
 
 ### 4. Setting default dictionary
 Single tap on the dictionary title will make current dictionary the default dictionary for this document.
+
+### 5. Switching progress bar state
+Single tap on the mini progress bar will switch between "normal" (bar + page), "time" (bar + time) and "hide" (no bar) modes.
