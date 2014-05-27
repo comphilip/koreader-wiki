@@ -1,4 +1,17 @@
 ================================================================
+### koreader-nightly-20140524
+
+**New features**:
+* export highlighted text in scanned page to Evernote
+
+**Enhancements**：
+* language settings for Kobo finally work
+* enlarge touch zone for readerfooter
+* incremental export of highlights and notes to Evernote
+
+**Bug fixes**：
+* fix a memory leak when automatically detecting bbox
+================================================================
 ### koreader-nightly-20140509
 
 **Bug fixes**：
