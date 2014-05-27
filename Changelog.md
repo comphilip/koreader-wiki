@@ -11,6 +11,7 @@
 
 **Bug fixes**：
 * fix a memory leak when automatically detecting bbox
+
 ================================================================
 ### koreader-nightly-20140509
 
