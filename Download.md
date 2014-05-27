@@ -1,4 +1,8 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+* language settings for Kobo finally work
+* enlarge touch zone for readerfooter
+* fix a memory leak when automatically detecting bbox
+* export highlighted text in scanned page to Evernote
 * return to home screen after exiting koreader for Kobo Mini, Touch and Aura
 * add Yinxiang domain for Evernote plugin
 * improvement on startup speed especially for reflowing mode
