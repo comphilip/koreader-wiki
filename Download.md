@@ -1,4 +1,5 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+* add Android port of koreader
 * language settings for Kobo finally work
 * enlarge touch zone for readerfooter
 * fix a memory leak when automatically detecting bbox
