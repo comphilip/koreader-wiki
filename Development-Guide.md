@@ -37,6 +37,7 @@ frontend
 │       │   ├── readertypeset.lua
 │       │   ├── readerview.lua
 │       │   └── readerzooming.lua
+│       ├── pluginloader.lua
 │       └── readerui.lua
 ├── cacheitem.lua
 ├── cache.lua
