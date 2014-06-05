@@ -1,4 +1,18 @@
 ================================================================
+### koreader-nightly-20140605
+
+**New features**:
+* support Android 2.3+
+
+**Enhancements**：
+* use mupdf instead of crengine to handle zipped image files
+
+**Bug fixes**：
+* fix font weight option not persistent
+* fix occasional crash when serializing blitbuffer
+* fix auto bbox calculation in in top-to-bottom writing direction
+
+================================================================
 ### koreader-nightly-20140524
 
 **New features**:
