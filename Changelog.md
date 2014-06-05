@@ -10,7 +10,7 @@
 **Bug fixes**：
 * fix font weight option not persistent
 * fix occasional crash when serializing blitbuffer
-* fix auto bbox calculation in in top-to-bottom writing direction
+* fix auto bbox calculation in top-to-bottom writing direction
 
 ================================================================
 ### koreader-nightly-20140524
