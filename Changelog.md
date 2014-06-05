@@ -10,6 +10,7 @@
 **Bug fixes**：
 * fix font weight option not persistent
 * fix occasional crash when serializing blitbuffer
+* fix crash on Kobo Mini and some marks of Kobo Touch
 * fix auto bbox calculation in top-to-bottom writing direction
 
 ================================================================
