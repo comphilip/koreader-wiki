@@ -1,4 +1,5 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+* fix crash on Kobo Mini and some marks of Kobo Touch
 * fix font weight option not persistent
 * add Android port of koreader
 * language settings for Kobo finally work
