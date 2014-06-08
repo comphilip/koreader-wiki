@@ -1,4 +1,6 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+* fix detection of two-fingers-pan gestures
+* fix FC on Android with "Start with last opened file" checked
 * fix crash on Kobo Mini and some marks of Kobo Touch
 * fix font weight option not persistent
 * add Android port of koreader
