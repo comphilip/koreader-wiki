@@ -1,4 +1,18 @@
 ================================================================
+### koreader-nightly-20140609
+
+**New features**:
+* add night mode option
+* add tap zone configuration for the minibar
+
+**Enhancements**：
+* auto settings saving when going into screensaver
+
+**Bug fixes**：
+* fix insensitive rotate gesture detection
+* fix auto language detection
+
+================================================================
 ### koreader-nightly-20140605
 
 **New features**:
