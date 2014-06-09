@@ -12,3 +12,7 @@ Single tap on the dictionary title will make current dictionary the default dict
 
 ### 5. Switching progress bar state
 Single tap on the mini progress bar will switch between "normal" (bar + page), "time" (bar + time) and "hide" (no bar) modes.
+
+### 6. Flipped landscape screen orientation
+Tap on the "landscape" option in screen mode panel of reader config window when the screen is already in landscape mode will flip the landscape screen with 180 degrees.
+
