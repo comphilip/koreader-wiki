@@ -43,7 +43,6 @@ There are related discussion thread on the MobileRead Forums, one of the biggest
 * [Coding Style][coding_style]
 * [[UI Design|UIDesign]]
 * [How to collaborate with Git](https://github.com/koreader/koreader-base/wiki/CollaboratingWithGit)
-* [Build Environment Setup Guide][build_env]
 * [Bug Hunting in Koreader-base][bug-hunt-base]
 * [Remote debugging with gdbserver](https://github.com/koreader/koreader-base/wiki/Remote-debugging-with-gdbserver)
 * [How to port KOReader to other platform][porting]
@@ -55,7 +54,6 @@ See our [issue tracker][issue-tracker].
 * [[Changelog]]
 
 [coding_style]:https://github.com/koreader/koreader-base/wiki/Coding-style
-[build_env]:http://www.mobileread.com/forums/showpost.php?p=2227307&postcount=658
 [nightly build script]:https://gist.github.com/4002028
 [issue-tracker]:https://github.com/koreader/koreader/issues?state=open
 [bug-hunt-base]:https://github.com/koreader/koreader-base/wiki/Bug-hunting-in-koreader-base
