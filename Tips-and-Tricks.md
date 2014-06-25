@@ -16,3 +16,5 @@ Single tap on the mini progress bar will switch between "normal" (bar + page), "
 ### 6. Flipped landscape screen orientation
 Tap on the "landscape" option in screen mode panel of reader config window when the screen is already in landscape mode will flip the landscape screen with 180 degrees.
 
+### 7. Go back from link
+After following links in both EPUB and PDF documents, you can easily go back to the original page by a swipe east gesture. 
