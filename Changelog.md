@@ -7,11 +7,11 @@
 **Enhancements**：
 * persistent option for defaults.lua
 * new swipe diagonal gesture for screenshot
-* offset and resize Kobo Aura screen because of obscuration by black bezel
 
 **Bug fixes**：
 * fix hyphenation dictionaries
 * fix Kobo suspend support
+* fix screen offset in Kobo Aura
 
 ================================================================
 ### koreader-nightly-20140609
