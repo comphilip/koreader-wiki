@@ -1,4 +1,19 @@
 ================================================================
+### koreader-nightly-20140629
+
+**New features**:
+* add ZSync plugin (a peer-to-peer document sharing plugin in LAN)
+
+**Enhancements**：
+* persistent option for defaults.lua
+* new swipe diagonal gesture for screenshot
+* offset and resize Kobo Aura screen because of obscuration by black bezel
+
+**Bug fixes**：
+* fix hyphenation dictionaries
+* fix Kobo suspend support
+
+================================================================
 ### koreader-nightly-20140609
 
 **New features**:
