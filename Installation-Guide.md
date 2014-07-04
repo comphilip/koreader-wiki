@@ -1,6 +1,6 @@
 Following is the guide to install and launch **KPV** using launchpad.
 
-For up-to-date instructions regarding **KOReader**, see [this page instead](../KOReader-User-Guide).
+For up-to-date instructions regarding **KOReader**, see [this page instead](KOReader-User-Guide).
 
 1. Jailbreak your Kindle.
 
