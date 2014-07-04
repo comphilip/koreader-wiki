@@ -1,64 +1,63 @@
 ## Installation
-Except from the reader itself, you also need to install a launcher. For the
-launcher, you can use KPVBooklet or KUAL or both.
+Besides the reader itself, you will also need to install a launcher. For that purpose, you can use KPVBooklet or KUAL, or even both.
 
-  1. jailbreak you kindle, refer to [this post](http://www.mobileread.com/forums/showthread.php?t=198446).
-  1. install launcher
-    * install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki).
-    * install KUAL, refer to [the official post](http://www.mobileread.com/forums/showthread.php?t=203326)
-  1. install KOreader
-    1. download the package from [this page](https://github.com/koreader/koreader/wiki/Download).
-    1. unzip the whole archive into kindle's root directory
-  1. install Stardict dictionary (optional)
-    * copy Stardict format dictionary files(*.idx, *.ifo, *.dict) into koreader/data/dict directory.
-  1. install Tesseract language data (optional)
-    * copy Tesseract-OCR language data files(eng.*) for Tesseract 3.02 into koreader/data/tessdata directory.
+  1. Jailbreak your Kindle, refer to [this post](http://www.mobileread.com/forums/showthread.php?t=186645).
+  1. Install a launcher
+    * Install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki).
+    * Install KUAL, refer to [the official thread](http://www.mobileread.com/forums/showthread.php?t=203326)
+  1. Install KOReader
+    1. Download the latest Kindle package from [this page](https://github.com/koreader/koreader/wiki/Download).
+    1. Unzip the whole archive into the Kindle's USB root directory
+  1. Install Stardict dictionaries (optional)
+    * Copy Stardict format dictionary files (*.idx, *.ifo, *.dict) into the koreader/data/dict directory.
+  1. Install Tesseract language data (optional)
+    * Copy Tesseract-OCR language data files (eng.*) for Tesseract 3.02 into the koreader/data/tessdata directory.
 
 ## Launching
 ### via KPV Booklet
-Just open any book in native system, all files except for mobi and txt will be opened with KOReader.
+Just open any book from the native system, all files except for mobi and txt will be opened with KOReader.
 ### via KUAL
-After installed KOReader, you will see related entries in KUAL's menu. Just tap on it :)
+After installing KOReader, you will see related entries in the KUAL menu. Just tap on it :). The **(no framework)** variants will kill the native GUI first, and restart it once you've quit KOReader (the goal being to gain some more free RAM).
 
 ## KOReader Gestures
-KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
+KOReader on Kindle Touch/PaperWhite supports various [multi-touch gestures](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
 
-### Features that can be launched by gestures:
-#### page up
-  * single tap on left one quarter of the screen
+### Features that can be triggered by gestures:
+#### Page Up
+  * Single tap on the left (first quarter of the screen)
 
-#### page down
-  * single tap on right three quarters of the screen
+#### Page Down
+  * Single tap on the right (remaining three quarters of the screen)
 
-#### display main menu/config menu
-  * single tap on the upper center of screen
+#### Display main menu/config Menu
+  * Single tap on the upper center of the screen
 
-#### dismiss main/config menu
-  * single tap outside of menu frame
+#### Dismiss main/config Menu
+  * Single tap outside of the menu frame
 
-#### page turn in menus
-  * next page: swipe to left
-  * previous page: swipe to right
+#### Page turn in menus
+  * Next page: swipe to the left
+  * Previous page: swipe to the right
 
-#### add/remove bookmark on current page
-  * single tap on the upper right corner
+#### Add/Remove bookmark on the current page
+  * Single tap on the upper right corner
 
-#### turn on/off flipping mode
-  * single tap on the upper left corner
+#### Toggle flipping mode
+  * Single tap on the upper left corner
 
-#### set page zoom mode
-  * page: pinch in diagonal direction
-  * pagewidth: pinch in horizontal direction
-  * pageheight: pinch in vertical direction
-  * content: spread in diagonal direction
-  * contentwidth: spread in horizontal direction
-  * contentheight: spread in vertical direction
+#### Set page zoom mode
+  * Page: Diagonal pinch
+  * PageWidth: Horizontal pinch
+  * PageHeight: Vertical pinch
+  * Content: Diagonal zoom
+  * ContentWidth: Horizontal zoom
+  * ContentHeight: Vertical zoom
 
-#### set screen mode (portrait/landscape)
-  * rotate on screen with an angle larger than 15 degree
+#### Set screen rotation (portrait/landscape)
+  * Rotate on screen with an angle larger than 15 degrees
 
-#### screenshot
-  * tap on diagonal corners of the screen with two fingers at the same time
+#### Screenshot
+  * Tap on diagonally opposed corners of the screen with two fingers at the same time
 
 ## Exiting
-Single tap on the "File Manager" title will popup the reader menu from which you can exit Koreader.
+A single tap on the "File Manager" title will make the reader menu popup, from which you can exit KOReader with the Home icon.
