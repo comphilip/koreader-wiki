@@ -1,4 +1,19 @@
 ================================================================
+### koreader-nightly-20140715
+
+**Enhancements**：
+* update mupdf and k2pdfopt to latest version
+* hold on config panel, zoom mode menu and font menu to set global default option
+* show pages left and battery status on minibar
+* restrict highlight in current page area
+* optimize compiling parameters for all three platforms(kindle, kobo and Android)
+
+**Bug fixes**：
+* fix back to nickel on 3.4.1 for kobos
+* fix cannot get word box in last page of a chapter
+* fix screen auto rotation on Android causes koreader freeze
+
+================================================================
 ### koreader-nightly-20140629
 
 **New features**:
