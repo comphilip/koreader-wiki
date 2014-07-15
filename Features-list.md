@@ -27,4 +27,5 @@
 | EPUB embeded font | supported |
 | EPUB font gamma | supported |
 | EPUB hyphenation | supported |
-| Evernote export | supported |
+| Evernote export(Evernote plugin) | supported |
+| Wireless doc sharing(ZSync plugin) | supported |
