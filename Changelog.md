@@ -1,4 +1,19 @@
 ================================================================
+### koreader-nightly-20140802
+
+**New features**：
+* add menu entry for E-ink screen refresh rate
+* add menu entry for UI font size
+* add menu entry for OTA update
+* add floating punctuation toggler for EPUBs
+* prompt users to turn on Wifi if network is unreachable
+
+**Enhancements**：
+* handle the new 4GB PW2 models
+* shortcut chevrons for the first/last page navigation in menus
+* swipe east/west to switch dictionary in dict quick lookup window
+
+================================================================
 ### koreader-nightly-20140715
 
 **Enhancements**：
