@@ -1,4 +1,26 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+* add menu entry for E-ink screen refresh rate
+* add menu entry for UI font size
+* add menu entry for OTA update
+* add floating punctuation toggler for EPUBs
+* prompt users to turn on Wifi if network is unreachable
+* handle the new 4GB PW2 models
+* shortcut chevrons for the first/last page navigation in menus
+* swipe east/west to switch dictionary in dict quick lookup window
+* update mupdf and k2pdfopt to latest version
+* hold on config panel, zoom mode menu and font menu to set global default option
+* show pages left and battery status on minibar
+* restrict highlight in current page area
+* optimize compiling parameters for all three platforms(kindle, kobo and Android)
+* fix back to nickel on 3.4.1 for kobos
+* fix cannot get word box in last page of a chapter
+* fix screen auto rotation on Android causes koreader freeze
+* add ZSync plugin (a peer-to-peer document sharing plugin in LAN)
+* persistent option for defaults.lua
+* new swipe diagonal gesture for screenshot
+* fix hyphenation dictionaries
+* fix Kobo suspend support
+* fix screen offset in Kobo Aura
 * fix detection of two-fingers-pan gestures
 * fix FC on Android with "Start with last opened file" checked
 * fix crash on Kobo Mini and some marks of Kobo Touch
