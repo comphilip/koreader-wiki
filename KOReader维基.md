@@ -9,9 +9,12 @@ Pdf, DjVu, EPUB, XPS, CBZ, FB2, TXT, HTML, RTF, CHM, DOC, MOBI以及ZIP。
 
 KOReader基于kindlepdfviewer重写，原项目由[hawhill](http://www.mobileread.com/forums/member.php?u=86292)基于[mupdf](http://www.mupdf.com/) 的源代码创建。从创建起，原项目已经由来自世界各地的开发者和黑客们的需求和更新驱动维护了很长一段时间。
 
-## 用户文档
+## 安装和运行
+  * [[在Kindle上安装和运行KOReader]]
+  * [[如何在Kobo上安装KOReader]]
 
-* [[KOReader用户手册]]
+## 使用帮助
+  * [[KOReader用户手册]]
 
 ## 开发文档
 
