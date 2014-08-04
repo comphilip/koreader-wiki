@@ -1,9 +1,5 @@
 # KOReader用户手册
 
-## 安装和运行
-  * [在Kindle上安装和运行KOReader](https://github.com/koreader/koreader/wiki/%E5%9C%A8Kindle%E4%B8%8A%E5%AE%89%E8%A3%85%E5%92%8C%E8%BF%90%E8%A1%8CKOReader)
-  * [如何在Kobo上安装KOReader ](https://github.com/koreader/koreader/wiki/%E5%A6%82%E4%BD%95%E5%9C%A8Kobo%E4%B8%8A%E5%AE%89%E8%A3%85KOReader)
-
 ## KOReader手势操作
 KOReader支持多种[手势操作](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
 
