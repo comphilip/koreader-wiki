@@ -1,21 +1,8 @@
 # KOReader用户手册
 
-## 安装
-在安装KOReader之前，你需要安装KOReader的启动器。目前KPVBooklet和KUAL都支持启动KOReader，你可以任选一个安装或者两个都安装。
-
-  1. Kindle越狱, 请参考[这个帖子](http://www.mobileread.com/forums/showthread.php?t=198446).
-  1. 安装启动器
-    * 安装KPVBooklet, 请参考[这个wiki页面](https://github.com/koreader/kpvbooklet/wiki).
-    * 安装KUAL, 请参考[这个帖子](http://www.mobileread.com/forums/showthread.php?t=203326)
-  1. 安装KOreader
-    1. 到wiki[下载页面](https://github.com/koreader/koreader/wiki/Download)，选择压缩包下载。
-    1. 把下载的压缩包解压缩到Kindle磁盘根目录。
-
-## 运行KOReader
-### 通过KPVBooklet运行
-KPVBooklet可以与原生系统集成, 在Kindle主界面点击文档即可用KOReader打开。MOBI、AZW和TXT文档仍然使用原生阅读器打开。安装KPVBooklet之后如果仍然希望使用原生阅读器打开PDF文档，可以在主界面长按PDF文档在弹出的对话框中选择GOTO/前往即可。
-### 通过KUAL运行
-KOReader安装过后会在KUAL的菜单出现，单击KOReader即可打开KOReader的文件管理器。
+## 安装和运行
+  * [在Kindle上安装和运行KOReader](https://github.com/koreader/koreader/wiki/%E5%9C%A8Kindle%E4%B8%8A%E5%AE%89%E8%A3%85%E5%92%8C%E8%BF%90%E8%A1%8CKOReader)
+  * [如何在Kobo上安装KOReader ](https://github.com/koreader/koreader/wiki/%E5%A6%82%E4%BD%95%E5%9C%A8Kobo%E4%B8%8A%E5%AE%89%E8%A3%85KOReader)
 
 ## KOReader手势操作
 KOReader支持多种[手势操作](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
