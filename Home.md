@@ -28,6 +28,7 @@ There are related discussion thread on the MobileRead Forums, one of the biggest
 * [[Installation on Kindle devices]]
 * [[Installation on Kobo devices]]
 * [[KOReader User Guide]]
+* [[KOReader Gestures]]
 * [[Dictionary support]]
 * [[Exporting highlights to Evernote]]
 * [[Troubleshooting]]
