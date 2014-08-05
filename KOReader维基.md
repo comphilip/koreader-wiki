@@ -15,6 +15,7 @@ KOReader基于kindlepdfviewer重写，原项目由[hawhill](http://www.mobilerea
 
 ## 使用帮助
   * [[KOReader手势操作]]
+  * [[更改默认设置]]
   * [[KOReader用户手册]]
 
 ## 开发文档
