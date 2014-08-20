@@ -22,7 +22,7 @@ There are related discussion thread on the MobileRead Forums, one of the biggest
 
 **Overview:**
 * [[Features list]]
-* [[Screenshots]]
+* [[KOReader Screenshots]]
 
 **Getting started:**
 * [[Installation on Kindle devices]]
