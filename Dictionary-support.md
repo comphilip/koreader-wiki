@@ -1,6 +1,8 @@
 Koreader supports dictionary lookup in EPUB and even in scanned PDF/DJVU documents.
 In order to use dictionary lookup function, you need to install one or more dictionaries of Stardict format first.
 
+[![Dictionary lookup](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)
+
 * install [Stardict dictionary](http://abloz.com/huzheng/stardict-dic/)
     * copy Stardict format dictionary files(`*.idx`, `*.ifo`, `*.dict`) into `koreader/data/dict directory`.
 
