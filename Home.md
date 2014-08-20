@@ -34,8 +34,8 @@ There are related discussion thread on the MobileRead Forums, one of the biggest
 * [[Troubleshooting]]
 
 **Plugins:**
-* [[Exporting highlights to Evernote]]
-* [[Transferring documents between multiple Koreader devices]]
+* [[Evernote]]
+* [[Zsync]]
 
 **Advanced:**
 * [[Tips and Tricks]]
