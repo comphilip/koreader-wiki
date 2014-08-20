@@ -30,8 +30,12 @@ There are related discussion thread on the MobileRead Forums, one of the biggest
 * [[KOReader User Guide]]
 * [[KOReader Gestures]]
 * [[Dictionary support]]
-* [[Exporting highlights to Evernote]]
+* [[Wikipedia support]]
 * [[Troubleshooting]]
+
+**Plugins:**
+* [[Exporting highlights to Evernote]]
+* [[Transferring documents between multiple Koreader devices]]
 
 **Advanced:**
 * [[Tips and Tricks]]
