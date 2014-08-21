@@ -27,7 +27,6 @@ There are related discussion thread on the MobileRead Forums, one of the biggest
 **Getting started:**
 * [[Installation on Kindle devices]]
 * [[Installation on Kobo devices]]
-* [[KOReader User Guide]]
 * [[KOReader Gestures]]
 * [[Dictionary support]]
 * [[Wikipedia support]]
