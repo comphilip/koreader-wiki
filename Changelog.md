@@ -1,4 +1,22 @@
 ================================================================
+### koreader-nightly-20140821
+
+**New features**：
+* add search Calibre database support
+* add chapter ticks on mini progress bar
+* add screensaver functionality for Kobo
+* add Wikipedia lookup
+
+**Enhancements**：
+* right-to-left writing direction is valid in non-reflowing mode
+* input new words to lookup in dictionary window
+* update MuPDF to latest version
+* update k2pdfopt to latest version
+
+**Bug fixes**：
+* fix no battery info on minibar for PDF documents
+
+================================================================
 ### koreader-nightly-20140802
 
 **New features**：
