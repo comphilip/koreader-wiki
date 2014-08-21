@@ -12,7 +12,7 @@ KOReader is a document viewer for the Linux based eink devices. The formats it s
 
 KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhill](http://www.mobileread.com/forums/member.php?u=86292) based on the [mupdf](http://www.mupdf.com/) source. Since then it has come a long way, based on requests and updates by hackers around the world.
 
-There are related discussion thread on the MobileRead Forums, one of the biggest english language web forums for e-book publishing:
+There are related discussion threads on the MobileRead Forums, one of the biggest English language web forums for e-book reading/publishing:
 
 * [For Kindle devices](http://www.mobileread.com/forums/showthread.php?t=209276)
 
