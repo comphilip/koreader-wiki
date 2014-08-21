@@ -1,4 +1,12 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+* add search Calibre database support
+* add chapter ticks on mini progress bar
+* add screensaver functionality for Kobo
+* add Wikipedia lookup
+* right-to-left writing direction is valid in non-reflowing mode
+* input new words to lookup in dictionary window
+* update mupdf and k2pdfopt to latest version
+* fix no battery info on minibar for PDF documents
 * add menu entry for E-ink screen refresh rate
 * add menu entry for UI font size
 * add menu entry for OTA update
@@ -7,7 +15,6 @@
 * handle the new 4GB PW2 models
 * shortcut chevrons for the first/last page navigation in menus
 * swipe east/west to switch dictionary in dict quick lookup window
-* update mupdf and k2pdfopt to latest version
 * hold on config panel, zoom mode menu and font menu to set global default option
 * show pages left and battery status on minibar
 * restrict highlight in current page area
