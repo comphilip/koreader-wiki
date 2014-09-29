@@ -1,4 +1,11 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+* add filemanager icon in reader menu
+* add OPDS catalog support in filemanager
+* add Calibre Companion plugin
+* add Wifi toggler icon in reader menu
+* bookcover of specific document can be excluded as screensaver
+* customizable font size in reader footer
+* win32 port of Koreader for development purpose
 * add search Calibre database support
 * add chapter ticks on mini progress bar
 * add screensaver functionality for Kobo
