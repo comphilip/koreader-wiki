@@ -1,4 +1,18 @@
 ================================================================
+### koreader-nightly-20140929
+
+**New features**：
+* add filemanager icon in reader menu
+* add OPDS catalog support in filemanager
+* add Calibre Companion plugin
+* add Wifi toggler icon in reader menu
+
+**Enhancements**：
+* bookcover of specific document can be excluded as screensaver
+* customizable font size in reader footer
+* win32 port of Koreader for development purpose
+
+================================================================
 ### koreader-nightly-20140821
 
 **New features**：
