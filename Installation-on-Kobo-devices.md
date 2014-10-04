@@ -11,7 +11,7 @@ Select koreader from the Start Menu to start.
 
 __Older installation based on Filemonitor:__
 
-**WARNING: Since Filemonitor doesn't play well with koreader, only use it if Start Menu does not work for you**.
+**WARNING: Since Filemonitor does not play well with KOReader, only use it if Start Menu does not work for you**.
 
 - Put the image included in the zip (called "koreader.png") in the main folder of your kobo and disconnect it from your computer. Open the image on the reader, go back to the home and then, just to be extra-safe, reboot it.
 - Install "Files Monitor" (http://www.mobileread.com/forums/showthread.php?t=218283).
