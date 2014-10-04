@@ -30,6 +30,7 @@ There are related discussion threads on the MobileRead Forums, one of the bigges
 * [[KOReader Gestures]]
 * [[Dictionary support]]
 * [[Wikipedia support]]
+* [[OPDS support]]
 * [[Troubleshooting]]
 
 **Plugins:**
