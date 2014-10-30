@@ -1,4 +1,6 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+* translation for Hungarian, Ukrainian and Korean.
+* history view in reader menu
 * add filemanager icon in reader menu
 * add OPDS catalog support in filemanager
 * add Calibre Companion plugin
