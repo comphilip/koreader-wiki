@@ -17,7 +17,7 @@ Single tap on the mini progress bar will switch between "normal" (bar + page), "
 Tap on the "landscape" option in screen mode panel of reader config window when the screen is already in landscape mode will flip the landscape screen with 180 degrees.
 
 ### 7. Quick go back from link
-After following links in both EPUB and PDF documents, you can easily go back to the original page by a swipe east gesture. 
+After following links in both EPUB and PDF documents, you can easily go back to the original page by executing a swipe from right to left. 
 
 ### 8. Lookup new words in dictionary window
 Long press on the word title (the red box in the following screenshot) in dictionary window will popup a inputbox in which you can input new words to lookup in dictionaries or the Wikipedia.
