@@ -1,6 +1,6 @@
 | Feature |  Status  |
 | ------ | ------ |
-|  supported devices  |  Kindle Touch, Kindle Paperwhite, Kobo Glo, Kobo Touch, Kobo Mini, Kobo Aura, Kobo AuraHD  |
+|  supported devices  |  Kindle Touch, Kindle Paperwhite, Kobo Glo, Kobo Touch, Kobo Mini, Kobo Aura, Kobo AuraHD, Kobo Aura H2O  |
 |  supported formats  |  PDF, DJVU, EPUB, MOBI, TXT, ZIP, CBZ, FB2, RTF, CHM, DOC  |
 | native system integration | supported on Kindle devices |
 | localization | supported |
