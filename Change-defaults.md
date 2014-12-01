@@ -15,4 +15,3 @@ There are two configuration files that will configure initial settings for Korea
 | `DCREREADER_CONFIG_DEFAULT_FONT_SIZE = 22` | `defaults.lua` | `16` - `44` | default font size | EPUB/FB2 |
 | `DCREREADER_CONFIG_MARGIN_SIZES` | `defaults.lua` | `5` - `50` | page margins {left, top, right, bottom} in pixels | EPUB/FB2 |
 | `DSHOWHIDDENFILES = false` | `defaults.lua` | `false` or `true` | showing hidden files (name begins with a ".") | FileManager |
-| `DSHOWFILESIZE = false` | `defaults.lua` | `false` or `true` | showing file size in MB | FileManager |
