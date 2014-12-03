@@ -36,7 +36,7 @@ KOReader on Kindle Touch/PaperWhite supports various [multi-touch gestures](http
 
 #### Screenshot
   * Tap on diagonally opposed corners of the screen with two fingers at the same time
-  * Or swipe diagonally from top-left to bottom-right on devices without multi-touch support
+  * Or swipe from any corner to the diagonally opposed corner of the screen on devices without multi-touch support
 
 #### Manual screen refresh
   * Swipe diagonally
