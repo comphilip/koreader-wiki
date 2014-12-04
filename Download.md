@@ -1,4 +1,6 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+
+## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.11)
 * translation for Hungarian, Ukrainian and Korean.
 * history view in reader menu
 * add filemanager icon in reader menu
@@ -52,8 +54,6 @@
 * persistent footer bar status between launchings
 * invert effect when tapping on buttons
 * add Evernote plugin to export highlights and notes
-
-## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.04-stable)
 * dewatermark option for pdf/djvu
 * file copy/paste in filemanager
 * language settings in reader menu
