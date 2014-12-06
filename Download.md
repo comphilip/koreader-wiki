@@ -1,6 +1,6 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
 
-## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.11)
+## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.11-stable)
 * add file name search in file manager
 * add fulltext search for EPUB/PDF documents
 * translation for Hungarian, Ukrainian and Korean.
