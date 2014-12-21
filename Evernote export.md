@@ -1,4 +1,4 @@
-The bundled Evernote plugin is able to export highlights and notes added from both native reader in Kindle and the Koreader itself to Evernote cloud. And Yinxiang Biji (Evernote in China) is also supported.
+The bundled Evernote export plugin is able to export highlights and notes added from both native reader in Kindle and the Koreader itself to Evernote cloud. And Yinxiang Biji (Evernote in China) is also supported.
 
 [![Evernote plugin](https://github.com/koreader/koreader/wiki/screenshots/evernote_logined.png)](https://github.com/koreader/koreader/wiki/screenshots/evernote_logined.png)
 
