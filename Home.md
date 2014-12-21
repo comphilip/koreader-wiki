@@ -34,9 +34,9 @@ There are related discussion threads on the MobileRead Forums, one of the bigges
 * [[Troubleshooting]]
 
 **Plugins:**
-* [[Calibre Companion]]
-* [[Evernote]]
-* [[Zsync]]
+* [[Calibre wireless connection]]
+* [[Evernote export]]
+* [[Zsync transport]]
 
 **Advanced:**
 * [[Tips and Tricks]]
