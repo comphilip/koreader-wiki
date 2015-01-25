@@ -15,3 +15,5 @@ There are two configuration files that will configure initial settings for Korea
 | `DCREREADER_CONFIG_DEFAULT_FONT_SIZE = 22` | `defaults.lua` | `16` - `44` | default font size | EPUB/FB2 |
 | `DCREREADER_CONFIG_MARGIN_SIZES` | `defaults.lua` | `5` - `50` | page margins {left, top, right, bottom} in pixels | EPUB/FB2 |
 | `DSHOWHIDDENFILES = false` | `defaults.lua` | `false` or `true` | showing hidden files (name begins with a ".") | FileManager |
+
+Note that configuration changes to the `koreader/defaults.lua` file will be overridden by nightly releases / OTA updates automatically without notification. To make configuration changes persist between updates,you need to copy `koreader/defaults.lua` to `koreader/defaults.persistent.lua` and make the changes there.
