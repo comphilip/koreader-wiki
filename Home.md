@@ -39,6 +39,7 @@ There are related discussion threads on the MobileRead Forums, one of the bigges
 **Plugins:**
 * [[Calibre wireless connection]]
 * [[Evernote export]]
+* [[Progress sync]]
 * [[Zsync transport]]
 
 **Advanced:**
