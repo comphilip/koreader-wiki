@@ -1,0 +1,3 @@
+The "Progress sync" plugin can synchronize reading progress of the same document across different koreader devices. You need to create an account on one device by registering in the "Register/Login" menu of the plugin and login on other devices. If "Auto sync" is checked, synchronization will be performed when a document is opened and closed. You can also manually synchronize the reading progress by tapping the "Sync now".
+
+This plugin does not send file name or any file content to the koreader sync server. And all data transferred between the "Progress sync" plugin and the sync server are secured by HTTPS (Hypertext Transfer Protocol Secure) connections.
