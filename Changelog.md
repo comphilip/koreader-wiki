@@ -1,4 +1,34 @@
 ================================================================
+### koreader-nightly-20150318
+
+**New features**：
+* add support for GIF and PNG to picdocument provider
+* add an option to show an arrow to indicate page overlap
+* add PocketBook port of Koreader
+* add FONTDIR env variable to customize font directory
+* add stable OTA channel
+* add support for Kindle Voyage
+* add progress synchronization plugin
+
+**Enhancements**：
+* dynamic reader menu and config panel
+
+================================================================
+### koreader-nightly-20141107
+
+**New features**：
+* http proxy support by setting NETWORK_PROXY variable
+* add menu entry to lookup input word in dictionary
+* add djvu render mode options in readermenu
+* add option to export highlights to local HTML files in Evernote plugin
+* collapsible table of content
+* add reader history in the info panel
+* add fulltext search for PDF/EPUB documents
+
+**Fixes**:
+* fix run out of memory when receiving large files from Calibre
+
+================================================================
 ### koreader-nightly-20140929
 
 **New features**：
