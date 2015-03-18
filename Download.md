@@ -1,4 +1,21 @@
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
+================================================================
+* add progress synchronization plugin
+* dynamic reader menu and config panel
+* http proxy support by setting NETWORK_PROXY variable
+* add menu entry to lookup input word in dictionary
+* add djvu render mode options in readermenu
+* add option to export highlights to local HTML files in Evernote plugin
+* collapsible table of content
+* add reader history in the info panel
+* add support for GIF and PNG to picdocument provider
+* add an option to show an arrow to indicate page overlap
+* add PocketBook port of Koreader
+* add FONTDIR env variable to customize font directory
+* add stable OTA channel
+* add support for Kindle Voyage
+
+================================================================
 
 ## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.11-stable)
 * add file name search in file manager
