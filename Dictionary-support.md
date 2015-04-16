@@ -4,7 +4,7 @@ In order to use dictionary lookup function, you need to install one or more dict
 [![Dictionary lookup](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)
 
 * install [Stardict dictionary](http://abloz.com/huzheng/stardict-dic/)
-    * copy the directory containing the Stardict format dictionary files (`*.idx`, `*.ifo`, `*.dict`) into `koreader/data/dict directory`.
+    * copy the directory containing the Stardict format dictionary files (`*.idx`, `*.ifo`, `*.dict`) into `koreader/data/dict` directory. (Android users need to copy these files to `koreader/data/dict` in the root directory of sdcard that is `/sdcard/koreader/data/dict`.)
 
 Koreader has a build-in OCR engine for recognizing words in scanned PDF/DJVU pages. In order to use OCR in scanned page, you need to install tesseract trained data for your document language.
 
