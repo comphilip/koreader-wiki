@@ -5,6 +5,7 @@ __下载适合Kobo使用的KOReader:__
 __基于Start Menu的新版安装教程:__
 - 安装 "Start Menu"，参看 (http://www.mobileread.com/forums/showthread.php?t=233259)
 - 将koreader文件夹解压到Kobo机子里的".kobo"目录 (KoboRoot.tgz和koreader.png两文件不用，它们是给基于旧版本的Filemonitor使用的. 见下文.). 
+- 如果使用了新版的Kobo Start Menu 07，将koreader文件夹移至根目录下的.adds中>When installing Koreader, copy the folder koreader into .adds instead of .kobo. If Koreader is already installed, move the folder koreader from .kobo to .adds.
 
 在Start Menu中选择koreader启动。
 
