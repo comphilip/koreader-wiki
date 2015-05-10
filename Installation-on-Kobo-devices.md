@@ -3,7 +3,7 @@ Installation instructions for Kobo:
 
 
 __Newer installation based on Start Menu:__
-- Install "Start Menu" (http://www.mobileread.com/forums/showthread.php?t=233259)
+- Install "Start Menu" (http://www.mobileread.com/forums/showthread.php?t=255978)
 - Download either the latest stable version (https://github.com/koreader/koreader/releases/tag/v2014.04-stable) or one of the nightly builds of koreader (https://github.com/koreader/koreader/releases)
 - Extract the koreader folder of the zip into the ".kobo" directory (both KoboRoot.tgz and the koreader.png file are only needed for the older installation based on Filemonitor. See below.). 
 
