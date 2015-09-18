@@ -1,6 +1,9 @@
 The "Statistics" plugin provides you information about your performance reading. 
 The plugin has setting for two properties MIN (by default is 5) and MAX (by default is 90) seconds. If you read curent page in range between MIN and MAX seconds, information about time and page will be added into statistics. Otherwise the plugin will skip info about time and page. You can change both properties in settings.
+
 The plugin doesn't work with PDF, DjVu and CBZ formats. 
+
+By default the plugin is enabled. 
 
 ### The plugin provides next counters
 
@@ -20,6 +23,7 @@ You can tap on book title and see detailed information:
 * Count of pages and total time by days
 
 ### Some pictures
+![plugins](https://cloud.githubusercontent.com/assets/220872/9965401/bbcd7230-5e3e-11e5-98bb-30b58c08d9b4.png)
 
 ![Current](https://cloud.githubusercontent.com/assets/220872/9731982/132848ca-5629-11e5-8fd5-b72fde1022b5.png)
 
