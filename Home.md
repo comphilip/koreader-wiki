@@ -41,6 +41,7 @@ There are related discussion threads on the MobileRead Forums, one of the bigges
 * [[Evernote export]]
 * [[Progress sync]]
 * [[Zsync transport]]
+* [[Statistics plugin]]
 
 **Advanced:**
 * [[Tips and Tricks]]
