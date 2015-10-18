@@ -1,17 +1,18 @@
 | Feature |  Status  |
 | ------ | ------ |
 |  supported devices  |  Kindle Touch, Kindle Paperwhite, Kobo Glo, Kobo Touch, Kobo Mini, Kobo Aura, Kobo Aura HD, Kobo Aura H2O  |
-|  supported formats  |  PDF, DJVU, EPUB, MOBI, TXT, ZIP, CBZ, FB2, RTF, CHM, DOC  |
+|  supported formats  |  PDF, DJVU, EPUB, MOBI, PDB, TXT, ZIP, CBZ, FB2, RTF, CHM, DOC  |
 | native system integration | supported on Kindle devices |
 | localization | supported |
 | file manager | supported |
 | screenshot | supported |
+| night mode | supported |
 | landscape reading | supported |
 | partial refresh | supported |
 | bookmarking | supported |
 | Table of Content | supported |
 | flipping mode | supported |
-| text search | not supported yet |
+| text search | supported |
 | highlighting | supported |
 | taking note | not supported yet |
 | dictionary lookup | supported |
@@ -30,3 +31,8 @@
 | EPUB hyphenation | supported |
 | Evernote export(Evernote plugin) | supported |
 | Wireless doc sharing(ZSync plugin) | supported |
+| OPDS catalog | supported, including the Calibre Content Server catalog |
+| Calibre Wireless connection | supported |
+| Reading Statistics | supported |
+| Screensaver | supported, bookcover or user supplied |
+| Progress Sync | supported |
