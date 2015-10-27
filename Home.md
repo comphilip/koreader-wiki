@@ -20,7 +20,7 @@ There are related discussion threads on the MobileRead Forums, one of the larges
 
 * [Koreader for PocketBook devices](http://www.mobileread.com/forums/showthread.php?t=254659) 
 
-For a more thorough division for different devices please take a look at [Snapshots of NiLuJe's hacks View Single Post](http://www.mobileread.com/forums/showpost.php?p=2658945&postcount=2). Here, for instance, you will find KOReader for non-touch Kindles among others too! (stemmed from stable releases not nightly)
+For a more thorough division for different devices please take a look at [Snapshots of NiLuJe's hacks View Single Post](http://www.mobileread.com/forums/showpost.php?p=2658945&postcount=2). Here, for instance, you will find KOReader for non-touch Kindles among others too! (weekly-ish builds, not tied to any stable/nightly tag)
 
 ## For Users
 
