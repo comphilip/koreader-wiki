@@ -2,6 +2,14 @@
 
 ## [Nightly builds](https://github.com/koreader/koreader/releases)
 
+
+
+================================================================
+
+## [Stable release](https://github.com/koreader/koreader/releases/tag/v2015.11-stable)
+* much better performance on some Android devices
+* support password protected zip/cbz documents
+* statistics plugin for EPUB documents
 * add progress synchronization plugin
 * dynamic reader menu and config panel
 * http proxy support by setting NETWORK_PROXY variable
@@ -17,17 +25,13 @@
 * add FONTDIR env variable to customize font directory
 * add stable OTA channel
 * add support for Kindle Voyage
-
-================================================================
-
-## [Stable release](https://github.com/koreader/koreader/releases/tag/v2014.11-stable)
 * add file name search in file manager
 * add fulltext search for EPUB/PDF documents
 * translation for Hungarian, Ukrainian and Korean.
 * history view in reader menu
 * add filemanager icon in reader menu
 * add OPDS catalog support in filemanager
-* add Calibre Companion plugin
+* add calibre wireless connection plugin
 * add Wifi toggler icon in reader menu
 * bookcover of specific document can be excluded as screensaver
 * customizable font size in reader footer
