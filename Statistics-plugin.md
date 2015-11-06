@@ -9,6 +9,7 @@ By default the plugin is enabled.
 
 For current book:
 * Current period of reading
+* Time to Read
 * Total time
 * Total highlights
 * Total notes
