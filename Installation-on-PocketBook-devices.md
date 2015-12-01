@@ -1,5 +1,5 @@
 ## Installation
-You need to obtain a recent PocketBook package from [this page] and unzip the archive into your computer storage. There will be two directories namely `applications` and `system` in the unzipped directory.
+You need to obtain a recent PocketBook package from [this page](https://github.com/koreader/koreader/releases) and unzip the archive into your computer storage. There will be two directories namely `applications` and `system` in the unzipped directory.
 
 1. Install KOReader in applications menu
   1. copy and merge the `applications` directory in the unzipped archive into your PocketBook's USB root directory
