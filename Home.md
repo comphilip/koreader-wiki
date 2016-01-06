@@ -14,13 +14,13 @@ KOReader is rewritten from kindlepdfviewer, which is originally built by [hawhil
 
 There are related discussion threads on the MobileRead Forums, one of the largest English language web forums for e-book reading/publishing:
 
-* [Koreader for Kindle devices](http://www.mobileread.com/forums/showthread.php?t=209276)
+* [KOReader for Kindle devices](http://www.mobileread.com/forums/showthread.php?t=209276)
 
-* [Koreader for Kobo devices](http://www.mobileread.com/forums/showthread.php?t=216960)
+* [KOReader for Kobo devices](http://www.mobileread.com/forums/showthread.php?t=216960)
 
-* [Koreader for PocketBook devices](http://www.mobileread.com/forums/showthread.php?t=254659) 
+* [KOReader for PocketBook devices](http://www.mobileread.com/forums/showthread.php?t=254659) 
 
-* [Koreader for Android devices](http://www.mobileread.com/forums/showthread.php?t=240617)  
+* [KOReader for Android devices](http://www.mobileread.com/forums/showthread.php?t=240617)  
 
 For a more thorough division for different devices please take a look at [NiLuJe's builds](http://www.mobileread.com/forums/showpost.php?p=2658945&postcount=2). Here, for instance, you will find KOReader for non-touch Kindles among others too! (weekly-ish builds, not tied to any stable/nightly tag. The device separation stems from the custom, highly device-specific toolchains used).
 
