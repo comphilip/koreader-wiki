@@ -13,7 +13,7 @@ PDF、DjVu、EPUB、XPS、CBZ、FB2、TXT、HTML、RTF、CHM、DOC、MOBI 和 ZI
 
 KOReader 基于 kindlepdfviewer 重写。kindlepdfviewer 项目由 [hawhill](http://www.mobileread.com/forums/member.php?u=86292) 在 [mupdf](http://www.mupdf.com/) 的基础上编写，已由全世界的黑客们共同维护了很长时间。
 
-在 [MobileRead 论坛](http://www.mobileread.com/) 上有不少相关讨论（MobileRead 是世界上最大的电子书阅读、发布英文论坛之一）：
+在 [MobileRead 论坛](http://www.mobileread.com/)上有不少相关讨论（MobileRead 是世界上最大的电子书阅读、发布英文论坛之一）：
 
 * [在 Kindle 上使用 KOReader](http://www.mobileread.com/forums/showthread.php?t=209276)
 * [在 Kobo 上使用 KOReader](http://www.mobileread.com/forums/showthread.php?t=216960)
