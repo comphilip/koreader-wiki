@@ -1,3 +1,5 @@
+(This page is deprecated. Please checkout the release note for each release for the change.)
+
 ================================================================
 ### koreader-nightly-20150318
 
