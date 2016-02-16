@@ -1,7 +1,7 @@
 ## 安装
 在安装KOReader之前，你需要安装KOReader的启动器。目前KPVBooklet和KUAL都支持启动KOReader，你可以任选一个安装或者两个都安装。
 
-  1. Kindle越狱, 请参考[这个帖子](http://www.mobileread.com/forums/showthread.php?t=198446).
+  1. Kindle越狱, 请参考[这个帖子](http://www.mobileread.com/forums/showthread.php?t=186645).
   1. 安装启动器
     * 安装KPVBooklet, 请参考[这个wiki页面](https://github.com/koreader/kpvbooklet/wiki).
     * 安装KUAL, 请参考[这个帖子](http://www.mobileread.com/forums/showthread.php?t=203326)
