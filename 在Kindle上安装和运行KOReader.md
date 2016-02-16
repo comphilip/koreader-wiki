@@ -6,7 +6,7 @@
     * 安装KPVBooklet, 请参考[这个wiki页面](https://github.com/koreader/kpvbooklet/wiki).
     * 安装KUAL, 请参考[这个帖子](http://www.mobileread.com/forums/showthread.php?t=203326)
   1. 安装KOreader
-    1. 到[测试版下载页面](https://github.com/koreader/koreader/releases)或[稳定版下载页面](https://github.com/koreader/koreader/releases/tag/v2014.04-stable)，选择名称为koreader-kindle-arm开头的压缩包下载。
+    1. 到[测试版下载页面](https://github.com/koreader/koreader/releases)或[稳定版下载页面](https://github.com/koreader/koreader/releases/tag/v2015.11-stable)，选择名称为koreader-kindle-arm开头的压缩包下载。
     1. 把下载的压缩包解压缩到Kindle磁盘根目录。
 
 ## 运行KOReader
