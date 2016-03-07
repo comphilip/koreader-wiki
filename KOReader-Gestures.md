@@ -1,4 +1,4 @@
-KOReader on Kindle Touch/PaperWhite supports various [multi-touch gestures](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
+KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
 
 ### Features that can be triggered by gestures:
 #### Page Up/Prev
@@ -7,15 +7,18 @@ KOReader on Kindle Touch/PaperWhite supports various [multi-touch gestures](http
 #### Page Down/Next
   * Single tap on the right (remaining three quarters of the screen)
 
-#### Display main menu/config Menu
+#### Display main menu/config menu
   * Single tap on the upper center of the screen
 
-#### Dismiss main/config Menu
+#### Dismiss main/config menu
   * Single tap outside of the menu frame
 
 #### Page turn in menus
   * Next page: swipe to the left
   * Previous page: swipe to the right
+
+#### Remove highlight
+  * Tap on the highlight you want to remove and select the Delete option from the pop-up menu
 
 #### Add/Remove bookmark on the current page
   * Single tap on the upper right corner
