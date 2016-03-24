@@ -8,7 +8,7 @@ In order to use dictionary lookup function, you first need to install one or mor
  *  `/sdcard/koreader/data/dict` directory for Android,
  *  `applications/koreader/data/dict` directory for Pocketbook.
 
-* some freely available dictionaries can be converted to the StarDict with [stardicter](http://blog.cihar.com/archives/2016/03/24/stardicter-09/)
+* some freely available dictionaries can be converted to the StarDict format with [stardicter](http://blog.cihar.com/archives/2016/03/24/stardicter-09/)
 
 KOReader has a build-in OCR engine for recognizing words in scanned PDF/DJVU pages. In order to use OCR in scanned page, you need to install tesseract trained data for your document language.
 
