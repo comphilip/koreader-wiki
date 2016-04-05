@@ -17,6 +17,9 @@ KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http
   * Next page: swipe to the left
   * Previous page: swipe to the right
 
+#### Add highlight
+  * Select the text you need to highlight with a long tap and select the Highlight option from the pop-up menu. It will be automatically added to the bookmarks list
+
 #### Remove highlight
   * Tap on the highlight you want to remove and select the Delete option from the pop-up menu
 
