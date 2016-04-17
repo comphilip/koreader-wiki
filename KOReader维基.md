@@ -45,7 +45,7 @@ KOReader 基于 kindlepdfviewer 重写。kindlepdfviewer 项目由 [hawhill](htt
 
 * [[Calibre 无线连接|Calibre-wireless-connection]]
 * [[印象笔记导出|Evernote-export]]
-* [[进度同步|Progress-sync]]
+* [[进度同步|进度同步]]
 * [[Zsync 传输|Zsync-transport]]
 * [[统计分析|Statistics-plugin]]
 
