@@ -12,5 +12,5 @@ In order to use dictionary lookup function, you first need to install one or mor
 
 KOReader has a build-in OCR engine for recognizing words in scanned PDF/DJVU pages. In order to use OCR in scanned page, you need to install tesseract trained data for your document language.
 
-* install [Tesseract language data](https://code.google.com/p/tesseract-ocr/downloads/list)
+* install [Tesseract language data](https://sourceforge.net/projects/tesseract-ocr-alt/files/)
     * copy language data files for Tesseract 3.02 (e.g. `eng.*` in `tesseract-ocr-3.02.eng.tar.gz` for English and `spa.*` in `tesseract-ocr-3.02.spa.tar.gz` for Spanish) into `koreader/data/tessdata`
