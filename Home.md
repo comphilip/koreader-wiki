@@ -67,6 +67,9 @@ For a more thorough division for different devices please take a look at [NiLuJe
 ## Known problems
 See our [issue tracker][issue-tracker].
 
+## Mailing list
+Join the KOReader [mailing list](https://www.freelists.org/list/koreader).
+
 ## Changelog
 * [[Changelog]]
 
