@@ -1,4 +1,4 @@
-With the `Zsync` plungin multiple Koreader devices in the same Wifi router can transfer documents between each other directly without bothering to copying document files via USB cable in another computer.
+With the `Zsync` plungin multiple Koreader devices in the same Wifi network can transfer documents between each other directly without bothering to copying document files via USB cable in another computer.
 
 [![Zsync plugin](https://github.com/koreader/koreader/wiki/screenshots/zsync_plugin_options.png)](https://github.com/koreader/koreader/wiki/screenshots/zsync_plugin_options.png)
 
