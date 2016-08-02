@@ -4,7 +4,7 @@ Single tap at the top left corner of the screen will bring you into page flippin
 ### 2. Bookmark browsing mode
 Long press at the top right corner of the screen will bring you into bookmark browsing mode in which swipe left and right will show last and next bookmarked pages respectively. Another long press at the top right corner will exit back to normal reading mode.
 
-### 3. Disabling AutoSuspend feature.
+### 3. Disabling AutoSuspend feature (Kobo only).
 To disable AutoSuspend (by default it will kick in after 60 minutes of inactivity) add this line to the file `settings.reader.lua` at the end of `return {...}`:
 
 ```
