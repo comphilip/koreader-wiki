@@ -11,7 +11,7 @@ To disable AutoSuspend (by default it will kick in after 60 minutes of inactivit
 ["auto_suspend_timeout_seconds"] = -1
 ```
 
-(adding a comma to the previous line, so the structure is maintained)
+adding a comma to the previous line, so the structure is maintained. If you want to have AutoSuspend feature, but prefer a different timeout, just set the value (in seconds) instead of `-1` above.
 
 ### 4. Setting default dictionary
 Single tap on the dictionary title will make current dictionary the default dictionary for this document.
