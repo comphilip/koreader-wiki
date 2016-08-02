@@ -4,8 +4,14 @@ Single tap at the top left corner of the screen will bring you into page flippin
 ### 2. Bookmark browsing mode
 Long press at the top right corner of the screen will bring you into bookmark browsing mode in which swipe left and right will show last and next bookmarked pages respectively. Another long press at the top right corner will exit back to normal reading mode.
 
-### 3. Quick Goto dialog
-Long press at the bottom progress bar will popup the Goto dialog instantly.
+### 3. Disabling AutoSuspend feature.
+To disable AutoSuspend (by default it will kick in after 60 minutes of inactivity) add this line to the file `settings.reader.lua` at the end of `return {...}`:
+
+```
+["auto_suspend_timeout_seconds"] = -1
+```
+
+(adding a comma to the previous line, so the structure is maintained)
 
 ### 4. Setting default dictionary
 Single tap on the dictionary title will make current dictionary the default dictionary for this document.
