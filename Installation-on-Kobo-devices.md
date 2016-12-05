@@ -21,3 +21,7 @@ __Older installation based on Filemonitor:__
 Selecting the KOReader icon in your home, you will be able to launch KOReader. Simple enough, isn't it? Just be sure to process the image properly (follow those steps carefully) if it's the first time you install KOReader, if you made a factory reset or if you deleted it in some way, otherwise you could end up launching KOReader automatically at every boot, being unable to exit it without a factory reset.
 
 When you update KOReader, it should be sufficient to extract the `koreader` folder, without `KoboRoot.tgz` — that one is needed to add the launcher.
+
+__Notes for Kobo Aura One install:__
+- After installing Kobo Start Menu (**normal version**, it will boot with very small text and icons on KA1), upload it to **KA1 version** (http://www.mobileread.com/forums/showpost.php?p=3389190&postcount=221)
+- Use either a stable version of KOReader **newer than v2015.11 excluded** or a nightly build of KOReader
