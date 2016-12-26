@@ -1,7 +1,7 @@
 <img align="right" src="https://github.com/koreader/koreader/raw/master/resources/koreader.png" height="256" width="256" />
 Welcome to **Kindle/Kobo Open Reader (KOReader)** WIKI!
 
-You can check out the latest download from the [[Download]] page.
+You can check out the latest download from the [[Download]] page, or [here](http://build.koreader.rocks/download/nightly/).
 
 WIKI in other languages:
 * [简体中文](wiki/KOReader维基)
