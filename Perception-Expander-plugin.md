@@ -1,0 +1,1 @@
+Based on that idea: [How to Triple Your Reading Speed in 20 Minutes (Tim Ferriss)](https://youtu.be/jeOHqI9SqOI?t=137) implemented the same approach (two vertical lines) for koreader. 
