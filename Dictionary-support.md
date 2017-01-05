@@ -7,6 +7,7 @@ In order to use the dictionary lookup function, you first need to install one or
     * `koreader/data/dict` directory for Kindle,
  *  `/sdcard/koreader/data/dict` directory for Android,
  *  `applications/koreader/data/dict` directory for Pocketbook.
+ *  `.adds/koreader/data/dict/` directory for Kobo.
 
 * some freely available dictionaries can be converted to the StarDict format with [stardicter](https://blog.cihar.com/archives/2016/10/11/stardicter-010/).
 
