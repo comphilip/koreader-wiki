@@ -1,3 +1,6 @@
+## Supported Devices
+Koreader can be installed on all Kindle devices; however, certain features are currently unavailable on non-touch devices such as the Kindle4 (NT) and earlier. See [Issue 1898](https://github.com/koreader/koreader/issues/1898).
+
 ## Installation
 Besides the reader itself, you will also need to install a launcher. For that purpose, you can use KPVBooklet or KUAL, or even both.
 
