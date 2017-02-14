@@ -1,10 +1,8 @@
-## Installation
-Installation instructions for Kobo:
-
+## Touch, Mini, Glo, Glo HD, Aura HD, H2O
 
 __Recommended installation based on Start Menu:__
-- Install **Kobo Start Menu** (http://www.mobileread.com/forums/showthread.php?t=266821)
-- Download either the latest stable version (https://github.com/koreader/koreader/releases/tag/v2015.11-stable) or one of the nightly builds of KOReader (https://github.com/koreader/koreader/releases)
+- Install [**Kobo Start Menu**](http://www.mobileread.com/forums/showthread.php?t=266821)
+- Download either the latest stable version (https://github.com/koreader/koreader/releases/tag/v2015.11-stable) or one of the nightly builds of KOReader (http://build.koreader.rocks/download/nightly)
 - Extract the `koreader` folder of the zip into the `.adds` directory of your device. You don't need `KoboRoot.tgz` or `koreader.png` unless you're using the older installation based on Filemonitor. (See below.) If you are using a version of KSM older than version 8, please extract to the `.kobo` folder instead.
 
 Now you should be able to select KOReader in the Kobo Start Menu.
@@ -22,6 +20,13 @@ Selecting the KOReader icon in your home, you will be able to launch KOReader. S
 
 When you update KOReader, it should be sufficient to extract the `koreader` folder, without `KoboRoot.tgz` — that one is needed to add the launcher.
 
-__Notes for Kobo Aura One install:__
-- After installing Kobo Start Menu (**normal version**, it will boot with very small text and icons on KA1), upload it to **KA1 version** (http://www.mobileread.com/forums/showpost.php?p=3389190&postcount=221)
-- Use either a stable version of KOReader **newer than v2015.11 excluded** or a nightly build of KOReader
+
+## Aura One, Aura Edition 2
+
+__Recommended installation based on Start Menu:__
+
+- After installing Kobo Start Menu ([**normal version**](http://www.mobileread.com/forums/showthread.php?t=266821), it will boot with very small text and icons on KA1)
+- Upgrade KSM to [**KA1 version**](http://www.mobileread.com/forums/showpost.php?p=3389190&postcount=221)
+- Use either a stable version of KOReader **newer than v2015.11 excluded** or a nightly build of KOReader. Extract the `koreader` folder of the zip into the `.adds` directory of your device. `KoboRoot.tgz` and `koreader.png` are not needed.
+
+Now you should be able to select KOReader in the Kobo Start Menu.
