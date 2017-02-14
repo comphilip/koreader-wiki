@@ -1,6 +1,6 @@
 ##### Table of Contents  
-Steps for [Touch, Mini, Glo, Glo HD, Aura HD, H2O](#older-model)  
-Steps for [Aura One, Aura Edition 2](#newer-model)  
+[Steps for Touch, Mini, Glo, Glo HD, Aura HD, H2O](#older-model)  
+[Steps for Aura One, Aura Edition 2](#newer-model)  
 
 <a name="older-model"/>
 ## Touch, Mini, Glo, Glo HD, Aura HD, H2O
@@ -26,7 +26,7 @@ Selecting the KOReader icon in your home, you will be able to launch KOReader. S
 When you update KOReader, it should be sufficient to extract the `koreader` folder, without `KoboRoot.tgz` — that one is needed to add the launcher.
 
 
-<a name="older-model"/>
+<a name="newer-model"/>
 ## Aura One, Aura Edition 2
 
 __Recommended installation based on Start Menu:__
