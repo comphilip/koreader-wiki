@@ -4,66 +4,59 @@
 
 [简体中文](wiki/KOReader维基)
 
-_KOReader is a document viewer for E-ink devices. Supported document formats include PDF, DjVu, XPS, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, EPUB, DOC, MOBI, and ZIP files. Latest Kindle and Kobo devices are supported._
+_KOReader is a document viewer for E-ink devices. Supported document formats include PDF, DjVu, XPS, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, EPUB, DOC, MOBI, and ZIP files. Latest Kindle and Kobo devices are supported. The original  software stays available to use after installation._
 
-* [[Features list]]
-* [[KOReader Screenshots]]
-* [Configuration](#configuration)
-* [Community](#community)
+* reflow of complex PDF's using `k2pdfopt`
+* Saving and exporting notes to files or Evernote 
+* Custom `.ttf` fonts and stardict dictionaries
+* Cloud storage and synchronization
+* Content providers: [Wikipedia](https://github.com/koreader/koreader/wiki/Wikipedia-support), [OPDS](https://github.com/koreader/koreader/wiki/OPDS-support) and Goodreads
 
-## Setup
+An extended survey can be found on [[Features list]] and [[KOReader Screenshots]] or jump directly to [Configuration](#configuration), [Community](#community).
 
-First-time setup depends on the device you are using. This device separation stems from the highly device-specific tool-chains used.
+## Getting started
 
-* [[Installation on Kindle devices]]
-* [[Installation on Kobo devices]]
-* [[Installation on PocketBook devices]]
+First-time users need to setup a way to launch KOReader. Choose your device brand and follow the model specific steps on one of the following pages: [Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices),  [Kobo](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices) or [Pocketbook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices). This brand-model separation stems from the highly device-specific tool-chains used. 
 
-## Installation 
+## Installation/Upgrading
 <a name="installation"/>
 
-Read [[Changelog]] or [Known problems][issue-tracker] first. Choose the KOReader build archive appropriate for your device from the following channels:
+Make sure that you have completed the preceding setup completely. Save the settings of any existing KOReader installation if necessary before upgrading. (Long pressing certain menu actions will save the program's defaults automatically to a separate file `defaults.persistent.lua`. See [[Change defaults]] for making manual changes.) 
 
-- [daily builds](http://build.koreader.rocks/download/nightly/): generated automatically, might contain severe bugs.
-- [unstable builds](https://github.com/koreader/koreader/releases): released every two months on average, having less bugs.
+### Using Wi-Fi
+
+Asuming you already installed KOReader succesfully. Enable Wi-Fi and connect to the internet. Use KOReader's top menu to check for a new version. You can to check for upgrades on predefined stable or nightly OTA channels.
+
+### Connected as a USB mass storage device
+
+Choose the KOReader build archive appropriate for your device from the following channels:
+
+- [nightly builds](http://koreader.ak-team.com/): generated automatically overnight. This builds sometimes contain severe bugs (tracked in [Known problems][issue-tracker]), but contain the latest daily patches.
+- [stable builds](https://github.com/koreader/koreader/releases): released every two months on average. Release notes are attached.
 - [custom builds](https://github.com/koreader/koreader#building-prerequisites): build it by yourself.
 
-Steps to install:
-
-1. Save the settings of an existing installation if necessary. (Long pressing certain menu actions will save the program's defaults automatically to a separate file `defaults.persistent.lua`.) 
-2. Unpack the downloaded archive in the right folder on your device to install/upgrade. 
+Unpack the downloaded archive in the right folder on your device (see device specific setup instructions for finding the correct path) to install/upgrade. 
 
 ## Configuration
 <a name="configuration"/>
 
-After starting up KOReader, all you need to do is navigate the file manager to a library folder and set it as default by long-pressing the file name. Touch gestures are explained in [[KOReader Gestures]]. The program is loaded with useful features and settings that can be adjusted to your needs:
+After starting up KOReader, all you need to do is navigate the file manager to a (hidden) library folder and set it as default by long-pressing the file name. Files with supported file extensions will show op in this file manager. Touch gestures for navigating the user interface are explained in [[KOReader Gestures]]. [[Tips and Tricks]] contains an overview of useful functions.
 
-### Features
 * [[Dictionary support]]
-* [[Wikipedia support]]
-* [[OPDS support]]
-* [[Troubleshooting]]
-
-### Plugins
 * [[Calibre wireless connection]]
 * [[Evernote export]]
 * [[Progress sync]]
 * [[Zsync transport]]
 * [[Statistics plugin]]
 
-### Advanced
-* [[Tips and Tricks]]
-* [[Change defaults]]
-* [[Reflowing tweaks]]
-
 ## Development community
 <a name="community"/>
 
 KOReader is rewrite of "kindlepdfviewer", which is originally built by [hawhill](http://www.mobileread.com/forums/member.php?u=86292) based on the [mupdf](http://www.mupdf.com/) source. Since then it has come a long way, based on requests and updates by hackers around the world. The name "KOReader stands for Kindle/Kobo Open Reader, the devices for which KOReader orginally was written. 
 
-> Some of the content on the WIKI might be out of date. You are welcome to make it better by opening an issue if you find any of the instructions unclear or confusing.
-
 ### Users
+
+> Some of the content on the WIKI might be out of date. You are welcome to make it better by opening an issue if you find any of the instructions unclear or confusing.
 
 You can open new issues on [Known problems][issue-tracker]. There are related discussion threads on the MobileRead Forums, one of the largest English language web forums for e-book reading/publishing:
 
