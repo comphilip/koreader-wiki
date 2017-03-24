@@ -7,12 +7,12 @@
 _KOReader is a document viewer for E-ink devices. Supported document formats include PDF, DjVu, XPS, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, EPUB, DOC, MOBI, and ZIP files. Latest Kindle and Kobo devices are supported. The original  software stays available to use after installation._
 
 * reflow of complex PDF's using `k2pdfopt`
-* Saving and exporting notes to files or Evernote 
-* Custom `.ttf` fonts and stardict dictionaries
-* Cloud storage and synchronization
-* Content providers: [Wikipedia](https://github.com/koreader/koreader/wiki/Wikipedia-support), [OPDS](https://github.com/koreader/koreader/wiki/OPDS-support) and Goodreads
+* saving and exporting notes to files or Evernote 
+* custom `.ttf` fonts and stardict dictionaries
+* cloud storage and synchronization
+* content providers: [Wikipedia](https://github.com/koreader/koreader/wiki/Wikipedia-support), [OPDS](https://github.com/koreader/koreader/wiki/OPDS-support) and Goodreads
 
-An extended survey can be found on [[Features list]] and [[KOReader Screenshots]] or jump directly to [Configuration](#configuration), [Community](#community).
+An extended survey can be found on [[Features list]] or jump directly to [Configuration](#configuration), [Community](#community).
 
 ## Getting started
 
@@ -31,7 +31,7 @@ Asuming you already installed KOReader succesfully. Enable Wi-Fi and connect to 
 
 Choose the KOReader build archive appropriate for your device from the following channels:
 
-- [nightly builds](http://koreader.ak-team.com/): generated automatically overnight. This builds sometimes contain severe bugs (tracked in [Known problems][issue-tracker]), but contain the latest daily patches.
+- [nightly builds](http://koreader.ak-team.com/): generated automatically overnight. This builds sometimes contain severe bugs (tracked in [issue tracker][issue-tracker]), but contain the latest daily patches.
 - [stable builds](https://github.com/koreader/koreader/releases): released every two months on average. Release notes are attached.
 - [custom builds](https://github.com/koreader/koreader#building-prerequisites): build it by yourself.
 
@@ -40,7 +40,7 @@ Unpack the downloaded archive in the right folder on your device (see device spe
 ## Configuration
 <a name="configuration"/>
 
-After starting up KOReader, all you need to do is navigate the file manager to a (hidden) library folder and set it as default by long-pressing the file name. Files with supported file extensions will show op in this file manager. Touch gestures for navigating the user interface are explained in [[KOReader Gestures]]. [[Tips and Tricks]] contains an overview of useful functions.
+After starting up KOReader, all you need to do is navigate the file manager to a (hidden) library folder and set it as default by long-pressing the file name. Files with supported file extensions will show op in this file manager. Touch gestures for navigating the user interface are explained in [gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures). Read more about less known [useful functions](https://github.com/koreader/koreader/wiki/Tips-and-Tricks).
 
 * [[Dictionary support]]
 * [[Calibre wireless connection]]
@@ -58,7 +58,7 @@ KOReader is rewrite of "kindlepdfviewer", which is originally built by [hawhill]
 
 > Some of the content on the WIKI might be out of date. You are welcome to make it better by opening an issue if you find any of the instructions unclear or confusing.
 
-You can open new issues on [Known problems][issue-tracker]. There are related discussion threads on the MobileRead Forums, one of the largest English language web forums for e-book reading/publishing:
+You can open new issues on the [issue tracker][issue-tracker]. There are related discussion threads on the MobileRead Forums, one of the largest English language web forums for e-book reading/publishing:
 
 * [KOReader Forum](http://www.mobileread.com/forums/forumdisplay.php?f=276)
 * [KOReader for Kindle devices](http://www.mobileread.com/forums/showthread.php?t=209276)
