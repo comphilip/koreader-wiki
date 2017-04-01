@@ -3,6 +3,7 @@
 [Steps for Aura One, Aura Edition 2](#newer-model)  
 
 <a name="older-model"/>
+
 ## Touch, Mini, Glo, Glo HD, Aura HD, H2O
 
 __Recommended installation based on Start Menu:__
@@ -27,6 +28,7 @@ When you update KOReader, it should be sufficient to extract the `koreader` fold
 
 
 <a name="newer-model"/>
+
 ## Aura One, Aura Edition 2
 
 __Recommended installation based on Start Menu:__
