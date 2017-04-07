@@ -5,8 +5,6 @@
 * [Installation-on-Kobo-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
 * [Installation-on-PocketBook-devices](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
 
---------------------------------
-
 # Features
 
 * [Features list](https://github.com/koreader/koreader/wiki/Features-list)
