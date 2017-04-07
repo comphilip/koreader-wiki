@@ -1,6 +1,7 @@
 # Installation
 
 * [Download](https://github.com/koreader/koreader/wiki/Download)
+* [Getting started](https://github.com/koreader/koreader/wiki/Getting-Started)
 * [Installation-on-Kindle-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
 * [Installation-on-Kobo-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
 * [Installation-on-PocketBook-devices](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
@@ -8,9 +9,6 @@
 # Features
 
 * [Features list](https://github.com/koreader/koreader/wiki/Features-list)
-
---------------------------------
-
 * [Calibre wireless connection](https://github.com/koreader/koreader/wiki/Calibre-wireless-connection)
 * [Dictionary support](https://github.com/koreader/koreader/wiki/Dictionary-support)
 * [Evernote export](https://github.com/koreader/koreader/wiki/Evernote-export)
