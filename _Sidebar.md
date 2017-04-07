@@ -1,5 +1,13 @@
+# Installation
+
+* [Download](https://github.com/koreader/koreader/wiki/Download)
+* [Installation-on-Kindle-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
+* [Installation-on-Kobo-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
+* [Installation-on-PocketBook-devices](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
+
+--------------------------------
+
 * [Features](https://github.com/koreader/koreader/wiki/Features-list)
-* [Installation](https://github.com/koreader/koreader/wiki/Download)
 * [Plugins](https://github.com/koreader/koreader/wiki/Statistics-plugin)
 
 --------------------------------
