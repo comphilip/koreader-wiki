@@ -7,7 +7,23 @@
 
 --------------------------------
 
-* [Features](https://github.com/koreader/koreader/wiki/Features-list)
+# Features
+
+* [Features list](https://github.com/koreader/koreader/wiki/Features-list)
+* [Calibre wireless connection](https://github.com/koreader/koreader/wiki/Calibre-wireless-connection)
+* [Dictionary support](https://github.com/koreader/koreader/wiki/Dictionary-support)
+* [Evernote export](https://github.com/koreader/koreader/wiki/Evernote-export)
+* [KOReader-Gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures)
+* [KOReader-Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
+* [OPDS-support](https://github.com/koreader/koreader/wiki/OPDS-support)
+* [Progress-sync](https://github.com/koreader/koreader/wiki/Progress-sync)
+* [Reflowing-tweaks](https://github.com/koreader/koreader/wiki/Reflowing-tweaks)
+* [Tips-and-Tricks](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
+* [Wikipedia-support](https://github.com/koreader/koreader/wiki/Wikipedia-support)
+* [Zsync-transport](https://github.com/koreader/koreader/wiki/Zsync-transport)
+
+--------------------------------
+
 * [Plugins](https://github.com/koreader/koreader/wiki/Statistics-plugin)
 
 --------------------------------
