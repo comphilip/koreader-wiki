@@ -73,16 +73,13 @@ Contribute by writing code.
 
 * [[How to Start|Development-Guide]]
 * [Coding Style][coding_style]
-* [[UI Design|UIDesign]]
+* [[UI Events|http://koreader.rocks/doc/topics/Events.md.html]]
 * [How to collaborate with Git](https://github.com/koreader/koreader-base/wiki/CollaboratingWithGit)
-* [Bug Hunting in Koreader-base][bug-hunt-base]
 * [Remote debugging with gdbserver](https://github.com/koreader/koreader-base/wiki/Remote-debugging-with-gdbserver)
-* [How to port KOReader to other platform][porting]
+* [How to port KOReader to other platform][http://koreader.rocks/doc/topics/Porting.md.html]
 
 
 
 [coding_style]:https://github.com/koreader/koreader-base/wiki/Coding-style
 [nightly build script]:https://gist.github.com/4002028
 [issue-tracker]:https://github.com/koreader/koreader/issues?state=open
-[bug-hunt-base]:https://github.com/koreader/koreader-base/wiki/Bug-hunting-in-koreader-base
-[porting]:https://github.com/koreader/koreader/wiki/porting
