@@ -74,7 +74,7 @@ Contribute by writing code.
 * [[Start by building the emulator|https://github.com/koreader/koreader#building-prerequisites]]
 * [Coding Style][coding_style]
 * [[UI Events|http://koreader.rocks/doc/topics/Events.md.html]]
-* [How to collaborate with Git](http://koreader.rocks/doc/topics/Collaborating%20with%20Git.md.html)
+* [How to collaborate with Git](http://koreader.rocks/doc/topics/Collaborating.html)
 * [Remote debugging with gdbserver](https://github.com/koreader/koreader-base/wiki/Remote-debugging-with-gdbserver)
 * [How to port KOReader to other platform](http://koreader.rocks/doc/topics/Porting.md.html)
 
