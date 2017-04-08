@@ -1,7 +1,9 @@
-### 1. Page flipping mode (only for PDF)
-A single tap in the top left corner of the screen will enable page flipping mode. This is indicated by an icon of an open book. In page flipping mode panning (moving your finger tip on the screen slowly) horizontally will flip page with steps 1, 2, 5, 10, 20, 50 and 100 according to the panning distance, and panning vertically will flip page with proportionally ( proportion to the whole page number according to the panning distance proportion to the whole screen height). Swipe right will bring you back to the original page where you entered the page flipping mode. (In order to flip pages in flipping mode, we must first set the zoom mode to "Zoom to fit page". Note that the zoom mode set in flipping mode does not affect zoom mode in regular reading.)
+### 1. Page flipping mode (only for PDF and DjVu)
+A single tap in the top left corner of the screen will enable page flipping mode. This is indicated by an icon of an open book. In page flipping mode panning (moving your finger tip on the screen slowly) horizontally will flip pages with steps 1, 2, 5, 10, 20, 50 and 100 according to the panning distance, and panning vertically will flip pages proportionally (proportion to the whole page number according to the panning distance proportion to the whole screen height).
 
-### 2. Bookmark browsing mode
+Swipe right will bring you back to the original page where you entered the page flipping mode. (In order to flip pages in flipping mode, we must first set the zoom mode to "Zoom to fit page". Note that the zoom mode set in flipping mode does not affect zoom mode in regular reading.)
+
+### 2. Bookmark browsing mode (only for PDF and DjVu)
 Long press at the top right corner of the screen will bring you into bookmark browsing mode in which swipe left and right will show last and next bookmarked pages respectively. Another long press at the top right corner will exit back to normal reading mode.
 
 ### 3. Disabling AutoSuspend feature (Kobo only).
