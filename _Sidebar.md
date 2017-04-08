@@ -1,5 +1,6 @@
-# Installation
+# [Installation](https://github.com/koreader/koreader/wiki#installationupgrading)
 
+* [Changelog](https://github.com/koreader/koreader/wiki/Changelog)
 * [Download](https://github.com/koreader/koreader/wiki/Download)
 * [Installation-on-Kindle-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
 * [Installation-on-Kobo-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
@@ -9,8 +10,8 @@
 * [Change defaults](https://github.com/koreader/koreader/wiki/Change-defaults)
 * [Getting started](https://github.com/koreader/koreader/wiki/Getting-Started)
 * [Gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures)
-* [Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
 * [Reflowing tweaks](https://github.com/koreader/koreader/wiki/Reflowing-tweaks)
+* [Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
 * [Troubleshooting](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
 
 # Features
