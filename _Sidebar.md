@@ -9,6 +9,7 @@
 # Features
 
 * [Features list](https://github.com/koreader/koreader/wiki/Features-list)
+* [Change defaults](https://github.com/koreader/koreader/wiki/Change-defaults)
 * [Calibre wireless connection](https://github.com/koreader/koreader/wiki/Calibre-wireless-connection)
 * [Dictionary support](https://github.com/koreader/koreader/wiki/Dictionary-support)
 * [Evernote export](https://github.com/koreader/koreader/wiki/Evernote-export)
