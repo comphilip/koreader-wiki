@@ -15,6 +15,6 @@ In the file browser, you can tap on any file to open it. Long press on any file 
 
 At `/mnt/` you should see `onboard/`, `sd/`, and `user/`.  The `sd/` is the external uSD card. Once you have found the folder you have your books listed in, you can long press the selection that opens that folder and you should see a message box popup with the option to **Set as HOME directory**.
 
-KOReader lets you use a library structure of files of your choosing.  You can make one all your own, or let calibre create one on your device. (Kobo users should note that any files that the stock software can read will get processed if it is not inside a "hidden" folder.  A hidden folder is one named with a dot/period in front, .library might be a good name for a hidden folder.) Calibre can use a folder as a device, including a hidden folder, and put its file structure there.
+KOReader lets you use a library structure of files of your choosing.  You can make one all your own, or let calibre create one on your device. (Kobo users should note that any files that the stock software can read will get processed if it is not inside a "hidden" folder.  A hidden folder is one named with a dot/period in front, `.library` or `.books` might be good names for a hidden folder.) Calibre can use a folder as a device, including a hidden folder, and put its file structure there.
 
 Having found or created a library of documents or ebooks, you can start reading. 
