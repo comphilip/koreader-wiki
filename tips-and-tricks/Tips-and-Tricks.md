@@ -22,13 +22,13 @@ Single tap on the dictionary title will make current dictionary the default dict
 Single tap on the mini progress bar will switch between various modes thereof. You can also use "Status bar" menu to show all this info at once. Long touch on the progress bar will invoke the "Goto page" dialog.
 
 ### 6. Flipped landscape screen orientation
-Tap on the "landscape" option in screen mode panel of reader config window when the screen is already in landscape mode will flip the landscape screen with 180 degrees.
+A tap on the "landscape" option in screen mode panel of the reader config window when the screen is already in landscape mode will flip the landscape screen by 180 degrees.
 
 ### 7. Quick go back from link
 After following links in both EPUB and PDF documents, you can easily go back to the original page by executing a swipe from left to right.
 
 ### 8. Lookup new words in dictionary window
-Long press on the word title (the red box in the following screenshot) in dictionary window will popup a inputbox in which you can input new words to lookup in dictionaries or the Wikipedia.
+A long press on the word title (the red box in the following screenshot) in the dictionary window will popup an inputbox in which you can enter new words to lookup in dictionaries or on Wikipedia.
 
 [![Input new word in dict](https://github.com/koreader/koreader/wiki/screenshots/dictionary_input_new_word.png)](https://github.com/koreader/koreader/wiki/screenshots/dictionary_input_new_word.png)
 
