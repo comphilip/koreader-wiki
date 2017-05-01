@@ -6,7 +6,7 @@ Get a copy of Notepad++, it makes reading script files and others much easier. h
 
 KOReader tries to take advantage of the features of the different platforms it runs on. So, there may be some slight differences in how it works, on the different devices. This is written by someone using KOReader primarily on a Kobo device and sometimes on an Android tablet. 
  
-Tapping the top of the screen gives you access to the menus. This is true both in the File Browser and in the Reader. The options available in the reader menu will depend of the type of file you are reading.
+Swiping down from the top of the screen gives you access to the menus. This is true both in the File Browser and in the Reader. The options available in the reader menu will depend of the type of file you are reading.
  
  
 As installed, KOReader opens in the home directory of its "File Manager" , which initially is at `/mnt/onboard/`, fine.., if that is where your ebooks are kept, but there are good reasons to have them elsewhere, (especially for Kobo device users). So, the first thing to figure out is how to navigate the File Manager pages.  (You might want to access the menus and tap the "Show hidden files" option, it should put a checkmark in front of the option.) Now you can look at all the file structure, but it will only show document or ebook files that KOReader can read. 
