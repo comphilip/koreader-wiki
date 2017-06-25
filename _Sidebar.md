@@ -39,4 +39,3 @@
   * [更改默认设置](https://github.com/koreader/koreader/wiki/更改默认设置)
   * [更新日志](https://github.com/koreader/koreader/wiki/更新日志)
   * [进度同步](https://github.com/koreader/koreader/wiki/进度同步)
-  * [进步同步](https://github.com/koreader/koreader/wiki/进步同步)
