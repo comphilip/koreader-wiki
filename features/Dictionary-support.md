@@ -6,10 +6,10 @@ A list of freely available dictionaries can be found [here](https://tuxor1337.gi
 [![Dictionary lookup](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)
 
 * install Stardict dictionary - copy the directory containing the StarDict format dictionary files (`*.idx`, `*.ifo`, `*.dict`) into :
-    * `koreader/data/dict` directory for Kindle,
- *  `/sdcard/koreader/data/dict` directory for Android,
- *  `applications/koreader/data/dict` directory for Pocketbook.
- *  `.adds/koreader/data/dict/` directory for Kobo.
+  *  `/sdcard/koreader/data/dict` directory for Android
+  * `koreader/data/dict` directory for Kindle
+  *  `.adds/koreader/data/dict/` directory for Kobo
+  *  `applications/koreader/data/dict` directory for Pocketbook
 
 * some freely available dictionaries can be converted to the StarDict format with [stardicter](https://blog.cihar.com/archives/2016/10/11/stardicter-010/).
 
