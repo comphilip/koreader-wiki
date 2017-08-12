@@ -1,6 +1,8 @@
 KOReader supports dictionary lookup in EPUB and even in scanned PDF/DJVU documents.
 In order to use the dictionary lookup function, you first need to install one or more dictionaries in the StarDict format.
 
+A list of freely available dictionaries can be found [here](https://tuxor1337.github.io/firedict/dictionaries.html).
+
 [![Dictionary lookup](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)
 
 * install Stardict dictionary - copy the directory containing the StarDict format dictionary files (`*.idx`, `*.ifo`, `*.dict`) into :
