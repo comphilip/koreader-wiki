@@ -11,7 +11,7 @@ A list of freely available dictionaries can be found [here](https://tuxor1337.gi
   *  `.adds/koreader/data/dict/` directory for Kobo
   *  `applications/koreader/data/dict` directory for Pocketbook
 
-* some freely available dictionaries can be converted to the StarDict format with [stardicter](https://blog.cihar.com/archives/2016/10/11/stardicter-010/).
+* some freely available dictionaries can be converted to the StarDict format with [stardicter](https://blog.cihar.com/archives/2017/01/27/stardicter-011/).
 
 KOReader has a build-in OCR engine for recognizing words in scanned PDF/DJVU pages. In order to use OCR in scanned page, you need to install tesseract trained data for your document language.
 
