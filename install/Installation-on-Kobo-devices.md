@@ -1,6 +1,6 @@
 ##### Table of Contents  
-[Steps for Touch, Mini, Glo, Glo HD, Aura HD](#older-model)  
-[Steps for Aura One, Aura Edition 2, H2O2](#newer-model)  
+[Steps for Touch, Mini, Glo, Glo HD, Aura HD, H2O](#older-model)  
+[Steps for Aura One, Aura Edition 2](#newer-model)  
 
 <a name="older-model"/>
 
