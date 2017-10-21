@@ -8,7 +8,7 @@ Obtaining source code, required build tools etc are described in [readme](https:
 ## Build x86 apk file:
 `ANDROID_ARCH=x86 ./kodev build/release/run android`
 
-Don't forget to `./mk-luajit.sh clean` in luajit-launcher when changing architectures.
+Don't forget to `cd platform/android/luajit-launcher && ./mk-luajit.sh clean` when changing architectures.
 
 More info: https://github.com/koreader/koreader/pull/3353
 
