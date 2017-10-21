@@ -6,6 +6,9 @@
 * [Installation-on-Kobo-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
 * [Installation-on-PocketBook-devices](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
 
+# [Development](https://github.com/koreader/koreader/wiki#hackers)
+* [Development and Debugging on Android](https://github.com/koreader/koreader/wiki/Development-and-Debugging-on-Android)
+
 # [Tips and Tricks](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
 * [Change defaults](https://github.com/koreader/koreader/wiki/Change-defaults)
 * [Getting started](https://github.com/koreader/koreader/wiki/Getting-Started)
@@ -13,7 +16,6 @@
 * [Reflowing tweaks](https://github.com/koreader/koreader/wiki/Reflowing-tweaks)
 * [Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
 * [Troubleshooting](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
-* [Development and Debbugging on Android](https://github.com/koreader/koreader/wiki/Development-and-Debugging-on-Android)
 
 # Features
 
