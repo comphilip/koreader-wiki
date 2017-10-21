@@ -22,7 +22,13 @@ Don't forget to `cd platform/android/luajit-launcher && ./mk-luajit.sh clean` wh
 More info: https://github.com/koreader/koreader/pull/3353
 
 # Start emulator:
-`emulator -avd {avd_name}`
+```
+emulator -avd {avd_name}
+```
+If the emulator won't start on your system, try preloading the relevant libstdc++ for your system:
+```
+LD_PRELOAD='/usr/$LIB/libstdc++.so.6' emulator -avd Nexus_5X_API_23
+```
 
 
 # Install generated apk on device:
