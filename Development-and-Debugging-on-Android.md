@@ -15,6 +15,13 @@ Don't forget to `cd platform/android/luajit-launcher && ./mk-luajit.sh clean` wh
 
 More info: https://github.com/koreader/koreader/pull/3353
 
+# Start emulator:
+`emulator -avd {avd_name}`
+
+
+# Install generated apk on device:
+`adb install koreader-android-arm-linux-androideabi-{verison_id}.apk`
+
 
 # Display logs
 `./kodev log android`
