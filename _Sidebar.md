@@ -13,6 +13,7 @@
 * [Reflowing tweaks](https://github.com/koreader/koreader/wiki/Reflowing-tweaks)
 * [Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
 * [Troubleshooting](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
+* [Development and Debbugging on Android](https://github.com/koreader/koreader/wiki/Development-and-Debugging-on-Android)
 
 # Features
 
