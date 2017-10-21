@@ -5,6 +5,12 @@ Obtaining source code, required build tools etc are described in [readme](https:
 * [getting-the-source](https://github.com/koreader/koreader/blob/master/README.md#getting-the-source)
 * [for-android-devices](https://github.com/koreader/koreader/blob/master/README.md#for-android-devices)
 
+## setup Android paths:
+add `emulator` path to your paths (to start AVD without Android Studio):
+> export PATH=$PATH:'~/Android/Sdk/tools' ; 
+
+`~/Android/Sdk/tools` that's default path to `emulator` (from Android Studio)
+
 ## Build arm apk file:
 `./kodev release android`
 
@@ -22,10 +28,18 @@ More info: https://github.com/koreader/koreader/pull/3353
 # Install generated apk on device:
 `adb install koreader-android-arm-linux-androideabi-{verison_id}.apk`
 
+Note: You need to have adb in system path (In ubuntu `sudo apt install android-tools-adb`.)
+Emulator has to be the same architecture (ARM Koreader on ARM AVD) otherwise you will get error here complaining about inconsistent architecture.
 
 # Display logs
 `./kodev log android`
 or to see all android logs:
 `adb logcat`
 
+# Debugging
 
+TODO : can anyone help here?
+
+# References:
+https://github.com/koreader/koreader/issues/3148#issuecomment-330079180
+https://github.com/koreader/koreader/blob/master/README.md
