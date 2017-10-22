@@ -32,7 +32,11 @@ LD_PRELOAD='/usr/$LIB/libstdc++.so.6' emulator -avd Nexus_5X_API_23
 
 
 # Install generated apk on device:
-`adb install koreader-android-arm-linux-androideabi-{verison_id}.apk`
+`./kodev run android` will automatically take care of it for you, but besides installing the APK through the usual means (e.g., dragging it onto the emulator, copying it over to the device and manually installing it) you can also run ADB yourself:
+
+```
+adb install koreader-android-arm-linux-androideabi-{verison_id}.apk
+```
 
 Note: You need to have adb in system path (In ubuntu `sudo apt install android-tools-adb`.)
 Emulator has to be the same architecture (ARM Koreader on ARM AVD) otherwise you will get error here complaining about inconsistent architecture.
