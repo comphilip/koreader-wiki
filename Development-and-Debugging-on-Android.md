@@ -51,5 +51,6 @@ or to see all android logs:
 TODO : can anyone help here?
 
 # References:
-https://github.com/koreader/koreader/issues/3148#issuecomment-330079180
-https://github.com/koreader/koreader/blob/master/README.md
+* https://github.com/koreader/koreader/issues/3148#issuecomment-330079180
+* https://github.com/koreader/koreader/blob/master/README.md
+* https://github.com/koreader/koreader/issues/3385
