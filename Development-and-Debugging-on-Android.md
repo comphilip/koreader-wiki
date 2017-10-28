@@ -55,6 +55,24 @@ or to see all android logs:
 
 TODO : can anyone help here?
 
+# Android Background
+
+## API levels
+
+We try to maintain compatibility with API level 9.
+
+Android version | API level
+--- | ---
+Android 8.0 | 26
+Android 6.0 | 23
+Android 5.0 | 21
+Android 4.1 | 16
+Android 4.0.3, 4.0.4| 15
+Android 4.0, 4.0.1, 4.0.2 | 14
+Android 2.3 | 9
+
+https://developer.android.com/guide/topics/manifest/uses-sdk-element.html#ApiLevels
+
 # References:
 * https://github.com/koreader/koreader/issues/3148#issuecomment-330079180
 * https://github.com/koreader/koreader/blob/master/README.md
