@@ -15,7 +15,9 @@ add `emulator` path to your paths (to start AVD without Android Studio):
 `./kodev release android`
 
 ## Build x86 apk file:
-`ANDROID_ARCH=x86 ./kodev build/release/run android`
+`ANDROID_ARCH=x86 ./kodev build android`
+`ANDROID_ARCH=x86 ./kodev release android`
+`ANDROID_ARCH=x86 ./kodev run android`
 
 Don't forget to `cd platform/android/luajit-launcher && ./mk-luajit.sh clean && cd -` when changing architectures.
 
