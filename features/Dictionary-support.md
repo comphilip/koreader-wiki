@@ -5,13 +5,13 @@ A list of freely available dictionaries can be found [here](https://tuxor1337.gi
 
 [![Dictionary lookup](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)
 
-* install Stardict dictionary - copy the directory containing the StarDict format dictionary files (`*.idx`, `*.ifo`, `*.dict`) into :
+* install Stardict dictionary - copy the directory containing the StarDict format dictionary files (`*.idx`, `*.ifo` or `*.ifo.gz`, `*.dict` or `*.dict.dz`) into :
   *  `/sdcard/koreader/data/dict` directory for Android
   * `koreader/data/dict` directory for Kindle
   *  `.adds/koreader/data/dict/` directory for Kobo
   *  `applications/koreader/data/dict` directory for Pocketbook
 
-* some freely available dictionaries can be converted to the StarDict format with [stardicter](https://blog.cihar.com/archives/2017/01/27/stardicter-011/).
+* some freely available dictionaries can be converted to the StarDict format with [stardicter](https://blog.cihar.com/archives/2017/01/27/stardicter-011/). See also [wiktionary-to-stardict](https://gitlab.com/artefact2/wiktionary-to-stardict).
 
 KOReader has a build-in OCR engine for recognizing words in scanned PDF/DJVU pages. In order to use OCR in scanned page, you need to install tesseract trained data for your document language.
 
