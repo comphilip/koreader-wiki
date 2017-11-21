@@ -1,20 +1,22 @@
 KOReader supports dictionary lookup in EPUB and even in scanned PDF/DJVU documents.
 
-In order to use the dictionary lookup function, you first need to install one or more dictionaries in the [StarDict](https://en.wikipedia.org/wiki/StarDict) format. A list of freely available dictionaries can be found on the [Firedict site](https://tuxor1337.github.io/firedict/dictionaries.html). ([Firedict](https://tuxor1337.github.io/firedict/) "is a simple offline dictionary software for Firefox OS with support for the StarDict format.")
-
 [![Dictionary lookup](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)
 
-* install Stardict dictionary - copy the directory containing the StarDict format dictionary files (`*.idx`, `*.ifo` or `*.ifo.gz`, `*.dict` or `*.dict.dz`) into :
+In order to use the dictionary lookup function, you first need to install one or more dictionaries in the [StarDict](https://en.wikipedia.org/wiki/StarDict) format. A list of freely available dictionaries can be found on the [Firedict site](https://tuxor1337.github.io/firedict/dictionaries.html). ([Firedict](https://tuxor1337.github.io/firedict/) "is a simple offline dictionary software for Firefox OS with support for the StarDict format.")
+
+The dictionaries need to be installed into one of those directories:
   *  `/sdcard/koreader/data/dict` directory for Android
   * `koreader/data/dict` directory for Kindle
   *  `.adds/koreader/data/dict/` directory for Kobo
   *  `applications/koreader/data/dict` directory for Pocketbook
 
+The StarDict format dictionary files have suffixes `*.idx`, `*.ifo` or `*.ifo.gz`, `*.dict` or `*.dict.dz`.
+
+### Converting from other sources
+
 Some freely available dictionaries can be converted to the StarDict format with [stardicter](https://blog.cihar.com/archives/2017/01/27/stardicter-011/). See also [wiktionary-to-stardict](https://gitlab.com/artefact2/wiktionary-to-stardict).
 
-### Reusing DICT files
-
-You can also use `DICT` files used by the [standard dictd daemon](https://manpages.debian.org/dictd) and the related [dict packages](https://packages.debian.org/search?keywords=dict-) that contain `.dict` files. Those files can be converted to `stardict` format using the `/usr/lib/stardict-tools/dictd2dic` command provided in the `stardict-tools` package, although it seems to fail to create the necessary metadata files like the `.ifo` file.
+You may also be able to use `DICT` files used by the [standard dictd daemon](https://manpages.debian.org/dictd) and the related [dict packages](https://packages.debian.org/search?keywords=dict-) that contain `.dict` files. Those files can be converted to `stardict` format using the `/usr/lib/stardict-tools/dictd2dic` command provided in the `stardict-tools` package, although it seems to fail to create the necessary metadata files like the `.ifo` file.
 
 ### Dictionary lookups in scanned pages
 
