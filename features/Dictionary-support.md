@@ -14,7 +14,7 @@ Some freely available dictionaries can be converted to the StarDict format with 
 
 ### Reusing DICT files
 
-You can also use `DICT` files used by the [standard dictd daemon](https://manpages.debian.org/dictd) and the related [dict packages](https://packages.debian.org/search?keywords=dict-) that contain `.dict` files. Those files can be converted to `stardict` format 
+You can also use `DICT` files used by the [standard dictd daemon](https://manpages.debian.org/dictd) and the related [dict packages](https://packages.debian.org/search?keywords=dict-) that contain `.dict` files. Those files can be converted to `stardict` format using the `/usr/lib/stardict-tools/dictd2dic` command provided in the `stardict-tools` package, although it seems to fail to create the necessary metadata files like the `.ifo` file.
 
 ### Dictionary lookups in scanned pages
 
