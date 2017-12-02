@@ -46,3 +46,6 @@ KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http
 
 #### Manual screen refresh
   * Swipe diagonally
+
+#### Frontlight control
+  * Slide down/up with two fingers at the same time on multi-touch devices
