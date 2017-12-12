@@ -25,7 +25,7 @@ Make sure that you have completed the preceding setup completely. Save the setti
 
 ### Using Wi-Fi
 
-Asuming you already installed KOReader succesfully. Enable Wi-Fi and connect to the internet. Use KOReader's top menu to check for a new version. You can to check for upgrades on predefined stable or nightly OTA channels.
+Assuming you already installed KOReader successfully. Enable Wi-Fi and connect to the internet. Use KOReader's top menu to check for a new version. You can to check for upgrades on predefined stable or nightly OTA channels.
 
 ### Connected as a USB mass storage device
 
@@ -52,7 +52,7 @@ After starting up KOReader, all you need to do is navigate the file manager to a
 ## Development community
 <a name="community"/>
 
-KOReader is rewrite of "kindlepdfviewer", which is originally built by [hawhill](http://www.mobileread.com/forums/member.php?u=86292) based on the [mupdf](http://www.mupdf.com/) source. Since then it has come a long way, based on requests and updates by hackers around the world. The name "KOReader stands for Kindle/Kobo Open Reader, the devices for which KOReader orginally was written. 
+KOReader is rewrite of "kindlepdfviewer", which is originally built by [hawhill](http://www.mobileread.com/forums/member.php?u=86292) based on the [mupdf](http://www.mupdf.com/) source. Since then it has come a long way, based on requests and updates by hackers around the world. The name "KOReader stands for Kindle/Kobo Open Reader, the devices for which KOReader originally was written. 
 
 ### Users
 
