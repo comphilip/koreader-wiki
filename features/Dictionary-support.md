@@ -1,4 +1,5 @@
 KOReader supports dictionary lookup in EPUB and even in scanned PDF/DJVU documents.
+All you need to do is hold on a word, or hold and drag to select a phrase.
 
 [![Dictionary lookup](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)](https://github.com/koreader/koreader/wiki/screenshots/dictionary_lookup.png)
 
