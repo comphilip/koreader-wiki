@@ -6,15 +6,15 @@ Besides the reader itself, you will also need to install a launcher. For that pu
 
   1. Jailbreak your Kindle, refer to [this post](http://www.mobileread.com/forums/showthread.php?t=186645).
   1. Install a launcher
-    * Install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki).
-    * Install KUAL, refer to [the official thread](http://www.mobileread.com/forums/showthread.php?t=203326)
+      * Install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki).
+      * Install KUAL, refer to [the official thread](http://www.mobileread.com/forums/showthread.php?t=203326)
   1. Install KOReader
-    1. Download the latest Kindle package from [this page](https://github.com/koreader/koreader/wiki/Download).
-    1. Unzip the whole archive into the Kindle's USB root directory
+      1. Download the latest Kindle package from [this page](https://github.com/koreader/koreader/wiki/Download).
+      1. Unzip the whole archive into the Kindle's USB root directory
   1. Install Stardict dictionaries (optional)
-    * Copy Stardict format dictionary files (*.idx, *.ifo, *.dict) into the koreader/data/dict directory.
+      * Copy Stardict format dictionary files (*.idx, *.ifo, *.dict) into the koreader/data/dict directory.
   1. Install Tesseract language data (optional)
-    * Copy Tesseract-OCR language data files (eng.*) for Tesseract 3.02 into the koreader/data/tessdata directory.
+      * Copy Tesseract-OCR language data files (eng.*) for Tesseract 3.02 into the koreader/data/tessdata directory.
 
 ## Launching
 ### via KPV Booklet
