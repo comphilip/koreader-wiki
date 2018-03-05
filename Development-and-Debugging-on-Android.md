@@ -40,7 +40,7 @@ LD_PRELOAD='/usr/$LIB/libstdc++.so.6' emulator -avd Nexus_5X_API_23
 `./kodev run android` will automatically take care of it for you, but besides installing the APK through the usual means (e.g., dragging it onto the emulator, copying it over to the device and manually installing it) you can also run ADB yourself:
 
 ```
-adb install koreader-android-arm-linux-androideabi-{verison_id}.apk
+adb install koreader-android-arm-linux-androideabi-{version_id}.apk
 ```
 
 Note: You need to have adb in system path (In ubuntu `sudo apt install android-tools-adb`.)
@@ -54,6 +54,11 @@ or to see all android logs:
 # Debugging
 
 TODO : can anyone help here?
+
+Without a rooted device you can't browse around in /data but you can execute commands like this:
+```
+adb exec-out run-as org.koreader.launcher ls /data/user/0/org.koreader.launcher/files/
+```
 
 # Android Background
 
