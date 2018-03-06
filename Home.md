@@ -31,7 +31,7 @@ Assuming you already installed KOReader successfully. Enable Wi-Fi and connect t
 
 Choose the KOReader build archive appropriate for your device from the following channels:
 
-- [nightly builds](http://koreader.ak-team.com/): generated automatically overnight. This builds sometimes contain severe bugs (tracked in [issue tracker][issue-tracker]), but contain the latest daily patches.
+- [nightly builds](http://build.koreader.rocks/download/nightly/): generated automatically overnight. These builds sometimes contain severe bugs (tracked in [issue tracker][issue-tracker]), but they also contain the latest daily patches.
 - [stable builds](https://github.com/koreader/koreader/releases): released every two months on average. Release notes are attached.
 - [custom builds](https://github.com/koreader/koreader#building-prerequisites): build it by yourself.
 
