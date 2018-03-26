@@ -55,6 +55,8 @@ or to see all android logs:
 
 TODO : can anyone help here?
 
+Basic principle explained in https://mhandroid.wordpress.com/2011/01/25/how-cc-debugging-works-on-android/
+
 Without a rooted device you can't browse around in /data but you can execute commands like this:
 ```
 adb exec-out run-as org.koreader.launcher ls /data/user/0/org.koreader.launcher/files/
