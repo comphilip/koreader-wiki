@@ -1,21 +1,37 @@
-## Touch, Mini, Glo, Glo HD, Aura HD, H2O, Aura One, Aura Edition 2
+## Touch, Mini, Glo, Glo HD, Aura HD, H2O, Aura One, Aura Edition 2, H2O²
 
-__Recommended installation based on Start Menu:__
+__Recommended installation method based on Start Menu:__
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804)
-- Download either the latest stable version (https://github.com/koreader/koreader/releases/tag/v2015.11-stable) or one of the regular nightly builds of KOReader (https://github.com/koreader/koreader/releases) **NB For the Kobo Aura One and the Kobo Aura Edition 2, use a nightly build dated newer than October 2017.**
-- Extract the `koreader` folder of the zip into the `.adds` directory of your device. You don't need `KoboRoot.tgz` or `koreader.png` unless you're using the older installation based on Filemonitor. (See below.) If you are using a version of KSM older than version 8, please extract to the `.kobo` folder instead.
+- Download either the latest stable version (https://github.com/koreader/koreader/releases/tag/v2015.11-stable) or one of the regular nightly builds of KOReader (https://github.com/koreader/koreader/releases).
+**NB: For the Kobo Aura One and the Kobo Aura Edition 2, use a nightly build dated newer than October 2017. As for the Kobo Aura H2O², you'll need one dated newer than March 2018.**
+- Extract the `koreader` folder of the zip into the `.adds` directory of your device. If you are using a version of KSM older than version 8, please extract to the `.kobo` folder instead.
 
 Now you should be able to select KOReader in the Kobo Start Menu.
 
+----
 
-__Older installation based on Filemonitor:__
+__Alternate installation method based on KFMon:__
 
-**WARNING: Since Filemonitor does not play well with KOReader, only use it if Kobo Start Menu does not work for you**.
+- Download a recent nightly build of KOReader (https://github.com/koreader/koreader/releases).
+- Extract the `koreader` folder of the zip into the `.adds` directory of your device.
+- Download the latest [install package](http://www.mobileread.com/forums/showthread.php?t=274231) for [**KFMon**](https://github.com/NiLuJe/kfmon).
+- Extract the full content of this second zip into the *root* directory of your device (i.e., not under *any* subdirectory).
+- Eject & unplug your device. Nickel should then appear to be processing a book, before restarting to process an update.
 
-- Put the image included in the zip (called `koreader.png`) in the main folder of your Kobo and disconnect it from your computer. Open the image on the reader, go back to the home screen and then, just to be extra-safe, reboot it.
-- Install **Files Monitor** (http://www.mobileread.com/forums/showthread.php?t=218283).
-- Extract the remaining content of the zip into the `.kobo` directory (both `KoboRoot.tgz` and the `koreader` folder). 
+You'll then be able to simply select the KOReader icon in your Home or your Library to launch KOReader!
 
-Selecting the KOReader icon in your home, you will be able to launch KOReader. Simple enough, isn't it? Just be sure to process the image properly (follow those steps carefully) if it's the first time you install KOReader, if you made a factory reset or if you deleted it in some way, otherwise you could end up launching KOReader automatically at every boot, being unable to exit it without a factory reset.
+**NB:** You can also use a safe implementation of [fmon](https://github.com/baskerville/fmon) instead of KFMon, if you so desire. More detailed instructions on how to do so are available [here](https://github.com/koreader/koreader/blob/master/platform/kobo/fmon/README.txt#L12).
 
-When you update KOReader, it should be sufficient to extract the `koreader` folder, without `KoboRoot.tgz` — that one is needed to add the launcher.
+----
+
+No matter your original installation method, whenever you want to update KOReader, it should be sufficient to extract the `koreader` folder, overwriting the previously installed version.
+
+----
+
+## Help! I'm lost. Which method should I follow?
+
+You'll find that most Kobo users have chosen KSM. Part of it is because of its feature set and of its convenience, part of it is historical: the original implementation of fmon was problematic in a number of fun and interesting ways, and as such, we actively discouraged users from using it.
+
+Nowadays, we could boil down the choice to this question: how do you actually intend to use your Kobo?
+If you spend most of your time in custom software, be it KOReader or other pieces of third-party software, you'll probably want to go with KSM.
+If you spend most of your time in Nickel, Kobo's own software, KFMon will probably appeal to you, because it's much less intrusive, and works in tandem with Nickel.
