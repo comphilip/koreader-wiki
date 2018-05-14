@@ -1,7 +1,7 @@
 ## Touch, Mini, Glo, Glo HD, Aura HD, H2O, Aura One, Aura Edition 2, H2O²
 
 __Recommended installation method based on Start Menu:__
-- Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804)
+- Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
 - Download either the latest [stable version](https://github.com/koreader/koreader/releases/tag/v2015.11-stable) or one of the regular [nightly builds](https://github.com/koreader/koreader/releases) of KOReader.
 **NB: For the Kobo Aura One and the Kobo Aura Edition 2, use a nightly build dated newer than October 2017. As for the Kobo H2O², you'll need one dated newer than March 2018.**
 - Extract the `koreader` folder of the zip into the `.adds` directory of your device. If you are using a version of KSM older than version 8, please extract to the `.kobo` folder instead.
