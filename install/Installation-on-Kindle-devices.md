@@ -1,11 +1,17 @@
 ## Supported Devices
-KOReader can be installed on all Kindle devices. Note, firmware 5.6.x and newer might require physically modding the device. More on that [here](https://www.mobileread.com/forums/showthread.php?t=267541). 
-Certain features are currently unavailable on non-touch devices such as the Kindle4 (NT) and earlier. See [Issue 1898](https://github.com/koreader/koreader/issues/1898).
+KOReader can be installed on all *jailbroken* Kindle devices.
+
+**NOTE:** The ability to jailbreak a Kindle device depends on both the model, the specific variant of its model, and the current firmware version it's running.
+Detailing all of the intricacies this can involve is out of scope for this document, so, please check the current state of things on [MobileRead](https://www.mobileread.com/forums/forumdisplay.php?f=150).
+In general, the newer the device, the trickier it gets.
+
+
+Certain minor features may currently still be unavailable on non-touch devices such as the Kindle 4 (NT) and earlier. Don't hesitate to check and open an issue if you encounter such a problem.
 
 ## Installation
 Besides the reader itself, you will also need to install a launcher. For that purpose, you can use KPVBooklet or KUAL, or even both.
 
-  1. Jailbreak your Kindle, refer to [this post](http://www.mobileread.com/forums/showthread.php?t=186645).
+  1. Jailbreak your Kindle, refer to [this post](http://www.mobileread.com/forums/showthread.php?t=186645) or others, depending on your device.
   1. Install a launcher
       * Install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki).
       * Install KUAL, refer to [the official thread](http://www.mobileread.com/forums/showthread.php?t=203326)
@@ -21,6 +27,11 @@ Besides the reader itself, you will also need to install a launcher. For that pu
 ### via KPV Booklet
 Just open any book from the native system, all files except for mobi and txt will be opened with KOReader.
 ### via KUAL
-After installing KOReader, you will see related entries in the KUAL menu. Just tap on it :). The **(no framework)** variants will kill the native GUI first, and restart it once you've quit KOReader (the goal being to gain some more free RAM).
+After installing KOReader, you will see related entries in the KUAL menu. Just tap on it :). The **(no framework)** variants will kill the native GUI first, and restart it once you've quit KOReader (the goal being to gain some more free RAM). Note that said variant may not be completely functional on some model/FW combinations. It's mostly aimed at older devices.
 
 NOTE: After a firmware update, you will most likely have to reinstall some stuff. Of particular importance to KOReader: KPVBooklet if you're using it, and [MKK](http://www.mobileread.com/forums/showthread.php?t=233932) if you're using [KUAL](http://www.mobileread.com/forums/showthread.php?t=203326).
+
+NOTE: On some recent FW versions, KPVBooklet may be non-functional. You may also need a tweaked version of KUAL. Again, check MobileRead's Kindle Dev forum.
+
+**IMPORTANT NOTE:** Switching your device to USBMS mode (by plugging it to a computer over USB) while KOReader is *entirely unsupported*, and will crash in fun and interesting ways.
+If you need to charge your device while KOReader is running, either do it with a charger, or switch your device to USBNet mode first.
