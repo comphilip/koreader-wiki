@@ -29,6 +29,7 @@ Just open any book from the native system, all files except for mobi and txt wil
 ### via KUAL
 After installing KOReader, you will see related entries in the KUAL menu. Just tap on it :). The **(no framework)** variants will kill the native GUI first, and restart it once you've quit KOReader (the goal being to gain some more free RAM). Note that said variant may not be completely functional on some model/FW combinations. It's mostly aimed at older devices.
 
+
 NOTE: After a firmware update, you will most likely have to reinstall some stuff. Of particular importance to KOReader: KPVBooklet if you're using it, and [MKK](http://www.mobileread.com/forums/showthread.php?t=233932) if you're using [KUAL](http://www.mobileread.com/forums/showthread.php?t=203326).
 
 NOTE: On some recent FW versions, KPVBooklet may be non-functional. You may also need a tweaked version of KUAL. Again, check MobileRead's Kindle Dev forum.
