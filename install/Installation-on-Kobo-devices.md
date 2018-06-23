@@ -35,3 +35,5 @@ You'll find that most Kobo users have chosen KSM. Part of it is because of its f
 Nowadays, the choice could be boiled down to this question: how do you actually intend to use your Kobo?
 If you spend most of your time in custom software, be it KOReader or other pieces of third-party software, you'll probably want to go with KSM.
 If you spend most of your time in Nickel, Kobo's own software, KFMon will probably appeal to you, because it's much less intrusive, and works in tandem with Nickel.
+
+On a device that just recently came out, the fact that KFMon is hardware-agnostic may be an interesting design feature ;). (And the same applies to fmon).
