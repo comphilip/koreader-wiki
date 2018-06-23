@@ -3,7 +3,7 @@
 __Recommended installation method based on Start Menu:__
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
 - Download either the latest [stable version](https://github.com/koreader/koreader/releases/tag/v2015.11-stable) or one of the regular [nightly builds](https://github.com/koreader/koreader/releases) of KOReader.
-**NB: For the Kobo Aura One and the Kobo Aura Edition 2, use a nightly build dated newer than October 2017. As for the Kobo H2O², you'll need one dated newer than March 2018.**
+**NB: For the Kobo Aura One and the Kobo Aura Edition 2, use a nightly build dated newer than October 2017. As for the Kobo H2O², you'll need one dated newer than March 2018. And for the Clara HD, you'll need something newer than mid June 2018. Assuming that KSM supports your device, which may not be a given for recent devices, check the current KSM post first!**
 - Extract the `koreader` folder of the zip into the `.adds` directory of your device. If you are using a version of KSM older than version 8, please extract to the `.kobo` folder instead.
 
 Now you should be able to select KOReader in the Kobo Start Menu.
@@ -12,10 +12,11 @@ Now you should be able to select KOReader in the Kobo Start Menu.
 
 __Alternate installation method based on KFMon:__
 
-- Download a recent [nightly build](https://github.com/koreader/koreader/releases) of KOReader.
-- Extract the `koreader` folder of the zip into the `.adds` directory of your device.
 - Download the latest [install package](http://www.mobileread.com/forums/showthread.php?t=274231) for [**KFMon**](https://github.com/NiLuJe/kfmon).
-- Extract the full content of this second zip into the *root* directory of your device (i.e., not under *any* subdirectory).
+- Extract the full content of this archive into the *root* directory of your device (i.e., not under *any* subdirectory).
+- Download a recent [nightly build](https://github.com/koreader/koreader/releases) of KOReader.
+- Extract the `koreader` folder of the zip into the `.adds` directory of your device (which may just have been created by KFMon's archive).
+
 - Eject & unplug your device. Nickel should then appear to be processing a book, before restarting to process an update.
 
 You'll then be able to simply select the KOReader icon in your Home or your Library to launch KOReader!
