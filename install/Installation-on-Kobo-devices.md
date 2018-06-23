@@ -18,7 +18,7 @@ __Alternate installation method based on KFMon:__
 - Extract the `koreader` folder of the zip into the `.adds` directory of your device (a directory which may just have been created by KFMon's archive).
 - Eject & unplug your device. Nickel should then appear to be processing a book, before restarting to process an update.
 
-You'll then be able to simply select the KOReader icon in your Home or your Library to launch KOReader!
+You'll then be able to simply tap the KOReader icon in your Home or your Library to launch KOReader!
 
 **NB:** You can also use a safe implementation of [fmon](https://github.com/baskerville/fmon) instead of KFMon, if you so desire. More detailed instructions on how to do so are available [here](https://github.com/koreader/koreader/blob/master/platform/kobo/fmon/README.txt#L12).
 
