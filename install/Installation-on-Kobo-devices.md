@@ -16,7 +16,6 @@ __Alternate installation method based on KFMon:__
 - Extract the full content of this archive into the *root* directory of your device (i.e., not under *any* subdirectory).
 - Download a recent [nightly build](https://github.com/koreader/koreader/releases) of KOReader.
 - Extract the `koreader` folder of the zip into the `.adds` directory of your device (which may just have been created by KFMon's archive).
-
 - Eject & unplug your device. Nickel should then appear to be processing a book, before restarting to process an update.
 
 You'll then be able to simply select the KOReader icon in your Home or your Library to launch KOReader!
