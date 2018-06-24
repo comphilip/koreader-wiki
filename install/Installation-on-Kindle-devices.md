@@ -36,3 +36,14 @@ NOTE: On some recent FW versions, KPVBooklet may be non-functional. You may also
 
 **IMPORTANT NOTE:** Switching your device to USBMS mode (by plugging it to a computer over USB) while KOReader is running is *entirely unsupported*, and risks crashing in fun and interesting ways, both KOReader, and possibly the Kindle's underlying system. Recent KOReader versions make an attempt at avoiding complete and utter mayhem, but it's still not recommended to try to test that theory ;).
 If you need to charge your device while KOReader is running, either do it with a charger, or switch your device to USBNet mode first.
+
+## Err, there are three Kindle packages to choose from, which do I pick?
+
+They're indicative of the earliest device family the binaries support (and are optimized for). Ideally, you choose the one that most closely matcesh your actual device, in order to enjoy the best possible performance.
+
+* **Legacy**: K2, DX, K3 (and all their variants).
+* **Kindle**: K4, K5, PW1
+* **PW2**: Everything else, starting from the PW2 (i.e., PW2, KV, KT2, KOA, KT3, KOA2).
+
+
+If you're unsure of which exact model you have, or if those nicknames confuse you, please refer to [this handy table](https://wiki.mobileread.com/wiki/Kindle_Serial_Numbers) ;).
