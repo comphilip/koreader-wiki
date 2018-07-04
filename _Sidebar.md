@@ -15,7 +15,7 @@
 * [Gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures)
 * [Reflowing tweaks](https://github.com/koreader/koreader/wiki/Reflowing-tweaks)
 * [Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
-* [Troubleshooting](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
+* [Troubleshooting](https://github.com/koreader/koreader/wiki/Troubleshooting)
 
 # Features
 
