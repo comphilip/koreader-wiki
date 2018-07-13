@@ -11,7 +11,7 @@ Now you should be able to select KOReader in the Kobo Start Menu.
 ----
 
 __Alternate installation method based on KFMon:__
-
+- These instructions do not work on Mac (confirmed on Windows, don't know about Linux)
 - Download the latest [install package](http://www.mobileread.com/forums/showthread.php?t=274231) for [**KFMon**](https://github.com/NiLuJe/kfmon).
 - Extract the full content of this archive into the *root* directory of your device (i.e., not under *any* subdirectory).
 - Download a recent [nightly build](https://github.com/koreader/koreader/releases) of KOReader.
