@@ -1,4 +1,4 @@
-## Touch, Mini, Glo, Glo HD, Aura HD, H2O, Aura One, Aura Edition 2, H2O²
+## Touch, Mini, Glo, Aura, Glo HD, Aura HD, H2O, Touch 2.0, Aura One, Aura Edition 2, H2O Edition 2, Clara HD
 
 __Recommended installation method based on Start Menu:__
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
