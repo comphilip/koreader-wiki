@@ -34,5 +34,5 @@
 | OPDS catalog | supported, including the Calibre Content Server catalog |
 | Calibre Wireless connection | supported |
 | Reading Statistics | supported |
-| Screensaver | supported, bookcover or user supplied |
+| Screensaver | [supported, extensive](https://github.com/koreader/koreader/wiki/Screen-saver-options) |
 | Progress Sync | supported |
