@@ -5,15 +5,21 @@ Options for suspended status can be access through menu (Menu-Gear icon-Screensa
 Options with settings are:
 
 suspend_screensaver_type = "random_image" or "single", "message", "cover", "bookstatus", "readingprogress", "disable",
+
 suspend_screensaver_dir = "path to same as screensaver_dir or alternate dir for poweroff image(s)",
+
 suspend_screensaver_message = "message to use instead of Suspended",
 
 poweroff_screensaver_type = "random_image" or "single", "message", "cover", "bookstatus", "readingprogress", "disable",
+
 poweroff_screensaver_dir = "path to same as screensaver_dir or alternate dir for poweroff image(s)",
+
 poweroff_screensaver_message = "message to use instead of Powered off",
 
 reboot_screensaver_type = "random_image" or "single", "message", "cover", "bookstatus", "readingprogress", "disable",
+
 reboot_screensaver_dir = "path to same as screensaver_dir or alternate dir for reboot image(s)",
+
 reboot_screensaver_message = "message to use instead of Rebooting...",
 
 The next ones are Kobo only:
