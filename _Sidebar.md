@@ -42,7 +42,7 @@
 * KOSync
 * News downloader
 * [Perception expander](https://github.com/koreader/koreader/wiki/Perception-Expander-plugin)
-* Progress sync
+* [Progress sync](https://github.com/koreader/koreader/wiki/Progress-sync)
 * Read timer
 * [Reading statistics](https://github.com/koreader/koreader/wiki/Statistics-plugin)
 * Send2Ebook
