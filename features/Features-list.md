@@ -28,6 +28,7 @@
 | EPUB pagination | supported |
 | EPUB embeded stylesheet | supported |
 | EPUB embeded font | supported |
+| EPUB font hinting | supported |
 | EPUB font gamma | supported |
 | EPUB hyphenation | supported |
 | Evernote export(Evernote plugin) | supported |
