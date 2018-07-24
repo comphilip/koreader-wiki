@@ -49,7 +49,7 @@
 * SystemStats
 * Terminal emulator
 * TimeSync
-* ZSync
+* [ZSync](https://github.com/koreader/koreader/wiki/Zsync-transport)
 
 # [简体中文](https://github.com/koreader/koreader/wiki/KOReader维基)
 
