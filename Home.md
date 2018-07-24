@@ -9,7 +9,7 @@ _KOReader is a document viewer for E-ink devices. Supported document formats inc
 * reflow of complex PDF's using `k2pdfopt`
 * saving and exporting notes to files or Evernote 
 * custom `.ttf` fonts and stardict dictionaries
-* cloud storage and synchronization
+* cloud storage (Dropbox, FTP) and synchronization
 * content providers: [Wikipedia](https://github.com/koreader/koreader/wiki/Wikipedia-support), [OPDS](https://github.com/koreader/koreader/wiki/OPDS-support) and Goodreads
 
 An extended survey can be found on [[Features list]] or jump directly to [Configuration](#configuration), [Community](#community).
