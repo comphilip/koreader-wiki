@@ -30,8 +30,26 @@
 
 # Plugins
 
+* Background runner
+* Battery statistics
+* calibre wireless connection
+* CoverBrowser
+* Evernote
+* Frontlight gesture controller
+* Goodreads
+* Keep alive
+* Kobolight
+* KOSync
+* News downloader
 * [Perception expander](https://github.com/koreader/koreader/wiki/Perception-Expander-plugin)
-* [Statistics](https://github.com/koreader/koreader/wiki/Statistics-plugin)
+* Progress sync
+* Read timer
+* [Reading statistics](https://github.com/koreader/koreader/wiki/Statistics-plugin)
+* Send2Ebook
+* SystemStats
+* Terminal emulator
+* TimeSync
+* ZSync
 
 # [简体中文](https://github.com/koreader/koreader/wiki/KOReader维基)
 
