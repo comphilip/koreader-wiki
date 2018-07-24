@@ -31,6 +31,7 @@
 | EPUB font hinting | supported |
 | EPUB font gamma | supported |
 | EPUB hyphenation | supported |
+| EPUB style tweaks | supported |
 | Evernote export(Evernote plugin) | supported |
 | Wireless doc sharing(ZSync plugin) | supported |
 | OPDS catalog | supported, including the Calibre Content Server catalog |
