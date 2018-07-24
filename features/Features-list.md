@@ -11,7 +11,7 @@
 | landscape reading | supported |
 | partial refresh | supported |
 | bookmarking | supported |
-| Table of Content | supported |
+| Table of Content | supported, also alternative from document headings |
 | flipping mode | supported |
 | text search | supported |
 | highlighting | supported |
