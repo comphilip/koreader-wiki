@@ -35,6 +35,6 @@
 | Wireless doc sharing(ZSync plugin) | supported |
 | OPDS catalog | supported, including the Calibre Content Server catalog |
 | Calibre Wireless connection | supported |
-| Reading Statistics | supported |
+| Reading Statistics | [supported](https://github.com/koreader/koreader/wiki/Statistics-plugin) |
 | Screensaver | [supported, extensive](https://github.com/koreader/koreader/wiki/Screen-saver-options) |
 | Progress Sync | supported |
