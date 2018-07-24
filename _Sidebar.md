@@ -32,7 +32,7 @@
 
 * Background runner
 * Battery statistics
-* calibre wireless connection
+* [Calibre wireless connection](https://github.com/koreader/koreader/wiki/Calibre-wireless-connection)
 * CoverBrowser
 * [Evernote](https://github.com/koreader/koreader/wiki/Evernote-export)
 * Frontlight gesture controller
