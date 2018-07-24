@@ -34,7 +34,7 @@
 * Battery statistics
 * calibre wireless connection
 * CoverBrowser
-* Evernote
+* [Evernote](https://github.com/koreader/koreader/wiki/Evernote-export)
 * Frontlight gesture controller
 * Goodreads
 * Keep alive
