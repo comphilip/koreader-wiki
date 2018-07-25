@@ -46,7 +46,7 @@
 * [Read timer](https://github.com/koreader/koreader/wiki/Read-timer) 
 * [Reading statistics](https://github.com/koreader/koreader/wiki/Statistics-plugin)
 * Send2Ebook
-* System statistics
+* [System statistics](https://github.com/koreader/koreader/wiki/System-statistics)
 * Terminal emulator
 * TimeSync
 * [ZSync](https://github.com/koreader/koreader/wiki/Zsync-transport)
