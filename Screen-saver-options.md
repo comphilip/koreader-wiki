@@ -22,6 +22,11 @@ Options with settings are:
 
 **reboot_screensaver_message** = "message to use instead of Rebooting...",
 
+You can also use screenshot for screensaver, as it is described [here.](https://github.com/koreader/koreader/pull/4113)
+
+
+***
+
 The next ones are Kobo only:
 
 **auto_suspend_timeout_seconds** = value in seconds
