@@ -30,7 +30,7 @@
 | EPUB embeded font | supported |
 | EPUB font hinting | supported |
 | EPUB font gamma | supported |
-| EPUB hyphenation | supported |
+| EPUB hyphenation | [supported](https://github.com/koreader/koreader/wiki/Hyphenation)|
 | EPUB style tweaks | supported |
 | Evernote export(Evernote plugin) | supported |
 | Wireless doc sharing(ZSync plugin) | supported |
