@@ -4,7 +4,7 @@
 | document supported formats |  PDF, DJVU, EPUB, MOBI, PDB, TXT, ZIP, CBZ, FB2, RTF, CHM, DOC |
 | image supported formats |  PNG, JPG, TIFF, GIF, SVG |
 | native system integration | supported on Kindle devices |
-| localization | supported |
+| localization | [supported](https://github.com/koreader/koreader/wiki/Localization) |
 | file manager | supported |
 | screenshot | supported |
 | night mode | supported |
@@ -30,7 +30,7 @@
 | EPUB embeded font | supported |
 | EPUB font hinting | supported |
 | EPUB font gamma | supported |
-| EPUB hyphenation | [supported](https://github.com/koreader/koreader/wiki/Hyphenation)|
+| EPUB hyphenation | [supported](https://github.com/koreader/koreader/wiki/Hyphenation) |
 | EPUB style tweaks | supported |
 | Evernote export(Evernote plugin) | supported |
 | Wireless doc sharing(ZSync plugin) | supported |
