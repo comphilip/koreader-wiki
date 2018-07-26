@@ -1,5 +1,7 @@
 If you press and hold some setting it becomes default one.
 
+***
+
 Also, in settings and menus you also can press and hold setting name, etc to get additional info, help, current and default values, etc (depending on setting).
 
 More info about this could be found here: 
@@ -9,3 +11,6 @@ More info about this could be found here:
 [Long press on Open last document shows filename to open](https://github.com/koreader/koreader/pull/3967)
 
 [TouchMenu: added hook to show help text on long-press](https://github.com/koreader/koreader/pull/3980)
+
+***
+If you press and hold on progress bar in footer, you open SkimTo widget instead GoTo widget, as described [here.](https://github.com/koreader/koreader/pull/4097)
