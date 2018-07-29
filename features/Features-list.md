@@ -32,6 +32,7 @@
 | EPUB font gamma | supported |
 | EPUB hyphenation | [supported](https://github.com/koreader/koreader/wiki/Hyphenation) |
 | EPUB style tweaks | supported |
+| EPUB following links | [supported](https://github.com/koreader/koreader/wiki/Following-links-within-documents) |
 | Evernote export(Evernote plugin) | supported |
 | Wireless doc sharing(ZSync plugin) | supported |
 | OPDS catalog | supported, including the Calibre Content Server catalog |
