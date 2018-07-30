@@ -41,3 +41,4 @@
 | Screensaver | [supported, extensive](https://github.com/koreader/koreader/wiki/Screen-saver-options) |
 | Progress Sync | [supported](https://github.com/koreader/koreader/wiki/Progress-sync) |
 | Press and hold gesture | [supported](https://github.com/koreader/koreader/wiki/Press-and-hold-function) |
+| Movable UI elements | [partially supported](https://github.com/koreader/koreader/wiki/Movable-UI-elements) |
