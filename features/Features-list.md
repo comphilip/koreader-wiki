@@ -25,6 +25,7 @@
 | PDF cropping | supported |
 | PDF regional zoom | supported |
 | PDF text contrast | supported |
+| EPUB Image viewer | [supported](https://github.com/koreader/koreader/wiki/Image-Viewer) |
 | EPUB pagination | supported |
 | EPUB embeded stylesheet | supported |
 | EPUB embeded font | supported |
