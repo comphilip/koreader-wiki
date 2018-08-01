@@ -2,7 +2,7 @@
 | ------ | ------ |
 |  supported devices  |  Kindle Touch, Kindle Paperwhite, Kobo Glo, Kobo Touch, Kobo Mini, Kobo Aura, Kobo Aura HD, Kobo Aura H2O  |
 | document supported formats |  PDF, DJVU, EPUB, MOBI, PDB, TXT, ZIP, CBZ, FB2, RTF, CHM, DOC |
-| image supported formats |  PNG, JPG, TIFF, GIF, SVG |
+| image supported formats |  PNG, JPG, TIFF, GIF, [SVG](https://github.com/koreader/koreader/pull/2832) |
 | native system integration | supported on Kindle devices |
 | localization | [supported](https://github.com/koreader/koreader/wiki/Localization) |
 | file manager | supported |
@@ -33,6 +33,7 @@
 | EPUB font gamma | supported |
 | EPUB hyphenation | [supported](https://github.com/koreader/koreader/wiki/Hyphenation) |
 | EPUB style tweaks | supported |
+| EPUB alternate TOC | [supported](https://github.com/koreader/koreader/wiki/Alternate-TOC) |
 | EPUB following links | [supported](https://github.com/koreader/koreader/wiki/Following-links-within-documents) |
 | Evernote export(Evernote plugin) | supported |
 | Wireless doc sharing(ZSync plugin) | supported |
