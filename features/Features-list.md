@@ -32,7 +32,7 @@
 | EPUB font hinting | supported |
 | EPUB font gamma | supported |
 | EPUB hyphenation | [supported](https://github.com/koreader/koreader/wiki/Hyphenation) |
-| EPUB style tweaks | supported |
+| EPUB style tweaks | [supported](https://github.com/koreader/koreader/wiki/Style-tweaks) |
 | EPUB alternate TOC | [supported](https://github.com/koreader/koreader/wiki/Alternate-TOC) |
 | EPUB following links | [supported](https://github.com/koreader/koreader/wiki/Following-links-within-documents) |
 | Evernote export(Evernote plugin) | supported |
