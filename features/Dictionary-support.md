@@ -30,3 +30,5 @@ KOReader has a build-in OCR engine for recognizing words in scanned PDF/DJVU pag
 ### Tips and tricks
 
 To open word in dictionary, press and hold. But, press and hold for more than 3s, it opens menu with more options, as described [here](https://github.com/koreader/koreader/pull/3199).
+
+Dictionary supports history of searched words, accessible through menu. More info can be found [here](https://github.com/koreader/koreader/pull/3161) (with images).
