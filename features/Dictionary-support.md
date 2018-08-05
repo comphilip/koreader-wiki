@@ -13,6 +13,12 @@ The dictionaries need to be installed into one of those directories:
 
 The StarDict format dictionary files have suffixes `*.idx`, `*.ifo` or `*.ifo.gz`, `*.dict` or `*.dict.dz`.
 
+### HTML dictionaries supported
+
+You can use HTML dictionaries, as described [here.](https://github.com/koreader/koreader/pull/3573) They should be put in same directories as about mentioned, each dictionary in own directory.
+
+Also, dictionaries could be tweaked with custom css file, as described [here](https://github.com/koreader/koreader/pull/3585) and [here.](https://github.com/koreader/koreader/pull/3573#issuecomment-355848649)
+
 ### Converting from other sources
 
 Some freely available dictionaries can be converted to the StarDict format with [stardicter](https://blog.cihar.com/archives/2017/01/27/stardicter-011/). See also [wiktionary-to-stardict](https://gitlab.com/artefact2/wiktionary-to-stardict).
