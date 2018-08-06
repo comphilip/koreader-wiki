@@ -13,11 +13,11 @@ The dictionaries need to be installed into one of those directories:
 
 The StarDict format dictionary files have suffixes `*.idx`, `*.ifo` or `*.ifo.gz`, `*.dict` or `*.dict.dz`.
 
-### HTML dictionaries supported
+### HTML encoding within StarDict dictionaries supported
 
-You can use HTML dictionaries, as described [here.](https://github.com/koreader/koreader/pull/3573) They should be put in same directories as about mentioned, each dictionary in own directory.
+You can use HTML encoded dictionaries, as described [here.](https://github.com/koreader/koreader/pull/3573)
 
-Also, dictionaries could be tweaked with custom css file, as described [here](https://github.com/koreader/koreader/pull/3585) and [here.](https://github.com/koreader/koreader/pull/3573#issuecomment-355848649)
+Also, dictionaries could be tweaked with custom css file, as described [here](https://github.com/koreader/koreader/pull/3585) and [here.](https://github.com/koreader/koreader/pull/3573#issuecomment-355848649) You can find sample files how to tweak them [here.](https://github.com/koreader/koreader/pull/3585#issuecomment-361203757) And some more discussion can be found [here.](https://github.com/koreader/koreader/issues/3606)
 
 ### Converting from other sources
 
