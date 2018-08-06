@@ -2,7 +2,7 @@ Wikipedia lookup function can be invoked at both the dictionary quick lookup win
 
 [![Evernote plugin](https://github.com/koreader/koreader/wiki/screenshots/wikipedia_lookup.png)](https://github.com/koreader/koreader/wiki/screenshots/wikipedia_lookup.png)
 
-### Search results are shown with image
+### Search results with images
 
 ![image](https://user-images.githubusercontent.com/24273478/34988036-90df85e0-fabd-11e7-9ab9-464ba397c967.gif)
 
