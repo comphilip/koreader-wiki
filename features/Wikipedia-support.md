@@ -8,6 +8,10 @@ Wikipedia lookup function can be invoked at both the dictionary quick lookup win
 
 You can tap on image to see image caption and hold on image to open it in image viewer. More info can be found [here.](https://github.com/koreader/koreader/pull/3609)
 
+### Save wikipedia article as EPUB
+
+You can save wikipedia articles as EPUB files from menu, with optional images. More info [here.](https://github.com/koreader/koreader/pull/2507)
+
 ### Tips and tricks
 
 Just like [dictionary](https://github.com/koreader/koreader/wiki/Dictionary-support), wikipedia supports history of searched terms, accessed through menu. More info can be found [here.](https://github.com/koreader/koreader/pull/3549)
