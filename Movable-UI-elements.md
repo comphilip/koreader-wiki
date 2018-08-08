@@ -1,4 +1,4 @@
-Some UI elements can be moved on screen:
+Some UI elements can be moved on screen and/or made transparent:
 
 ![moving UI elements](https://user-images.githubusercontent.com/24273478/35508739-ca7bbc2c-04f1-11e8-811a-37b283ab2c6b.gif)
 
