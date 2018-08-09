@@ -10,7 +10,7 @@
 | night mode | supported |
 | landscape reading | supported |
 | partial refresh | supported |
-| bookmarking | supported |
+| bookmarking | [supported](https://github.com/koreader/koreader/wiki/Bookmarks) |
 | Table of Content | supported, also alternative from document headings |
 | flipping mode | supported |
 | text search | supported |
