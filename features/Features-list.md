@@ -5,7 +5,7 @@
 | image supported formats |  PNG, JPG, TIFF, GIF, [SVG](https://github.com/koreader/koreader/pull/2832) |
 | native system integration | supported on Kindle devices |
 | localization | [supported](https://github.com/koreader/koreader/wiki/Localization) |
-| file manager | supported |
+| file manager | [supported](https://github.com/koreader/koreader/wiki/File-manager) |
 | screenshot | supported |
 | night mode | supported |
 | landscape reading | supported |
