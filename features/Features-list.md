@@ -45,3 +45,4 @@
 | Press and hold gesture | [supported](https://github.com/koreader/koreader/wiki/Press-and-hold-function) |
 | Movable UI elements | [partially supported](https://github.com/koreader/koreader/wiki/Movable-UI-elements) |
 | Light control | [supported](https://github.com/koreader/koreader/wiki/Light-control) |
+| Gamepad | [supported](https://github.com/koreader/koreader/wiki/Gamepad-support) |
