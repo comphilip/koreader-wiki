@@ -46,3 +46,4 @@
 | Movable UI elements | [partially supported](https://github.com/koreader/koreader/wiki/Movable-UI-elements) |
 | Light control | [supported](https://github.com/koreader/koreader/wiki/Light-control) |
 | Gamepad | [supported](https://github.com/koreader/koreader/wiki/Gamepad-support) |
+| Set time and date | [supported](https://github.com/koreader/koreader/wiki/Set-time-and-date) |
