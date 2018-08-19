@@ -16,3 +16,7 @@ There's also menu you can access via Tools → More plugins → Frontlight gestu
 You also control automatic light temperature from menu like this:
 
 ![](https://user-images.githubusercontent.com/1818708/38164845-f755502a-350a-11e8-9da4-3452f617e2af.png)
+
+Also, you have advanced light temperature control for devices that support it:
+
+![](https://user-images.githubusercontent.com/1818708/37310944-e748e4f4-2645-11e8-9420-df84d6c77afb.png)
