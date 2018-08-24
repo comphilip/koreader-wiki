@@ -35,9 +35,9 @@
 * [Background runner](https://github.com/koreader/koreader/wiki/Background-runner)
 * [Battery statistics](https://github.com/koreader/koreader/wiki/Battery-statistics)
 * [Calibre wireless connection](https://github.com/koreader/koreader/wiki/Calibre-wireless-connection)
-* CoverBrowser
+* [Cover browser](https://github.com/koreader/koreader/wiki/Cover-browser)
 * [Evernote](https://github.com/koreader/koreader/wiki/Evernote-export)
-* Frontlight gesture controller
+* [Frontlight gesture controller](https://github.com/koreader/koreader/wiki/Frontlight-gesture-controller)
 * Goodreads
 * Keep alive
 * Kobolight
