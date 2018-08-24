@@ -1,0 +1,1 @@
+Collects and displays battery statistics.
