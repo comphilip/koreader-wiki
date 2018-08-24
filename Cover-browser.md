@@ -1,0 +1,1 @@
+Alternative display modes for file browser and history.
