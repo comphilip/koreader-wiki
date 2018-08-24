@@ -1,0 +1,1 @@
+Service to other plugins: allows tasks to run regularly in the background.
