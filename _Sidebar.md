@@ -30,8 +30,10 @@
 
 # Plugins
 
-* Background runner
-* Battery statistics
+* [Auto frontlight](https://github.com/koreader/koreader/wiki/Auto-frontlight)
+* [Auto suspend](https://github.com/koreader/koreader/wiki/Auto-suspend)
+* [Background runner](https://github.com/koreader/koreader/wiki/Background-runner)
+* [Battery statistics](https://github.com/koreader/koreader/wiki/Battery-statistics)
 * [Calibre wireless connection](https://github.com/koreader/koreader/wiki/Calibre-wireless-connection)
 * CoverBrowser
 * [Evernote](https://github.com/koreader/koreader/wiki/Evernote-export)
