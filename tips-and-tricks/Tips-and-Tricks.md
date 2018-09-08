@@ -34,3 +34,7 @@ A long press on the word title (the red box in the following screenshot) in the 
 
 ### 9. Fine tuning of crop box
 There is an anchor at the middle point of each edge of the cropping box. Swipping around the anchors will adjust the position of the edge.
+
+### 10. Toggle visibility of status bar easily
+(Discovered this on PDF mode, not sure if it works in Epub mode.)
+Tap the bottom right corner, the status/progress bar will disappear.
