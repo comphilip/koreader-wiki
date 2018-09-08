@@ -9,7 +9,7 @@ In general, the newer the device, the trickier it gets.
 Certain minor features may currently still be unavailable on non-touch devices such as the Kindle 4 (NT) and earlier. Don't hesitate to check and open an issue if you encounter such a problem.
 
 ## Installation
-Besides the reader itself, you will also need to install a launcher. For that purpose, you can use KPVBooklet or KUAL, or even both.
+Besides the reader itself, you will also need to install a launcher. For that purpose, you can use KPVBooklet or KUAL, or even both, with the caveat that KPVBooklet only supports devices running FW 5.x, and may have some trouble on recent FW 5.x releases ;).
 
   1. Jailbreak your Kindle, refer to [this post](http://www.mobileread.com/forums/showthread.php?t=186645) or others, depending on your device.
   1. Install a launcher
