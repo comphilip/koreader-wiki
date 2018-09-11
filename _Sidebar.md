@@ -40,7 +40,7 @@
 * [Frontlight gesture controller](https://github.com/koreader/koreader/wiki/Frontlight-gesture-controller)
 * [Goodreads](https://github.com/koreader/koreader/wiki/Goodreads)
 * [Keep alive](https://github.com/koreader/koreader/wiki/Keep-alive)
-* Kobolight
+* [Kobolight](https://github.com/koreader/koreader/wiki/kobolight)
 * KOSync
 * News downloader
 * [Perception expander](https://github.com/koreader/koreader/wiki/Perception-Expander-plugin)
