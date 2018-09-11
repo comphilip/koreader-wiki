@@ -39,7 +39,7 @@
 * [Evernote](https://github.com/koreader/koreader/wiki/Evernote-export)
 * [Frontlight gesture controller](https://github.com/koreader/koreader/wiki/Frontlight-gesture-controller)
 * [Goodreads](https://github.com/koreader/koreader/wiki/Goodreads)
-* Keep alive
+* [Keep alive](https://github.com/koreader/koreader/wiki/Keep-alive)
 * Kobolight
 * KOSync
 * News downloader
