@@ -40,7 +40,7 @@
 * [Frontlight gesture controller](https://github.com/koreader/koreader/wiki/Frontlight-gesture-controller)
 * [Goodreads](https://github.com/koreader/koreader/wiki/Goodreads)
 * [Keep alive](https://github.com/koreader/koreader/wiki/Keep-alive)
-* News downloader
+* [News downloader] (https://github.com/koreader/koreader/wiki/News-downloader)
 * [Perception expander](https://github.com/koreader/koreader/wiki/Perception-Expander-plugin)
 * [Progress sync](https://github.com/koreader/koreader/wiki/Progress-sync)
 * [Read timer](https://github.com/koreader/koreader/wiki/Read-timer) 
