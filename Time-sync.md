@@ -1,0 +1,1 @@
+Synchronizes the device time with NTP servers.
