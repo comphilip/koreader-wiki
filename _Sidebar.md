@@ -40,16 +40,16 @@
 * [Frontlight gesture controller](https://github.com/koreader/koreader/wiki/Frontlight-gesture-controller)
 * [Goodreads](https://github.com/koreader/koreader/wiki/Goodreads)
 * [Keep alive](https://github.com/koreader/koreader/wiki/Keep-alive)
-* [News downloader] (https://github.com/koreader/koreader/wiki/News-downloader)
+* [News downloader](https://github.com/koreader/koreader/wiki/News-downloader)
 * [Perception expander](https://github.com/koreader/koreader/wiki/Perception-Expander-plugin)
 * [Progress sync](https://github.com/koreader/koreader/wiki/Progress-sync)
 * [Read timer](https://github.com/koreader/koreader/wiki/Read-timer) 
 * [Reading statistics](https://github.com/koreader/koreader/wiki/Statistics-plugin)
-* Send2Ebook
+* [Send to eBook]https://github.com/koreader/koreader/wiki/Send-to-eBook
 * [SSH](https://github.com/koreader/koreader/wiki/SSH)
 * [System statistics](https://github.com/koreader/koreader/wiki/System-statistics)
-* Terminal emulator
-* TimeSync
+* [Terminal emulator](https://github.com/koreader/koreader/wiki/Terminal-emulator)
+* [Time sync](https://github.com/koreader/koreader/wiki/Time-sync)
 * [ZSync](https://github.com/koreader/koreader/wiki/Zsync-transport)
 
 # [简体中文](https://github.com/koreader/koreader/wiki/KOReader维基)
