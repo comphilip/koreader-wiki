@@ -1,0 +1,1 @@
+Controls the frontlight with gestures on the left border of screen.
