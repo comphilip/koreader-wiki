@@ -1,0 +1,1 @@
+Receives articles sent with the Send2Ebook PC/Android application.
