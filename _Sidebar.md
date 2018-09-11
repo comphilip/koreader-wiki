@@ -38,7 +38,7 @@
 * [Cover browser](https://github.com/koreader/koreader/wiki/Cover-browser)
 * [Evernote](https://github.com/koreader/koreader/wiki/Evernote-export)
 * [Frontlight gesture controller](https://github.com/koreader/koreader/wiki/Frontlight-gesture-controller)
-* Goodreads
+* [Goodreads](https://github.com/koreader/koreader/wiki/Goodreads)
 * Keep alive
 * Kobolight
 * KOSync
