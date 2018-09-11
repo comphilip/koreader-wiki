@@ -45,7 +45,7 @@
 * [Progress sync](https://github.com/koreader/koreader/wiki/Progress-sync)
 * [Read timer](https://github.com/koreader/koreader/wiki/Read-timer) 
 * [Reading statistics](https://github.com/koreader/koreader/wiki/Statistics-plugin)
-* [Send to eBook]https://github.com/koreader/koreader/wiki/Send-to-eBook
+* [Send to eBook](https://github.com/koreader/koreader/wiki/Send-to-eBook)
 * [SSH](https://github.com/koreader/koreader/wiki/SSH)
 * [System statistics](https://github.com/koreader/koreader/wiki/System-statistics)
 * [Terminal emulator](https://github.com/koreader/koreader/wiki/Terminal-emulator)
