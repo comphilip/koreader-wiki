@@ -1,0 +1,1 @@
+Executes simple commands and shows their output.
