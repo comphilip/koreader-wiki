@@ -1,0 +1,1 @@
+Allows browsing and searching the Goodreads database of books.
