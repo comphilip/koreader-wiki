@@ -1,0 +1,1 @@
+Retrieves RSS and Atom news entries and saves them as HTML files.
