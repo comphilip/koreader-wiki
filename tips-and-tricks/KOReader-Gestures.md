@@ -9,6 +9,7 @@ KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http
 
 #### Display main menu/config menu
   * Single tap on the upper center of the screen
+  * Slide down from top of the screen
 
 #### Dismiss main/config menu
   * Single tap outside of the menu frame
@@ -49,3 +50,12 @@ KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http
 
 #### Frontlight control
   * Slide down/up with two fingers at the same time on multi-touch devices
+  * Tap lower left part to turn on/off
+  * Slide in left side up/down to increase/decrease light
+  * Slide in right side up/down to change light temperature (for devices that support this feature)
+
+#### Dismiss some popups
+   * Swipe down within popups
+
+#### Change font size
+   * Pinch/spread with two fingers to change font size
