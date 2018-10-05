@@ -40,7 +40,7 @@ Unpack the downloaded archive in the right folder on your device (see device spe
 ## Configuration
 <a name="configuration"/>
 
-After starting up KOReader, all you need to do is navigate the file manager to a (hidden) library folder and set it as default by long-pressing the file name. Files with supported file extensions will show op in this file manager. Touch gestures for navigating the user interface are explained in [gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures). Read more about less known [useful functions](https://github.com/koreader/koreader/wiki/Tips-and-Tricks).
+After starting up KOReader, all you need to do is navigate the file manager to a (hidden) library folder and set it as default by long-pressing the file name. Files with supported file extensions will show up in this file manager. Touch gestures for navigating the user interface are explained in [gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures). Read more about less known [useful functions](https://github.com/koreader/koreader/wiki/Tips-and-Tricks).
 
 * [[Dictionary support]]
 * [[Calibre wireless connection]]
