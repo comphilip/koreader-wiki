@@ -1,4 +1,4 @@
-(This page is deprecated. Please checkout the release note for each release for the change.)
+# This page is deprecated. Please checkout the release notes for each release for the change [here](https://github.com/koreader/koreader/releases).
 
 ================================================================
 ### koreader-nightly-20150318
