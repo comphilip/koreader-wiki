@@ -1,7 +1,6 @@
 # [Installation](https://github.com/koreader/koreader/wiki#installationupgrading)
 
 * [Changelog](https://github.com/koreader/koreader/wiki/Changelog)
-* [Download](https://github.com/koreader/koreader/wiki/Download)
 * [Installation-on-Kindle-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
 * [Installation-on-Kobo-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
 * [Installation-on-PocketBook-devices](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
