@@ -1,21 +1,6 @@
 # This page is deprecated. Please checkout the release notes for each release for the change [here](https://github.com/koreader/koreader/releases).
 
 ================================================================
-### koreader-nightly-20150318
-
-**New features**：
-* add support for GIF and PNG to picdocument provider
-* add an option to show an arrow to indicate page overlap
-* add PocketBook port of Koreader
-* add FONTDIR env variable to customize font directory
-* add stable OTA channel
-* add support for Kindle Voyage
-* add progress synchronization plugin
-
-**Enhancements**：
-* dynamic reader menu and config panel
-
-================================================================
 ### koreader-nightly-20141107
 
 **New features**：
