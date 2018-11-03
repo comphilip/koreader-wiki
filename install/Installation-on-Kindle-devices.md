@@ -16,7 +16,7 @@ Besides the reader itself, you will also need to install a launcher. For that pu
       * Install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki).
       * Install KUAL, refer to [the official thread](http://www.mobileread.com/forums/showthread.php?t=203326)
   1. Install KOReader
-      1. Download the latest Kindle package from [this page](https://github.com/koreader/koreader/wiki/Download).
+      1. Download the latest Kindle package from [this page](https://github.com/koreader/koreader/releases).
       1. Unzip the whole archive into the Kindle's USB root directory
   1. Install Stardict dictionaries (optional)
       * Copy Stardict format dictionary files (*.idx, *.ifo, *.dict) into the koreader/data/dict directory.
