@@ -24,6 +24,8 @@ You'll then be able to simply tap the KOReader icon in your Home or your Library
 
 ----
 
+### What about manual updates?
+
 No matter your original installation method, whenever you want to update KOReader, it should be sufficient to extract the `koreader` folder, overwriting the previously installed version.
 
 ----
