@@ -1,0 +1,1 @@
+You can find installation instructions in [mobileread](https://www.mobileread.com/forums/showpost.php?p=3760905&postcount=2)
