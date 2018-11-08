@@ -4,6 +4,7 @@
 * [Installation-on-Kindle-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
 * [Installation-on-Kobo-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
 * [Installation-on-PocketBook-devices](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
+* [Installation-on-BQ-devices](https://github.com/koreader/koreader/wiki/Installation-on-BQ-devices)
 
 # [Development](https://github.com/koreader/koreader/wiki#hackers)
 * [Development and Debugging on Android](https://github.com/koreader/koreader/wiki/Development-and-Debugging-on-Android)
