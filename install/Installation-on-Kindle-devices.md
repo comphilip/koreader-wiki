@@ -43,7 +43,7 @@ They're indicative of the earliest device family the binaries support (and are o
 
 * **Legacy**: K2, DX, K3 (and all their variants).
 * **Kindle**: K4, K5, PW1
-* **PW2**: Everything else, starting from the PW2 (i.e., PW2, KV, KT2, PW3, KOA, KT3, KOA2).
+* **PW2**: Everything else, starting from the PW2 (i.e., PW2, KV, KT2, PW3, KOA, KT3, KOA2, PW4).
 
 
 If you're unsure of which exact model you have, or if those nicknames confuse you, please refer to [this handy table](https://wiki.mobileread.com/wiki/Kindle_Serial_Numbers) ;).
