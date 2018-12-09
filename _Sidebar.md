@@ -10,9 +10,10 @@
 * [Development and Debugging on Android](https://github.com/koreader/koreader/wiki/Development-and-Debugging-on-Android)
 
 # [Tips and Tricks](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
-* [Change defaults](https://github.com/koreader/koreader/wiki/Change-defaults)
 * [Getting started](https://github.com/koreader/koreader/wiki/Getting-Started)
 * [Gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures)
+* [Change defaults](https://github.com/koreader/koreader/wiki/Change-defaults)
+* [DPI control](https://github.com/koreader/koreader/wiki/DPI-control)
 * [Reflowing tweaks](https://github.com/koreader/koreader/wiki/Reflowing-tweaks)
 * [Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
 * [Troubleshooting](https://github.com/koreader/koreader/wiki/Troubleshooting)
