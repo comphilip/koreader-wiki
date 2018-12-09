@@ -10,6 +10,7 @@
 | night mode | supported |
 | landscape reading | supported |
 | partial refresh | supported |
+| DPI control | [supported](https://github.com/koreader/koreader/wiki/DPI-control) |
 | bookmarking | [supported](https://github.com/koreader/koreader/wiki/Bookmarks) |
 | Table of Content | supported, also alternative from document headings |
 | flipping mode | supported |
