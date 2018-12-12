@@ -18,6 +18,7 @@
 | highlighting | supported |
 | taking note | not supported yet |
 | dictionary lookup | [supported](https://github.com/koreader/koreader/wiki/Dictionary-support) |
+| dictionary download | [supported](https://github.com/koreader/koreader/wiki/Dictionary-download) |
 | wikipedia lookup | [supported](https://github.com/koreader/koreader/wiki/Wikipedia-support) |
 | PDF zoom mode | zoom to fit page, zoom to fit page width, zoom to fit page height, zoom to fit content, zoom to fit content width, zoom to fit content height|
 | PDF full screen | supported |
