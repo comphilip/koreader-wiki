@@ -33,9 +33,9 @@ KOReader has a build-in OCR engine for recognizing words in scanned PDF/DJVU pag
     * copy language data files for Tesseract 3.02 (e.g. `eng.*` in `tesseract-ocr-3.02.eng.tar.gz` for English and `spa.*` in `tesseract-ocr-3.02.spa.tar.gz` for Spanish) into `koreader/data/tessdata`
 
 
-### Dictionaries could be downloaded from internet
+### Dictionaries can be downloaded from the internet
 
-You can download dictionaries from internet as shown [here.](https://github.com/koreader/koreader/wiki/Dictionary-download)
+You can download dictionaries from the internet as shown [here.](https://github.com/koreader/koreader/wiki/Dictionary-download)
 
 ### Tips and tricks
 
