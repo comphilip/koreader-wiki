@@ -3,10 +3,7 @@
 ### Recommended installation method based on Start Menu:
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
 - Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.  
-**NB: For the Kobo Aura One and the Kobo Aura Edition 2, use a version dated newer than October 2017.  
-As for the Kobo H2O², you'll need one dated newer than March 2018.  
-And for the Clara HD, you'll need something newer than mid June 2018.  
-For the Forma, something newer than late December 2018 should do the trick.  
+**NB: For the Kobo Forma, you'll need at least version *2018.12*.  
 Assuming that KSM supports your device, which may not be a given for recent devices, check the current KSM post first!**
 - Extract the `koreader` folder of the zip into the `.adds` directory of your device. If you are using a version of KSM older than version 8, please extract to the `.kobo` folder instead.
 
