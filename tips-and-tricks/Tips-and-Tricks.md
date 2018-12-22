@@ -22,7 +22,7 @@ Single tap on the dictionary title will make current dictionary the default dict
 Single tap on the mini progress bar will switch between various modes. You can try tapping slightly *above* the progress bar if this doesn't work. You can also use "Status bar" menu to show all this info at once. Long touch on the progress bar will invoke the "Goto page" dialog.
 
 ### 6. Flipped/Inverted Screen orientation
-A tap on the current orientation (whether it be "portrait" or "landscape") option in screen mode panel of the reader config window will flip the screen by 180 degrees, allowing you to switch to Inverted Portrait (Upside Down), and Inverted Landscape (Counter ClockWise).
+A tap on the current orientation (whether it be "portrait" or "landscape") button in the orientation tab of the bottom reader menu will flip the screen by 180 degrees, allowing you to switch to Inverted Portrait (Upside Down), and Inverted Landscape (Counter ClockWise).
 
 ### 7. Quick go back from link
 After following links in both EPUB and PDF documents, you can easily go back to the original page by executing a swipe from left to right.
