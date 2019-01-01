@@ -37,6 +37,7 @@
 | EPUB style tweaks | [supported](https://github.com/koreader/koreader/wiki/Style-tweaks) |
 | EPUB alternate TOC | [supported](https://github.com/koreader/koreader/wiki/Alternate-TOC) |
 | EPUB following links | [supported](https://github.com/koreader/koreader/wiki/Following-links-within-documents) |
+| EPUB in-page footnotes | [supported](https://github.com/koreader/koreader/wiki/In-page-footnotes) |
 | Evernote export(Evernote plugin) | supported |
 | Wireless doc sharing(ZSync plugin) | supported |
 | OPDS catalog | supported, including the Calibre Content Server catalog |
