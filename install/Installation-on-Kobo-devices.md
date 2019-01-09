@@ -2,7 +2,14 @@
 
 NOTE: **For proper Kobo Forma support, you'll need to use KOReader version *2019.01* or newer.**  
 
-### Recommended installation method based on Start Menu:
+### Semi-Automated Installation Method:
+- Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220).
+
+This bundles KFMon, and should be the most logical choice for brand new users (with no other launcher currently installed on their device).
+
+----
+
+### Manual Installation Method based on Kobo Start Menu:
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
 - Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.  
 ***This assumes that KSM actually supports your device, which may not be a given for recent devices, check the current KSM post first!***
@@ -12,7 +19,7 @@ Now you should be able to select KOReader in the Kobo Start Menu.
 
 ----
 
-### Alternate installation method based on KFMon:
+### Alternative Manual Installation Method based on KFMon:
 
 - Download the latest [install package](http://www.mobileread.com/forums/showthread.php?t=274231) for [**KFMon**](https://github.com/NiLuJe/kfmon).
 - Extract the full content of this archive into the *root* directory of your device (i.e., not under *any* subdirectory).
