@@ -9,9 +9,9 @@ In general, the newer the device, the trickier it gets.
 Certain minor features may currently still be unavailable on non-touch devices such as the Kindle 4 (NT) and earlier. Don't hesitate to check and open an issue if you encounter such a problem.
 
 ## Installation
-Besides the reader itself, you will also need to install a launcher. For that purpose, you can use KPVBooklet or KUAL, or even both, with the caveat that KPVBooklet only supports devices running FW 5.x, and may have some trouble on recent FW 5.x releases ;).
+Besides the reader itself, you will also need to install a launcher. For that purpose, you can use KPVBooklet or KUAL, or even both, with the caveat that KPVBooklet only supports devices running FW 5.x, and may not function properly on recent FW 5.x releases ;).
 
-  1. Jailbreak your Kindle, refer to [this post](http://www.mobileread.com/forums/showthread.php?t=186645) or others, depending on your device.
+  1. Jailbreak your Kindle, refer to [this post](http://www.mobileread.com/forums/showthread.php?t=186645) or others, depending on your device (see the NOTE at the top of this page).
   1. Install a launcher
       * Install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki).
       * Install KUAL, refer to [the official thread](http://www.mobileread.com/forums/showthread.php?t=203326)
@@ -39,7 +39,7 @@ If you need to charge your device while KOReader is running, either do it with a
 
 ## Err, there are three Kindle packages to choose from, which do I pick?
 
-They're indicative of the earliest device family the binaries support (and are optimized for). Ideally, you choose the one that most closely matcesh your actual device, in order to enjoy the best possible performance.
+They're indicative of the earliest device family the binaries support (and are optimized for). Ideally, you choose the one that most closely matches your actual device, in order to enjoy the best possible performance.
 
 * **Legacy**: K2, DX, K3 (and all their variants).
 * **Kindle**: K4, K5, PW1
