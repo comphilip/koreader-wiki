@@ -37,6 +37,18 @@ KOReader has a build-in OCR engine for recognizing words in scanned PDF/DJVU pag
 
 You can download dictionaries from the internet as shown [here.](https://github.com/koreader/koreader/wiki/Dictionary-download)
 
+### Sorting how dictionaries are displayed
+
+Dictionaries are shown in the order as they were placed in `data/dict` folder. To sort them, you need to move them out of this directory and then place them again back in order you want them to be displayed.
+
+Safest procedure is:
+
+1. First rename dict folder to some new name (e.g. dict.old).
+2. Then create new dict directory.
+3. Start moving back in new dict directory dictionaries one by one in order you want them to appear.
+
+More info can be found [here.](https://github.com/koreader/koreader/issues/4504#issuecomment-457388178)
+
 ### Tips and tricks
 
 To open word in dictionary, press and hold. But, press and hold for more than 3s, it opens menu with more options, as described [here](https://github.com/koreader/koreader/pull/3199).
