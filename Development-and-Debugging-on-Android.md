@@ -66,10 +66,11 @@ adb exec-out run-as org.koreader.launcher ls /data/user/0/org.koreader.launcher/
 
 ## API levels
 
-We try to maintain compatibility with API level 9.
+We try to maintain compatibility with API level 14.
 
 Android version | API level
 --- | ---
+Android 9.0 | 28
 Android 8.0 | 26
 Android 6.0 | 23
 Android 5.0 | 21
