@@ -22,6 +22,7 @@ This is done via the defaults.lua system (or, persistent.defaults.lua, which sur
 If you actively use both storage locations with Calibre, you'll probably want to use something like:
 
 SEARCH_LIBRARY_PATH  = "/mnt/onboard"
+
 SEARCH_LIBRARY_PATH2 = "/mnt/sd"
 
 (make sure to use correct path)
