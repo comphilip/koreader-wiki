@@ -53,9 +53,30 @@ or to see all android logs:
 
 # Debugging
 
-TODO : can anyone help here?
-
 Basic principle explained in https://mhandroid.wordpress.com/2011/01/25/how-cc-debugging-works-on-android/
+
+See some notes on using gdb [here](https://github.com/koreader/koreader/issues/3385#issuecomment-453240707).
+
+Run `ndk-gdb` from `platform/android/luajit-launcher`. You'll need that in your `$PATH`:
+
+```sh
+export PATH=$PATH:whatever/android-ndk-r15c/prebuilt/linux-x86_64/bin
+```
+
+Diff to work around error:
+```diff
+--- android-ndk-r15c-orig/build/gmsl/__gmsl     2017-07-21 11:03:50.000000000 +0200
++++ android-ndk-r15c/build/gmsl/__gmsl  2019-01-10 21:20:16.847568638 +0100
+@@ -509,7 +509,7 @@
+ # Arguments: 1: A number in human-readable integer form
+ # Returns:   Returns the integer encoded as a string of x's
+ # ----------------------------------------------------------------------------
+-int_encode = $(__gmsl_tr1)$(wordlist 1,$1,$(__gmsl_input_int))
++int_encode = $(__gmsl_tr1)$(wordlist 1,$(words $1),$(__gmsl_input_int))
+ 
+ # The arithmetic library functions come in two forms: one form of each
+ # function takes integers as arguments and the other form takes the
+```
 
 Without a rooted device you can't browse around in /data but you can execute commands like this:
 ```
