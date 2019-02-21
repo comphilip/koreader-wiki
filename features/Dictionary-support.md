@@ -17,7 +17,14 @@ The StarDict format dictionary files have suffixes `*.idx`, `*.ifo` or `*.ifo.gz
 
 You can use HTML encoded dictionaries, as described [here.](https://github.com/koreader/koreader/pull/3573)
 
-Also, dictionaries could be tweaked with custom css file, as described [here](https://github.com/koreader/koreader/pull/3585) and [here.](https://github.com/koreader/koreader/pull/3573#issuecomment-355848649) You can find sample files how to tweak them [here.](https://github.com/koreader/koreader/pull/3585#issuecomment-361203757) And some more discussion can be found [here.](https://github.com/koreader/koreader/issues/3606)
+Also, dictionaries could be tweaked with custom css file, as described [here](https://github.com/koreader/koreader/pull/3585) and [here.](https://github.com/koreader/koreader/pull/3573#issuecomment-355848649) You can find sample files how to tweak them [here.](https://github.com/koreader/koreader/pull/3585#issuecomment-361203757) And some more discussion can be found [here](https://github.com/koreader/koreader/issues/3606).
+
+We use MuPDF to render the HTML dictionary results. Unfortunately, MuPDF expects its input to be XHTML, that is totally correct XML, balanced, all tags and attributes in lowercase... HTML.
+When it is not, KOReader noticed MuPDF didn't like it, and falls back to stripping tags, keeping line feeds, like it used to do before, and give it back to MuPDF (well, may be it is not as good as it was before when we just stripped tags and render with TextBoxWidget...)
+
+We can't easily fix and convert any HTML to XHTML, but one can add a .lua file in the dict directory with code to tweak the output before feeding it to MuPDF.
+
+You need to be at ease with lua, or just hack the [samples](https://github.com/koreader/koreader/pull/3585#issuecomment-361203757) @poire-z created for some french dicts. More details in #3585 (and  #3606, #3611).
 
 ### Converting from other sources
 
