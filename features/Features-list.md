@@ -4,6 +4,7 @@
 | document supported formats |  PDF, DJVU, EPUB, MOBI, PDB, TXT, ZIP, CBZ, FB2, RTF, CHM, DOC |
 | image supported formats |  PNG, JPG, TIFF, GIF, [SVG](https://github.com/koreader/koreader/pull/2832) |
 | native system integration | supported on Kindle devices |
+| Multiswipe gestures | [supported](https://github.com/koreader/koreader/wiki/multiswipes), including multiswipes recorder and editor |
 | localization | [supported](https://github.com/koreader/koreader/wiki/Localization) |
 | file manager | [supported](https://github.com/koreader/koreader/wiki/File-manager) |
 | screenshot | supported |
