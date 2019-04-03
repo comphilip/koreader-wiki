@@ -1,7 +1,7 @@
 ## Touch, Mini, Glo, Aura, Glo HD, Aura HD, H2O, Touch 2.0, Aura One, Aura Edition 2, H2O Edition 2, Clara HD, Forma
 
 ### Semi-Automated Installation Method:
-- Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220).
+- Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220), in particular the second post.
 
 This bundles KFMon, and should be the most logical choice for brand new users (with no other launcher currently installed on their device).
 
