@@ -34,6 +34,7 @@ You'll then be able to simply tap the KOReader icon in your Home or your Library
 ### What about manual updates?
 
 No matter your original installation method, whenever you want to update KOReader, it should be sufficient to extract the `koreader` folder, overwriting the previously installed version.
+We highly recommend that you stick with the in-app update mechanism, though ;).
 
 ----
 
@@ -46,3 +47,5 @@ If you spend most of your time in custom software, be it KOReader or other piece
 If you spend most of your time in Nickel, Kobo's own software, KFMon will probably appeal to you, because it's much less intrusive, and works in tandem with Nickel.
 
 On a device that just recently came out, the fact that KFMon is hardware-agnostic may be an interesting design feature ;). (And the same applies to fmon).
+
+Remember that launchers (i.e., KFMon/KSM/fmon) are mutually exclusive, and while nothing really bad will happen if you mix a few of them together, it can lead to puzzling results. By design, between fmon and KFMon, only the one installed *last* will take, while KSM will always take precedence over everything else.
