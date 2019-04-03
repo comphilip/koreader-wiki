@@ -1,7 +1,5 @@
 ## Touch, Mini, Glo, Aura, Glo HD, Aura HD, H2O, Touch 2.0, Aura One, Aura Edition 2, H2O Edition 2, Clara HD, Forma
 
-NOTE: **For proper Kobo Forma support, you'll need to use KOReader version *2019.01* or newer.**  
-
 ### Semi-Automated Installation Method:
 - Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220).
 
