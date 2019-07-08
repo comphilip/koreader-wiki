@@ -1,4 +1,4 @@
-**本文已过时很久 ** 请查看英文版： https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices
+**本文已过时很久** 请查看英文版： https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices
 ## 安装
 在安装KOReader之前，你需要安装KOReader的启动器。目前KPVBooklet和KUAL都支持启动KOReader，你可以任选一个安装或者两个都安装。
 
