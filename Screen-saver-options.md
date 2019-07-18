@@ -38,3 +38,11 @@ Before editing settings.reader.lua it is best to make backup copy. When editing 
 Example settings within settings.reader.lua:
 
 > ["auto_suspend_timeout_seconds"] = 900,
+
+# Screensaver message with additional info
+
+Screensaver message can have additional info, like percentage read, page number, title...
+
+![](https://user-images.githubusercontent.com/52647914/61449321-38caba80-a987-11e9-927a-ad8833f1389d.png)
+
+![](https://user-images.githubusercontent.com/52647914/61422734-9509ec00-a93f-11e9-93e4-0202877a1f2a.jpg)
