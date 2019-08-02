@@ -8,7 +8,7 @@ There are two configuration files that contain the initial settings for KOReader
 | ------ | ------ | ------ | ------ | ------ |
 | `DRCOUNTMAX = 6` | `defaults.lua` | `1` - `99` | full refresh interval for eink devices | ALL |
 | `DFULL_SCREEN = 1` | `defaults.lua` | `1` or `0` | hiding progress bar | PDF/DJVU |
-| `DSCROLL_MODE = 0` | `defaults.lua` | `1` or `0` | displaying pages continuously | PDF/DJVU |
+| `DSCROLL_MODE = 1` | `defaults.lua` | `1` or `0` | displaying pages continuously | PDF/DJVU |
 | `DSHOWOVERLAP = false` | `defaults.lua` | `false` or `true` | showing gray area to indicate page overlap | PDF/DJVU |
 | `DHINTCOUNT = 2` | `defaults.lua` | `0` - `3` | number of pages to render ahead in background | PDF/DJVU |
 | `DCREREADER_VIEW_MODE = "page"` | `defaults.lua` | `"page"` or `"scroll"` | pagination in "page" mode, no pagination in "scroll" mode | EPUB/FB2 |
