@@ -29,4 +29,4 @@ cp /mnt/private/koreader/koreader-standalone.sh /etc/rc.local
 
 
 ***
-Adapted from [This post on Mobileread](https://www.mobileread.com/forums/showpost.php?p=3760905&postcount=2).
+You can check the entire installation instructions and some device details in [the official post on Mobileread](https://www.mobileread.com/forums/showthread.php?t=311571).
