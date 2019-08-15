@@ -16,9 +16,9 @@ An extended survey can be found on [[Features list]] or jump directly to [Config
 
 ## Getting started
 
-First-time users need to setup a way to launch KOReader. Choose your device brand and follow the model specific steps on one of the following pages: [Android](https://github.com/koreader/koreader/wiki/Installation-on-Android-devices), [Cervantes](https://github.com/koreader/koreader/wiki/Installation-on-BQ-devices), [Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices),  [Kobo](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices), [Pocketbook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices) or [Desktop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux).
- 
-This brand-model separation stems from the highly device-specific tool-chains used. 
+> Some of the content on the WIKI might be out of date. You are welcome to make it better by opening an issue if you find any of the instructions unclear or confusing.
+
+First-time users need to setup KOReader based on device brand. Please follow the model specific steps on one of the following pages: [Android](https://github.com/koreader/koreader/wiki/Installation-on-Android-devices), [Cervantes](https://github.com/koreader/koreader/wiki/Installation-on-BQ-devices), [Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices),  [Kobo](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices), [Pocketbook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices) or [Desktop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux).
 
 ## Installation/Upgrading
 <a name="installation"/>
@@ -58,16 +58,15 @@ KOReader is rewrite of "kindlepdfviewer", which is originally built by [hawhill]
 
 ### Users
 
-> Some of the content on the WIKI might be out of date. You are welcome to make it better by opening an issue if you find any of the instructions unclear or confusing.
-
 You can open new issues on the [issue tracker][issue-tracker]. There are related discussion threads on the MobileRead Forums, one of the largest English language web forums for e-book reading/publishing:
 
-* [KOReader Forum](http://www.mobileread.com/forums/forumdisplay.php?f=276)
-* [KOReader for Kindle devices](http://www.mobileread.com/forums/showthread.php?t=209276)
-* [KOReader for Kobo devices](http://www.mobileread.com/forums/showthread.php?t=216960)
-* [KOReader for PocketBook devices](http://www.mobileread.com/forums/showthread.php?t=254659) 
-* [KOReader for Android devices](http://www.mobileread.com/forums/showthread.php?t=240617)  
-* [mailing list](https://www.freelists.org/list/koreader)
+* [[KOReader Forum | http://www.mobileread.com/forums/forumdisplay.php?f=276]]
+* [[KOReader for Android devices | http://www.mobileread.com/forums/showthread.php?t=240617]]
+* [[KOReader for Cervantes devices | http://www.mobileread.com/forums/showthread.php?t=311571]]
+* [[KOReader for Kindle devices | http://www.mobileread.com/forums/showthread.php?t=209276]]
+* [[KOReader for Kobo devices | http://www.mobileread.com/forums/showthread.php?t=216960]]
+* [[KOReader for PocketBook devices | http://www.mobileread.com/forums/showthread.php?t=254659]]
+* [[Mailing list | https://www.freelists.org/list/koreader]]
 
 ### Hackers
 
