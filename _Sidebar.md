@@ -1,12 +1,12 @@
 # [Installation](https://github.com/koreader/koreader/wiki#installationupgrading)
 
 * [Changelog](https://github.com/koreader/koreader/wiki/Changelog)
-* [Installation-on-Android-devices](https://github.com/koreader/koreader/wiki/Installation-on-Android-devices)
-* [Installation-on-BQ-devices](https://github.com/koreader/koreader/wiki/Installation-on-BQ-devices)
-* [Installation-on-Kindle-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
-* [Installation-on-Kobo-devices](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
-* [Installation-on-PocketBook-devices](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
-* [Installation-on-Destop-Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux)
+* [Install on Android](https://github.com/koreader/koreader/wiki/Installation-on-Android-devices)
+* [Install on Cervantes](https://github.com/koreader/koreader/wiki/Installation-on-BQ-devices)
+* [Install on Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
+* [Install on Kobo](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
+* [Install on PocketBook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
+* [Install on Destop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux)
 
 # [Development](https://github.com/koreader/koreader/wiki#hackers)
 * [Development and Debugging on Android](https://github.com/koreader/koreader/wiki/Development-and-Debugging-on-Android)
