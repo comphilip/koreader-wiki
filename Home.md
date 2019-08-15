@@ -16,7 +16,9 @@ An extended survey can be found on [[Features list]] or jump directly to [Config
 
 ## Getting started
 
-First-time users need to setup a way to launch KOReader. Choose your device brand and follow the model specific steps on one of the following pages: [Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices),  [Kobo](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices) or [Pocketbook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices). This brand-model separation stems from the highly device-specific tool-chains used. 
+First-time users need to setup a way to launch KOReader. Choose your device brand and follow the model specific steps on one of the following pages: [Android](https://github.com/koreader/koreader/wiki/Installation-on-Android-devices), [Cervantes](https://github.com/koreader/koreader/wiki/Installation-on-BQ-devices), [Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices),  [Kobo](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices), [Pocketbook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices) or [Desktop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux).
+ 
+This brand-model separation stems from the highly device-specific tool-chains used. 
 
 ## Installation/Upgrading
 <a name="installation"/>
