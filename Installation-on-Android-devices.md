@@ -1,8 +1,8 @@
-KOReader isn't available on Google Playstore. You'll need to intall it from other sources.
+KOReader isn't available on Google Playstore. You'll need to install it from other sources.
 
 1. Enable [installation from unknown sources](https://www.androidcentral.com/unknown-sources)
 
-2. Install KORader
+2. Install KOReader
 
     2.1 **From Fdroid**: if you have FDroid installed you can install KOReader just by searching the package inside Fdroid.
 
