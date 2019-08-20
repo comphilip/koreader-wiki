@@ -8,9 +8,6 @@
 * [Install on PocketBook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
 * [Install on Destop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux)
 
-# [Development](https://github.com/koreader/koreader/wiki#hackers)
-* [Development and Debugging on Android](https://github.com/koreader/koreader/wiki/Development-and-Debugging-on-Android)
-
 # [Tips and Tricks](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
 * [Getting started](https://github.com/koreader/koreader/wiki/Getting-Started)
 * [Gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures)
@@ -20,9 +17,7 @@
 * [Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
 * [Troubleshooting](https://github.com/koreader/koreader/wiki/Troubleshooting)
 
-# Features
-
-* [Features list](https://github.com/koreader/koreader/wiki/Features-list)
+# [Features](https://github.com/koreader/koreader/wiki/Features-list)
 * [Calibre wireless connection](https://github.com/koreader/koreader/wiki/Calibre-wireless-connection)
 * [Dictionary support](https://github.com/koreader/koreader/wiki/Dictionary-support)
 * [Evernote export](https://github.com/koreader/koreader/wiki/Evernote-export)
@@ -31,8 +26,7 @@
 * [Wikipedia-support](https://github.com/koreader/koreader/wiki/Wikipedia-support)
 * [Zsync-transport](https://github.com/koreader/koreader/wiki/Zsync-transport)
 
-# Plugins
-
+# [Plugins](https://github.com/koreader/koreader/wiki/Plugins-overview)
 * [Auto frontlight](https://github.com/koreader/koreader/wiki/Auto-frontlight)
 * [Auto suspend](https://github.com/koreader/koreader/wiki/Auto-suspend)
 * [Background runner](https://github.com/koreader/koreader/wiki/Background-runner)
@@ -53,7 +47,19 @@
 * [System statistics](https://github.com/koreader/koreader/wiki/System-statistics)
 * [Terminal emulator](https://github.com/koreader/koreader/wiki/Terminal-emulator)
 * [Time sync](https://github.com/koreader/koreader/wiki/Time-sync)
+* [Wallabag](https://github.com/koreader/koreader/wiki/Wallabag)
 * [ZSync](https://github.com/koreader/koreader/wiki/Zsync-transport)
+
+# [Development](https://github.com/koreader/koreader/wiki#hackers)
+* [[Building the emulator|https://github.com/koreader/koreader/blob/master/doc/Building.md]]
+* [[Coding Style|https://github.com/koreader/koreader-base/wiki/Coding-style]]
+* [[Development and Debugging on Android|https://github.com/koreader/koreader/wiki/Development-and-Debugging-on-Android]]
+* [How to collaborate with Git](http://koreader.rocks/doc/topics/Collaborating.html)
+* [How to port KOReader to other platform](http://koreader.rocks/doc/topics/Porting.md.html)
+* [Remote debugging with gdbserver](https://github.com/koreader/koreader-base/wiki/Remote-debugging-with-gdbserver)
+* [[UI Events|http://koreader.rocks/doc/topics/Events.md.html]]
+
+
 
 # [简体中文](https://github.com/koreader/koreader/wiki/KOReader维基)
 
