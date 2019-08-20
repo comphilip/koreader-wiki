@@ -29,4 +29,4 @@ All you need to do is copy RSS/Atom url address and use it in News downloader co
 
 
 
-For more information about RSS/Atom please refer to https://en.wikipedia.org/wiki/RSS
+For more information about RSS/Atom please refer to https://en.wikipedia.org/wiki/RSS and https://en.wikipedia.org/wiki/Atom_(standard)
