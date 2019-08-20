@@ -22,9 +22,9 @@ Details:
 
 ## Download feeds.
 
-All you need to do is copy RSS/Atom url address and use it in News downloader configuration and press “Download news” to start downloading. If successful, once finished, it creates in News downloader directory subfolder for every feed provider.
+All you need to do is copy an RSS/Atom URL, use it in News downloader configuration and press “Download news” to start downloading. If successful, once finished, it creates a subfolder in the News downloader directory for every feed provider.
 
-**Note**: Remember to put coma at the end of each entry!
+**Note**: Remember to put a comma at the end of each entry!
 
 
 
