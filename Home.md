@@ -4,7 +4,7 @@
 
 [简体中文](wiki/KOReader维基)
 
-_KOReader is a document viewer for E-ink devices. Supported document formats include PDF, DjVu, XPS, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, EPUB, DOC, MOBI, and ZIP files. Latest Kindle and Kobo devices are supported. The original  software stays available to use after installation._
+_KOReader is a document viewer for E-ink devices. Supported document formats include PDF, DjVu, XPS, CBZ, FB2, PDB, TXT, HTML, RTF, CHM, EPUB, DOC, MOBI, and ZIP files. The latest Kindle and Kobo devices are supported. The original software stays available to use after installation._
 
 * reflow of complex PDF's using `k2pdfopt`
 * saving and exporting notes to files or Evernote 
@@ -27,17 +27,17 @@ Make sure that you have completed the preceding setup completely. Save the setti
 
 ### Using Wi-Fi
 
-Assuming you already installed KOReader successfully. Enable Wi-Fi and connect to the internet. Use KOReader's top menu to check for a new version. You can to check for upgrades on predefined stable or nightly OTA channels.
+Assuming you have already installed KOReader successfully, enable Wi-Fi and connect to the internet. Use KOReader's top-right menu to check for a new version. You can check for upgrades on predefined stable or development channels.
 
 ### Connected as a USB mass storage device
 
 Choose the KOReader build archive appropriate for your device from the following channels:
 
-- [nightly builds](http://build.koreader.rocks/download/nightly/): generated automatically overnight. These builds sometimes contain severe bugs (tracked in [issue tracker][issue-tracker]), but they also contain the latest daily patches.
-- [stable builds](https://github.com/koreader/koreader/releases): released every two months on average. Release notes are attached.
-- [custom builds](https://github.com/koreader/koreader#building-prerequisites): build it by yourself.
+- [nightly builds](http://build.koreader.rocks/download/nightly/): generated automatically overnight. These builds sometimes contain severe bugs (tracked in the [issue tracker][issue-tracker]), but they also contain the latest daily patches.
+- [stable builds](https://github.com/koreader/koreader/releases): released once a month. Release notes are included with the release.
+- [custom builds](https://github.com/koreader/koreader#building-prerequisites): build it yourself.
 
-Unpack the downloaded archive in the right folder on your device (see device specific setup instructions for finding the correct path) to install/upgrade. 
+Unpack the downloaded archive in the right folder on your device (see device-specific setup instructions for finding the correct path) to install/upgrade. 
 
 ## Configuration
 <a name="configuration"/>
@@ -54,7 +54,7 @@ After starting up KOReader, all you need to do is navigate the file manager to a
 ## Development community
 <a name="community"/>
 
-KOReader is rewrite of "kindlepdfviewer", which is originally built by [hawhill](http://www.mobileread.com/forums/member.php?u=86292) based on the [mupdf](http://www.mupdf.com/) source. Since then it has come a long way, based on requests and updates by hackers around the world. The name "KOReader stands for Kindle/Kobo Open Reader, the devices for which KOReader originally was written. 
+KOReader is a rewrite of "kindlepdfviewer", which was originally built by [hawhill](http://www.mobileread.com/forums/member.php?u=86292) based on the [mupdf](http://www.mupdf.com/) source. Since then it has come a long way, based on requests and updates by hackers around the world. The name "KOReader stands for Kindle/Kobo Open Reader, the devices for which KOReader originally was written. 
 
 ### Users
 
