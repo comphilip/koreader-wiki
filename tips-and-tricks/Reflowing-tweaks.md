@@ -1,1 +1,1 @@
-Most important parameter for page reflowing is "Word Gap". And tweaking it "small" or "large" will make totally different results. It's suggested to be set "large" for western languages and "small" for CJK languages.
+The most important parameter for page reflowing is "Word Gap". Tweaking it "small" or "large" will yield completely different results. It's recommended to set the value to "large" for western languages and "small" for CJK languages.
