@@ -1,13 +1,13 @@
 ## Installation
-You need to obtain a recent PocketBook package from [this page](https://github.com/koreader/koreader/releases) and unzip the archive into your computer storage. There will be two directories namely `applications` and `system` in the unzipped directory.
+You need to obtain a recent PocketBook package from [the releases page](https://github.com/koreader/koreader/releases). Then unzip the archive on your computer. There will be two directories in the unzipped directory, namely `applications` and `system`.
 
-1. Install KOReader in applications menu
+1. Install KOReader in the applications menu
     1. copy and merge the `applications` directory in the unzipped archive into your PocketBook's USB root directory
-1. Associate PDF/DJVU/EPUB/FB2 documents to Koreader (optional)
+1. Associate PDF/DjVu/EPUB/FB2 documents with KOReader (optional)
     1. copy and merge the `system` directory in the unzipped archive into your PocketBook's USB root directory
     1. Note: Pocketbook Touch Lux 3 (and possibly other models) require a more sophisticated method in the form of a script. See [this comment](https://github.com/koreader/koreader/issues/3544#issuecomment-396253917).
 1. Install Stardict dictionaries (optional)
     1. Copy Stardict format dictionary files (*.idx, *.ifo, *.dict) into the `applications/koreader/data/dict` directory.
 1. Install Tesseract language data (optional)
-    1. Copy Tesseract-OCR language data files (eng.*) for Tesseract 3.02 into the `applications/koreader/data/tessdata` directory.
+    1. Copy Tesseract-OCR language data files (eng.*) for Tesseract 3.04 into the `applications/koreader/data/tessdata` directory. See [here](https://github.com/koreader/koreader/wiki/Dictionary-support#dictionary-lookups-in-scanned-pages) for more information.
 
