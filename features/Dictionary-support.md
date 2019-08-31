@@ -24,7 +24,18 @@ When it is not, KOReader notices MuPDF didn't like the HTML, and falls back to s
 
 We can't easily fix and convert any HTML to XHTML, but one can add a .lua file in the `dict` directory with code to tweak the output before feeding it to MuPDF.
 
-You need to be at ease with Lua, or just hack the [samples](https://github.com/koreader/koreader/pull/3585#issuecomment-361203757) @poire-z created for some french dicts. More details in #3585 (and  #3606, #3611).
+You need to be at ease with Lua, or just hack the [samples](https://github.com/koreader/koreader/pull/3585#issuecomment-361203757) @poire-z created for some french dicts. More details in #3585 (and  #3606, [#3611](https://github.com/koreader/koreader/issues/3611#issuecomment-361557060)).
+
+#### To strip inline CSS
+You can strip (or more simply make them not interpreted by MuPDF) the inline css with something like the following in the `<dictfilename>.lua`:
+```lua
+return function(html)
+    -- html = html:gsub(' style=', ' zzztyle=')
+    html = html:gsub(' [Ss][Tt][Yy][Ll][Ee]=', ' zzztyle=')
+    return html
+end
+```
+
 
 ### Converting from other sources
 
