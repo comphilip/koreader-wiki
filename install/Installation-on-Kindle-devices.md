@@ -2,7 +2,7 @@
 KOReader can be installed on all *jailbroken* Kindle devices.
 
 **NOTE:** The ability to jailbreak a Kindle device depends on both the model, the specific variant of its model, and the current firmware version it's running.
-Detailing all of the intricacies this can involve is out of scope for this document, so, please check the current state of things on [MobileRead](https://www.mobileread.com/forums/forumdisplay.php?f=150). Currently, [this thread](https://www.mobileread.com/forums/showthread.php?t=320564) should be a good starting point.
+Detailing the whole process is out of scope for this document, so, please check the current state of things on [MobileRead](https://www.mobileread.com/forums/forumdisplay.php?f=150). Currently, [this thread](https://www.mobileread.com/forums/showthread.php?t=320564) should be a good starting point.
 In general, the newer the device, the trickier it gets.
 
 
