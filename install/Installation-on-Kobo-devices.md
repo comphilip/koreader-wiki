@@ -20,8 +20,6 @@ This bundles KFMon, and should be the most logical choice for brand new users (w
 
 You'll then be able to simply tap the KOReader icon in your Home or your Library to launch KOReader!
 
-**NB:** You can also use a safe implementation of [fmon](https://github.com/baskerville/fmon) instead of KFMon, if you so desire. More detailed instructions on how to do so are available [here](https://github.com/koreader/koreader/blob/master/platform/kobo/fmon/README.txt#L12).
-
 ----
 
 ### Alternative Manual Installation Method based on Kobo Start Menu:
