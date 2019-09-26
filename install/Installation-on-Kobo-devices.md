@@ -15,6 +15,7 @@ This bundles KFMon, and should be the most logical choice for brand new users (w
 - Extract the full content of this archive into the *root* directory of your device (i.e., not under *any* subdirectory).
 - Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.
 - Extract the `koreader` folder of the zip into the `.adds` directory of your device (a directory which may have just been created by KFMon's archive).
+- You'll probably want to [prevent Nickel from scanning our custom directories](https://github.com/NiLuJe/kfmon/blob/812b7dc46eef92772c8a5f756a92a54e1c7f6c37/tools/install.sh#L85-L99), too.
 - Eject & unplug your device. Nickel should then appear to be processing a book, before restarting to process an update.
 
 You'll then be able to simply tap the KOReader icon in your Home or your Library to launch KOReader!
