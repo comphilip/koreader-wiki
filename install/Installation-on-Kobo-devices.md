@@ -9,17 +9,7 @@ This bundles KFMon, and should be the most logical choice for brand new users (w
 
 ----
 
-### Manual Installation Method based on Kobo Start Menu:
-- Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
-- Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.  
-***This assumes that KSM actually supports your device, which may not be a given for recent devices, check the current KSM post first!***
-- Extract the `koreader` folder of the zip into the `.adds` directory of your device. If you are using a version of KSM older than version 8, please extract to the `.kobo` folder instead.
-
-Now you should be able to select KOReader in the Kobo Start Menu.
-
-----
-
-### Alternative Manual Installation Method based on KFMon:
+### Manual Installation Method based on KFMon:
 
 - Download the latest [install package](http://www.mobileread.com/forums/showthread.php?t=274231) for [**KFMon**](https://github.com/NiLuJe/kfmon).
 - Extract the full content of this archive into the *root* directory of your device (i.e., not under *any* subdirectory).
@@ -30,6 +20,16 @@ Now you should be able to select KOReader in the Kobo Start Menu.
 You'll then be able to simply tap the KOReader icon in your Home or your Library to launch KOReader!
 
 **NB:** You can also use a safe implementation of [fmon](https://github.com/baskerville/fmon) instead of KFMon, if you so desire. More detailed instructions on how to do so are available [here](https://github.com/koreader/koreader/blob/master/platform/kobo/fmon/README.txt#L12).
+
+----
+
+### Alternative Manual Installation Method based on Kobo Start Menu:
+- Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
+- Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.  
+***This assumes that KSM actually supports your device, which may not be a given for recent devices, check the current KSM post first!***
+- Extract the `koreader` folder of the zip into the `.adds` directory of your device. If you are using a version of KSM older than version 8, please extract to the `.kobo` folder instead.
+
+Now you should be able to select KOReader in the Kobo Start Menu.
 
 ----
 
