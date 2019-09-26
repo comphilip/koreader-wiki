@@ -1,6 +1,6 @@
-## Touch, Mini, Glo, Aura, Glo HD, Aura HD, H2O, Touch 2.0, Aura One, Aura Edition 2, H2O Edition 2, Clara HD, Forma, Libra H2O
+## Touch, Mini, Glo, Aura, Glo HD, Aura HD, Aura H2O, Touch 2.0, Aura One, Aura Edition 2, Aura H2O Edition 2, Clara HD, Forma, Libra H2O
 
-NOTE: **For proper Kobo Libra support, you'll need to use KOReader version *2019.10* or newer.**  
+NOTE: **For proper Kobo Libra H2O support, you'll need to use KOReader version *2019.10* or newer.**  
 
 ### Semi-Automated Installation Method:
 - Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220), in particular the second post.
