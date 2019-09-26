@@ -50,6 +50,6 @@ Nowadays, the choice could be boiled down to this question: how do you actually 
 If you spend most of your time in custom software, be it KOReader or other pieces of third-party software, you'll probably want to go with KSM.
 If you spend most of your time in Nickel, Kobo's own software, KFMon will probably appeal to you, because it's much less intrusive, and works in tandem with Nickel.
 
-On a device that just recently came out, the fact that KFMon is hardware-agnostic may be an interesting design feature ;). (And the same applies to fmon).
+On current devices, the fact that KFMon is hardware-agnostic will be a plus, as KSM is currently in maintenance mode, and as such doesn't support newer devices.
 
 Remember that launchers (i.e., KFMon/KSM/fmon) are mutually exclusive, and while nothing really bad will happen if you mix a few of them together, it can lead to puzzling results. By design, between fmon and KFMon, only the one installed *last* will take, while KSM will always take precedence over everything else.
