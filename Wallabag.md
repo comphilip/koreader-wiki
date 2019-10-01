@@ -1,0 +1,1 @@
+Download the latest articles from a Wallabag server as EPUB files.
