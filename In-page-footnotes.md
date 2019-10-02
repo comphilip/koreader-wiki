@@ -11,3 +11,11 @@ Image where you're setting additional style tweaks:
 You can also have footnotes popup by selecting this setting `Settings → Links → Show footnotes in popup` and it looks like this (footnote in popup after tapping on footnote link):
 
 ![](https://user-images.githubusercontent.com/202757/52880603-abc6cf80-3162-11e9-9e00-bb89cbd52e71.png)
+
+
+
+***
+
+Useful info can be that touch zone for footnotes can become larger, in case you have problems targeting your footnotes on your device. More info can be found [here.](https://github.com/koreader/koreader/issues/5445)
+
+![](https://user-images.githubusercontent.com/24273478/66081617-a0e17380-e568-11e9-85a3-1cf0eed195d9.png)
