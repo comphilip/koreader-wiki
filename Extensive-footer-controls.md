@@ -12,6 +12,19 @@ You can place progress bar in second line, allowing all other footer elements to
 
 More info on progress bar in second line can be found [here.](https://github.com/koreader/koreader/pull/5405)
 
+Progress bar's outlook can also be extensively controlled:
+
+* removed LineWidget changes,
+* adapted ProgressWidget to show thin bar,
+* ability to choose progress bar width (edge to edge, balanced, like book margins),
+* ability to choose progress bar height (from 1 to 4 px for thin bar style and from 5 to 14 for thick bar),
+* removed DMINIBAR_HEIGHT - now is set up by bar height in Progress bar style,
+* ability to set up bar position (top, bottom, aside)
+
+![](https://user-images.githubusercontent.com/22982594/66271463-8bb55f00-e85e-11e9-8079-83f52b4e6dc7.png)
+
+More info on how to control progress bar you can find [here.](https://github.com/koreader/koreader/pull/5442)
+
 How footer is shown is also very configurable, with many different options:
 
 ![](https://user-images.githubusercontent.com/22982594/63041720-c76c2200-bec8-11e9-9f5a-eadb73c8c8cf.png)
