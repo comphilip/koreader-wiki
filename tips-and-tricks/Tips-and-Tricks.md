@@ -41,3 +41,7 @@ There is an anchor at the middle point of each edge of the cropping box. Swiping
 ### 10. Toggle visibility of status bar easily
 (Discovered this on PDF mode, not sure if it works in Epub mode.)
 Tap the bottom right corner, the status/progress bar will disappear.
+
+### 11. Alternative Table of Contents
+[Long-pressing on the "Table of Contents" menu item will offer to generate a _ToC_ based on the document's headings.](https://github.com/koreader/koreader/pull/4011). This is useful when the native ToC isn't yet supported (EPUB3). 
+![appbar screenshot](https://user-images.githubusercontent.com/24273478/41361691-f54900ce-6f2f-11e8-99cf-99eb6a5dd9a2.png)
