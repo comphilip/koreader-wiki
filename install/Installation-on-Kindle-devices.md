@@ -35,6 +35,7 @@ NOTE: After a firmware update, you will most likely have to reinstall some stuff
 
 NOTE: On some recent FW versions, KPVBooklet may be non-functional. You may also need a tweaked version of KUAL. Again, check MobileRead's Kindle Dev forum.
 
+## USB
 **IMPORTANT NOTE:** Switching your device to USBMS mode (by plugging it to a computer over USB) while KOReader is running is *entirely unsupported*, and risks crashing in fun and interesting ways, both KOReader, and possibly the Kindle's underlying system. Recent KOReader versions make an attempt at avoiding complete and utter mayhem, but it's still not recommended to try to test that theory ;).
 If you need to charge your device while KOReader is running, either do it with a charger, or switch your device to USBNet mode first.
 
