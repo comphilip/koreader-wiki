@@ -1,3 +1,11 @@
+In KOReader the _SSH server_ settings are under Network in the _tools menu_ (Cog icon).
+
+The ssh server is dropbear. Openssh's sftp server is also installed.
+The `authorized_keys` file is at `settings/SSH/authorized_keys`.
+Username is root.
+`Login without password` lets you log in with any password (it's not to do with keys).
+
+
 # Connecting through SFTP - without password
 
 You can connect to device when it is online (in your home WiFi network) with SFTP if you setup your SSH to allow root logins without password.
