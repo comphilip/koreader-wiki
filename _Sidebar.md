@@ -6,7 +6,7 @@
 * [Install on Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
 * [Install on Kobo](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
 * [Install on PocketBook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
-* [Install on Destop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux)
+* [Install on Desktop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux)
 
 # [Tips and Tricks](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
 * [Getting started](https://github.com/koreader/koreader/wiki/Getting-Started)
