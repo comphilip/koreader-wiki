@@ -1,6 +1,6 @@
 ## Customize keys
 
-You can override key mappings by creating koreader/settings/event_map.lua with the things to override.
+You can customize key mappings by creating koreader/settings/event_map.lua with the things to override.
 
 #### example 1: override the camera key with a page forward event:
 
