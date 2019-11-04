@@ -16,6 +16,7 @@
 * [Reflowing tweaks](https://github.com/koreader/koreader/wiki/Reflowing-tweaks)
 * [Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
 * [Troubleshooting](https://github.com/koreader/koreader/wiki/Troubleshooting)
+* [Android tips and tricks](https://github.com/koreader/koreader/wiki/Android-tips-and-tricks)
 
 # [Features](https://github.com/koreader/koreader/wiki/Features-list)
 * [Calibre wireless connection](https://github.com/koreader/koreader/wiki/Calibre-wireless-connection)
