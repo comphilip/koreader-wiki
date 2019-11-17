@@ -3,7 +3,7 @@
 NOTE: **For proper Kobo Libra H2O support, you'll need to use KOReader version *2019.10* or newer.**  
 
 ### Semi-Automated Installation Method:
-- Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220), in particular the second post.
+- Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220), in particular [the second post](https://www.mobileread.com/forums/showpost.php?p=3797096&postcount=2).
 
 This bundles [**KFMon**](https://github.com/NiLuJe/kfmon), and should be the most logical choice for brand new users (with no other launcher currently installed on their device).
 
