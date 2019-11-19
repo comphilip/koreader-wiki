@@ -72,7 +72,7 @@ You can open new issues on the [issue tracker][issue-tracker]. There are related
 
 Contribute by writing code.
 
-* [[Start by building the emulator|https://github.com/koreader/koreader#building-prerequisites]]
+* [[Start by building the emulator|https://github.com/koreader/koreader/blob/master/doc/Building.md]]
 * [Coding Style][coding_style]
 * [[UI Events|http://koreader.rocks/doc/topics/Events.md.html]]
 * [How to collaborate with Git](http://koreader.rocks/doc/topics/Collaborating.html)
