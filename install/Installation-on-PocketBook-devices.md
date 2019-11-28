@@ -4,8 +4,7 @@ You need to obtain a recent PocketBook package from [the releases page](https://
 1. Install KOReader in the applications menu
     1. copy and merge the `applications` directory in the unzipped archive into your PocketBook's USB root directory
 1. Associate PDF/DjVu/EPUB/FB2 documents with KOReader (optional)
-    1. copy and merge the `system` directory in the unzipped archive into your PocketBook's USB root directory
-    1. Note: Pocketbook Touch Lux 3 (and possibly other models) require a more sophisticated method in the form of a script. See [this comment](https://github.com/koreader/koreader/issues/3544#issuecomment-396253917).
+    1. copy and merge the `system` directory in the unzipped archive into your PocketBook's USB root directory. This should work with the newest firmware and no longer requires the 'Open with' script [delineated here](https://github.com/koreader/koreader/issues/3544#issuecomment-396253917).
 1. Install Stardict dictionaries (optional)
     1. Copy Stardict format dictionary files (*.idx, *.ifo, *.dict) into the `applications/koreader/data/dict` directory.
 1. Install Tesseract language data (optional)
