@@ -22,10 +22,10 @@ return {
 
 ```lua
 return {
-   [139] = "LPgBack",
-   [140] = "LPgFwd",
-   [141] = "LPgBack",
-   [142] = "LPgFwd",
+   [139] = "LPgBack", -- Nook Left Page Back (left lower button)
+   [140] = "LPgFwd",  -- Nook Left Page Forward (left upper button)
+   [141] = "LPgFwd",  -- Nook Right Page Forward (right upper button)
+   [142] = "LPgBack", -- Nook Right Page Back (right lower button)
 }
 ```
 
