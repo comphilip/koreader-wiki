@@ -18,7 +18,7 @@ return {
 }
 ```
 
-#### example 3: add support for the custom keys used on the [Nook Glowlight 3](https://www.mobileread.com/forums/showpost.php?p=3922756&postcount=18) (top keys as page back and bottom keys as page forward)
+#### example 3: add support for the custom keys used on the [Nook Glowlight 3](https://www.mobileread.com/forums/showpost.php?p=3922840&postcount=23) (top keys as page back and bottom keys as page forward)
 
 ```lua
 return {
