@@ -29,4 +29,39 @@ return {
 }
 ```
 
-For more information see https://github.com/koreader/koreader/issues/5558#issuecomment-548993898
+## Customize dictionary list
+
+Since v2019.11.69 you can customize your third party dictionary list by creating koreader/dictionaries.lua
+
+Check the [default list](https://github.com/koreader/koreader/blob/master/frontend/device/android/dictionaries.lua#L8-L17) and create your own based on your preferences.
+
+You can also configure an action without a specific package. In that case the application picker will be shown with all the available options.
+
+#### example 1: a simple list with 2 dicts, the first one  will show the app picker with all the apps that can manage the "send" action. The second one will open the query in Colordict if the app is installed.
+
+```lua
+return {
+    { "Generic", "App picker", true, nil, "send" },
+    { "ColorDict", "ColorDict", false, "com.socialnmobile.colordict", "colordict" },
+}
+```
+
+#### example 2: like example 1 but without checking if Colordict is available each time the app runs
+
+```lua
+return {
+    { "Generic", "App picker", true, nil, "send" },
+    { "ColorDict", "ColorDict", true, "com.socialnmobile.colordict", "colordict" },
+}
+```
+
+#### example 3: open the app picker for each kind of generic intent
+
+```lua
+return {
+    { "Send", "App picker (send)", true, nil, "send" },
+    { "Search", "App picker (search)", true, nil, "search" },
+    { "TextProcessing", "App picker (text processing)", true, nil, "text" },
+}
+```
+
