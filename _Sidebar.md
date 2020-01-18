@@ -8,6 +8,20 @@
 * [Install on PocketBook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
 * [Install on Desktop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux)
 
+# Usage
+
+* Basic reading controls (TODO)
+* <details><summary>Advanced reading controls (click to open)</summary>
+
+  * [Gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures)
+  * [Press and hold](https://github.com/koreader/koreader/wiki/Press-and-hold-function)
+  * [Frontlight control](https://github.com/koreader/koreader/wiki/Light-control)
+  * [Multiswipe gestures](https://github.com/koreader/koreader/wiki/multiswipes)
+  * [Gamepad](https://github.com/koreader/koreader/wiki/Gamepad-support)
+  * [Keymapping](https://github.com/koreader/koreader/wiki/Keymapping)
+  * [Extended keyboard](https://github.com/koreader/koreader/wiki/Extended-keyboard---swipe-to-get-new-characters)
+</details>
+
 # [Tips and Tricks](https://github.com/koreader/koreader/wiki/Tips-and-Tricks)
 * [Getting started](https://github.com/koreader/koreader/wiki/Getting-Started)
 * [Gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures)
