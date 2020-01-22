@@ -1,24 +1,10 @@
 ## Customize keys
 
-You can customize key mappings by creating koreader/settings/event_map.lua with the things to override.
+KOReader supports [keymappings](https://github.com/koreader/koreader/wiki/Keymapping). While most phones and tablets use common keycodes defined by AOSP, some "closed-android" e-ink vendors use their own scheme.
 
-#### example 1: override the camera key with a page forward event:
+**NOTE:** it is impossible for a non-launcher app to override the behaviour of the home key. The rest of physical/virtual keys can be mapped.
 
-```lua
-return {
-   [27] = "LPgFwd",
-}
-```
-
-#### example 2: use key 200 as the back key
-
-```lua
-return {
-   [200] = "Back",
-}
-```
-
-#### example 3: add support for the custom keys used on the [Nook Glowlight 3](https://www.mobileread.com/forums/showpost.php?p=3922840&postcount=23) (top keys as page back and bottom keys as page forward)
+#### example 1: add support for the custom keys used on the [Nook Glowlight 3](https://www.mobileread.com/forums/showpost.php?p=3922840&postcount=23) (top keys as page back and bottom keys as page forward)
 
 ```lua
 return {
@@ -28,6 +14,18 @@ return {
    [142] = "LPgBack", -- Nook Right Page Back (right lower button)
 }
 ```
+
+#### example 2: add support for the custom keys used on the [Tolino Epos 2](https://github.com/koreader/koreader/issues/5761#issuecomment-573358732)
+
+```lua
+return {
+   [21] = "LPgBack",
+   [22] = "LPgFwd",
+}
+```
+
+To know which keycodes are being emmited by your device please follow [this link](https://github.com/koreader/koreader/issues/5761#issuecomment-573345775)
+
 
 ## Customize dictionary list
 
