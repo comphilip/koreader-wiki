@@ -1,6 +1,6 @@
 | Feature |  Status  |
 | ------ | ------ |
-|  supported devices  |  Kindle Touch, Kindle Paperwhite, Kobo Glo, Kobo Touch, Kobo Mini, Kobo Aura, Kobo Aura HD, Kobo Aura H2O  |
+|  supported devices  |  Kindle Touch, Kindle Paperwhite, Kobo Glo, Kobo Touch, Kobo Mini, Kobo Aura, Kobo Aura HD, Kobo Aura H2O, Kobo Forma  |
 | document supported formats |  PDF, DJVU, EPUB, MOBI, PDB, TXT, ZIP, CBZ, FB2, RTF, CHM, DOC |
 | image supported formats |  PNG, JPG, TIFF, GIF, [SVG](https://github.com/koreader/koreader/pull/2832) |
 | native system integration | supported on Kindle devices |
