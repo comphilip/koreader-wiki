@@ -54,4 +54,4 @@
 | Keymapping | [supported](https://github.com/koreader/koreader/wiki/Keymapping) (i.e. editing functions of physical buttons on devices that have them) |
 | Extended keyboard | [supported](https://github.com/koreader/koreader/wiki/Extended-keyboard---swipe-to-get-new-characters) (getting more similar character options after holding on any key that has similar characters) |
 | Extensive footer controls | [supported](https://github.com/koreader/koreader/wiki/Extensive-footer-controls) |
-
+| Running shell scripts | [supported](https://github.com/koreader/koreader/wiki/Shell-scripts) |
