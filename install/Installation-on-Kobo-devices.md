@@ -34,7 +34,7 @@ Now you should be able to select KOReader in the Kobo Start Menu.
 
 ### What about manual updates?
 
-No matter your original installation method, whenever you want to update KOReader, it should be sufficient to extract the `koreader` folder, overwriting the previously installed version.
+No matter your original installation method, whenever you want to update KOReader, it should be sufficient to extract the `koreader` folder on top of the existing one, overwriting the previously installed content.
 
 We highly recommend that you stick with the in-app update mechanism, though ;).
 
