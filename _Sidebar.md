@@ -6,6 +6,7 @@
 * [Install on Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
 * [Install on Kobo](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices)
 * [Install on PocketBook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
+* [Install on ReMarkable](https://github.com/koreader/koreader/wiki/Installation-on-ReMarkable)
 * [Install on Desktop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux)
 
 # Usage
