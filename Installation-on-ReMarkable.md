@@ -1,5 +1,3 @@
-- ReMarkable builds are available, starting from v2020.01-21-g1177baa_2020-02-08. Get them from [nightlies](http://build.koreader.rocks/download/nightly/)
-
 ## General
 
 When connected to WiFi you can find the IP address and root password for your
@@ -9,6 +7,8 @@ work for the USB network you get if you connect the reMarkable to your computer
 with a USB cable.
 
 ## Install
+
+- Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.
 
    ```
    scp koreader-remarkable-*.zip root@IP:
