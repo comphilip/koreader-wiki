@@ -35,7 +35,48 @@ return function(html)
     return html
 end
 ```
+#### An example of how to apply this on a dictionary
+1) Edit an `.ifo` file in the dictionary folder. There should be a parameter `sametypesequence`. To make css stripping work it should be `sametypesequence=h`.
+2) Keep in mind that css stripping is a very powerful tool which can lead to enormous substitutions. To play safe, check out the output of stardict binary to find out what tags are used in the html layout. For example, from SSH or terminal on a device, go too koreader/ directory and call `sdcv -02 data/dict quaint` , where `data/dict` is the dictionary folder and `quaint` in a search query. The output should look like this:
+```
+[root@kindle koreader]# ./sdcv -02 data/dict/ quaint
+Found 2 items, similar to quaint.
+-->Longman Dictionary of Contemporary English 5th Ed. (En-En)
+-->quaint
 
+<k>quaint</k>
+<c c="blue"><b>quaint</b></c> /kweɪnt/ <abr>BrE</abr> <rref>bre_quaint0205.wav</rref> <abr>AmE</abr> <rref>ame_quaint.wav</rref><i><c> adjective</c></i>
+<blockquote><blockquote>[<c c="lightcoral">Date: </c><c c="darkgray">1100-1200</c>; <c c="lightcoral">Language: </c><c c="darkgray">Old French</c>; <c c="lightcoral">Origin: </c><c c="darkgray">cointe</c><c c="darkgray"> </c><i><c c="lightseagreen">&apos;clever&apos;</c></i><c c="darkgray">, from </c><c c="darkgray">Latin</c><c c="darkgray"> </c><c c="darkgray">cognitus</c><c c="darkgray"> </c><i><c c="lightseagreen">&apos;known&apos;</c></i>]</blockquote></blockquote>
+<blockquote><blockquote> unusual and attractive, especially in an old-fashioned way: </blockquote></blockquote>
+<blockquote><blockquote><blockquote><blockquote>  <rref>exa_p008-000464505.wav</rref> <ex>a quaint little village in Yorkshire</ex></blockquote></blockquote></blockquote></blockquote>
+```
+From the output, several things can be extracted. One - the main tag for paragraphs is `<blockquote>`. Two - the main tag for colored text is `<c c="color">` which is not a classical css-coloring scheme. Moreover, colors themselves are written out as text instead of html-rgb references, so they might be completely ignored by KOReader. Three - there are references to `.wav` sound files which are redundant for KOReader. In dictionary applications that support such references, these are essentially small icons of a speaker action as a button to trigger the sound. However in KOReader's dictionary they will be rendered plainly as in the html source, e.g. `bre_quaint0205.wav`. Four - there is an extra word of the query in the `<k>` tag.
+3) After you find out what you would like to replace, create a `.lua` file with exactly the same name of the `.ifo` file before the file extension. Here is an example content of such a file to replace color schemes and definitions with classical ones, replaced `.wav` references with a Unicode icon of speaker (to distinguish sound examples from the word explanation), and removed `<k>` tag word:
+```
+return function(html)
+    html = html:gsub('<rref[^>]*>[^<]*%.wav</rref>', '🔊')
+    html = html:gsub('<k[^>]*>[^<]*%</k>', '')
+    html = html:gsub('<c>', '<span>')
+    html = html:gsub('</c>', '</span>')
+    html = html:gsub('<c c=\"', '<span style=\"color:')
+    html = html:gsub('\"color:indigo\"', '\"color:#4B0082\"')
+    html = html:gsub('\"color:darkgray\"', '\"color:#A9A9A9\"')
+    html = html:gsub('\"color:lightcoral\"', '\"color:#F08080\"')
+    html = html:gsub('\"color:lightseagreen\"', '\"color:#20B2AA\"')
+    html = html:gsub('\"color:darkgoldenrod\"', '\"color:#B8860B\"')    
+    return html
+end
+```
+4) If you want to tweak the text output with css, create a `.css` file with the same name as `.ifo` and `.lua` files before the file extension. For this particular example, the css file looks like:
+```
+blockquote{
+    margin-left: 1.0rem;
+    margin-right: 0.5rem;
+    text-align: justify;
+}
+```
+Here is the screenshot of how it was before with `sametypesequence=x` by default, and after making it `sametypesequence=h` and adding `.lua` and `.css`:
+![](https://i.imgur.com/0PViowR.png)
 
 ### Converting from other sources
 
