@@ -51,6 +51,7 @@ Found 2 items, similar to quaint.
 <blockquote><blockquote><blockquote><blockquote>  <rref>exa_p008-000464505.wav</rref> <ex>a quaint little village in Yorkshire</ex></blockquote></blockquote></blockquote></blockquote>
 ```
 From the output, several things can be extracted. One - the main tag for paragraphs is `<blockquote>`. Two - the main tag for colored text is `<c c="color">` which is not a classical css-coloring scheme. Moreover, colors themselves are written out as text instead of html-rgb references, so they might be completely ignored by KOReader. Three - there are references to `.wav` sound files which are redundant for KOReader. In dictionary applications that support such references, these are essentially small icons of a speaker action as a button to trigger the sound. However in KOReader's dictionary they will be rendered plainly as in the html source, e.g. `bre_quaint0205.wav`. Four - there is an extra word of the query in the `<k>` tag.
+
 3) After you find out what you would like to replace, create a `.lua` file with exactly the same name of the `.ifo` file before the file extension. Here is an example content of such a file to replace color schemes and definitions with classical ones, replaced `.wav` references with a Unicode icon of speaker (to distinguish sound examples from the word explanation), and removed `<k>` tag word:
 ```
 return function(html)
