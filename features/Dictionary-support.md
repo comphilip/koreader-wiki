@@ -89,7 +89,7 @@ You may also be able to use `DICT` files used by the [standard dictd daemon](htt
 
 KOReader has a built-in OCR engine for recognizing words in scanned PDF/DJVU pages. In order to use OCR in scanned pages, you need to install Tesseract trained data for your document language.
 
-* install [Tesseract language data](https://github.com/tesseract-ocr/tesseract/wiki/Data-Files#data-files-for-version-304305)
+* install [Tesseract language data](https://github.com/tesseract-ocr/tessdoc/blob/a28acb1ca0b89942ed3e4fbd6601b942e9234c54/Data-Files.md#data-files-for-version-304305)
     * copy the language data files for Tesseract 3.04 (e.g. `eng.*` in `tesseract-ocr-3.02.eng.tar.gz` for English and `spa.*` in `tesseract-ocr-3.04.spa.tar.gz` for Spanish) into `koreader/data/tessdata`
 
 
