@@ -16,3 +16,4 @@ KOReader isn't currently available on the Google Playstore. It will need to be i
 ## Err, there are two Android packages to choose from, which one should I pick?
 
 The Android package names indicate the architecture supported by the binaries. Unless you have a specific reason not to, you should choose ARM.
+If you have `adb` installed, you can get that information with the command `adb shell cat /proc/cpuinfo`
