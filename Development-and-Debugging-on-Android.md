@@ -11,19 +11,25 @@ add `emulator` path to your paths (to start AVD without Android Studio):
 
 `~/Android/Sdk/tools` that's default path to `emulator` (from Android Studio)
 
+# Build APK
+
+Release APKs are not signed. You need to sign them before install. See [apksigner](https://developer.android.com/studio/command-line/apksigner). Debug packages are signed with AOSP test keys and are recommended for development and debugging.
+
 ## Build arm apk file:
+
+### release
 `./kodev release android`
 
-To build a signed apk:
-
+### debug
 `./kodev release --debug android`
-## Build x86 apk file:
-`ANDROID_ARCH=x86 ./kodev build android`
 
+## Build x86 apk file:
+
+### release
 `ANDROID_ARCH=x86 ./kodev release android`
 
-`ANDROID_ARCH=x86 ./kodev run android`
-
+### debug
+`ANDROID_ARCH=x86 ./kodev release --debug android`
 
 Don't forget to `cd platform/android/luajit-launcher && ./mk-luajit.sh clean && cd -` when changing architectures.
 
