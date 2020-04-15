@@ -14,6 +14,8 @@ add `emulator` path to your paths (to start AVD without Android Studio):
 ## Build arm apk file:
 `./kodev release android`
 
+To build a signed apk:
+`./kodev release --build android`
 ## Build x86 apk file:
 `ANDROID_ARCH=x86 ./kodev build android`
 
