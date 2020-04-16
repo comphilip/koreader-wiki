@@ -41,6 +41,8 @@ You'll then be able to simply tap the KOReader icon in your Home or your Library
 
 Now you should be able to select KOReader in the Kobo Start Menu.
 
+----
+
 ## Help! I'm lost. Which method should I follow?
 
 You'll find that most Kobo users have chosen KSM. Part of it is because of its feature set and of its convenience, part of it is historical: the original implementation of fmon was problematic in a number of fun and interesting ways, and as such, we actively discouraged users from using it.
@@ -52,6 +54,8 @@ If you spend most of your time in Nickel, Kobo's own software, KFMon will probab
 On current devices, the fact that KFMon is hardware-agnostic will be a plus, as KSM is currently in maintenance mode, and as such doesn't support newer devices.
 
 Remember that launchers (i.e., KFMon/KSM/fmon) are mutually exclusive, and while nothing really bad will happen if you mix a few of them together, it can lead to puzzling results. By design, between fmon and KFMon, only the one installed *last* will take, while KSM will always take precedence over everything else.
+
+----
 
 ## What about manual updates?
 
