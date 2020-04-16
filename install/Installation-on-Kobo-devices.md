@@ -4,7 +4,8 @@ The full Kobo lineup is currently supported, starting from the Touch.
 
 ## Important Notes
  
-NOTE: On FW >= 4.17, Nickel will attempt to index content found in hidden directories. If you install KOReader manually, *first* double check that your Kobo configuration file (`.kobo/Kobo/Kobo eReader.conf`) contains:
+NOTE: On FW >= 4.17, Nickel will attempt to index content found in hidden directories. KOReader happens to live in one of those ;).  
+If you choose to install KOReader manually, *start* by double-checking that your Kobo configuration file (`.kobo/Kobo/Kobo eReader.conf`) contains:
 
 ```
 [FeatureSettings]
@@ -14,7 +15,7 @@ See [#5430](https://github.com/koreader/koreader/issues/5430) for more details.
 
 ### Semi-Automated Installation Method:
 
-- Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220), in particular [the second post](https://www.mobileread.com/forums/showpost.php?p=3797096&postcount=2), which provides a script to automate the process, including dealing with the FW 4.17+ quirk mentioned above.
+- Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220), in particular [the second post](https://www.mobileread.com/forums/showpost.php?p=3797096&postcount=2), which provides a script to automate the process, including dealing with the FW 4.17+ quirk mentioned above.  
 This bundles [**KFMon**](https://github.com/NiLuJe/kfmon), and should be the most logical choice for brand new users (with no other launcher currently installed on their device).
 
 ----
@@ -25,7 +26,7 @@ This bundles [**KFMon**](https://github.com/NiLuJe/kfmon), and should be the mos
 - Extract the full content of this archive into the *root* directory of your device (i.e., not under *any* subdirectory).
 - Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.
 - Extract the `koreader` folder of the zip into the `.adds` directory of your device (a directory which may have just been created by KFMon's archive).
-- You'll probably want to [prevent Nickel from scanning our custom directories](https://github.com/NiLuJe/kfmon/blob/812b7dc46eef92772c8a5f756a92a54e1c7f6c37/tools/install.sh#L85-L99), too (see [the note above](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices#important-notes).
+- You'll probably want to [prevent Nickel from scanning our custom directories](https://github.com/NiLuJe/kfmon/blob/812b7dc46eef92772c8a5f756a92a54e1c7f6c37/tools/install.sh#L85-L99), too (see [the note above](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices#important-notes)).
 - Eject & unplug your device. Nickel should then appear to be processing a book, before restarting to process an update.
 
 You'll then be able to simply tap the KOReader icon in your Home or your Library to launch KOReader!
@@ -60,5 +61,5 @@ We highly recommend that you stick with the in-app update mechanism, though ;).
 
 ## What about official firmware updates?
 
-They're entirely safe to install (in fact, I highly recommend doing so, especially on newer devices).
-You just need to be aware that applying an official FW update will disable [**KFMon**](https://github.com/NiLuJe/kfmon), you'll need to reinstall it (either manually, or via the automated script mentioned above).
+They're entirely safe to install (in fact, I highly recommend doing so, especially on newer devices).  
+You just need to be aware that applying an official FW update will disable [**KFMon**](https://github.com/NiLuJe/kfmon), so, if you happen to be using it, you'll need to reinstall it (either manually, or via the automated script mentioned above).
