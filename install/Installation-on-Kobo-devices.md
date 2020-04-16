@@ -16,7 +16,7 @@ See [#5430](https://github.com/koreader/koreader/issues/5430) for more details.
 ----
 
 KOReader can be installed in multiple ways, some of them will be listed below in order of simplicity & compatibility.
-Most new users should stick to the semi-automated install scripts.
+Most new users should stick to the semi-automated install script.
 
 ### Semi-Automated Installation Method:
 
