@@ -13,6 +13,8 @@ ExcludeSyncFolders=\\.(?!kobo|adobe).*?
 ```
 See [#5430](https://github.com/koreader/koreader/issues/5430) for more details.
 
+----
+
 ### Semi-Automated Installation Method:
 
 - Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220), in particular [the second post](https://www.mobileread.com/forums/showpost.php?p=3797096&postcount=2), which provides a script to automate the process, including dealing with the FW 4.17+ quirk mentioned above.  
