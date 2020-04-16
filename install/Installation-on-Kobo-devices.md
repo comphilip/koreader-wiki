@@ -3,9 +3,21 @@
 NOTE: **For proper Kobo Libra H2O support, you'll need to use KOReader version *2019.10* or newer.**  
 
 ### Semi-Automated Installation Method:
-- Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220), in particular [the second post](https://www.mobileread.com/forums/showpost.php?p=3797096&postcount=2).
 
-This bundles [**KFMon**](https://github.com/NiLuJe/kfmon), and should be the most logical choice for brand new users (with no other launcher currently installed on their device).
+This should be the most logical choice for brand new users (with no other launcher currently installed on their device).
+You'll be using the so called "one-click" install packages, a zip archive bundling:
+- Koreader and/or Plato
+- [**KFMon**](https://github.com/NiLuJe/kfmon)
+
+There are two options to choose from:
+
+#### Option 1: manually extract the zip archive 
+
+Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220)
+
+#### Option 2: run a small script to automate the process
+
+Refer to [the second post it the dedicated forum thread](https://www.mobileread.com/forums/showpost.php?p=3797096&postcount=2).
 
 ----
 
