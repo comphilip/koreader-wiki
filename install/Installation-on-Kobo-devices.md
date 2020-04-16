@@ -13,6 +13,9 @@ NOTE2: Remember that since FW 4.17, Nickel will attempt to index content found i
 	[FeatureSettings]
 	ExcludeSyncFolders=\\.(?!kobo|adobe).*?
 
+NOTE3: Remember that a new released Kobo Firmware update, will disable the launcher (Kfmon or KSM), so you'll have to reinstall it
+
+
 ## Method to choose from
 
 ### Semi-Automated Installation Method:
