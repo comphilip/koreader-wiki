@@ -6,7 +6,12 @@ Touch, Mini, Glo, Aura, Glo HD, Aura HD, Aura H2O, Touch 2.0, Aura One, Aura Edi
 
 ## Important Notes
 
-NOTE1: **For proper Kobo Libra H2O support, you'll need to use KOReader version *2019.10* or newer.**  
+NOTE1: For proper Kobo **Libra H2O support**, you'll need to use KOReader version *2019.10* or newer.
+ 
+NOTE2: Remember that since FW 4.17, Nickel will attempt to index content found in hidden directories. Whatever your choosen installation method double check your kobo configuration file, that is  ".kobo/Kobo/Kobo eReader.conf" . It should contain:
+
+	[FeatureSettings]
+	ExcludeSyncFolders=\\.(?!kobo|adobe).*?
 
 ## Method to choose from
 
