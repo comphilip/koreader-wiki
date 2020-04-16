@@ -41,7 +41,7 @@ You'll then be able to simply tap the KOReader icon in your Home or your Library
 
 Now you should be able to select KOReader in the Kobo Start Menu.
 
-## Help! I'm lost. Should I choose KSM or KFmon ?
+## Help! I'm lost. Which method should I follow?
 
 You'll find that most Kobo users have chosen KSM. Part of it is because of its feature set and of its convenience, part of it is historical: the original implementation of fmon was problematic in a number of fun and interesting ways, and as such, we actively discouraged users from using it.
 
