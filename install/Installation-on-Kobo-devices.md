@@ -1,4 +1,4 @@
-## Kobo Devices 
+## Which Kobo Devices ? 
 
 These instructions apply to the following devices:
 
