@@ -70,5 +70,5 @@ We highly recommend that you stick with the in-app update mechanism, though ;).
 
 ## What about official firmware updates?
 
-They're entirely safe to install (in fact, I highly recommend doing so, especially on newer devices).  
+They're entirely safe to install (in fact, we highly recommend doing so, especially on newer devices).  
 You just need to be aware that applying an official FW update will disable [**KFMon**](https://github.com/NiLuJe/kfmon), so, if you happen to be using it, you'll need to reinstall it (either manually, or via the automated script mentioned above).
