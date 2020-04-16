@@ -1,6 +1,14 @@
-## Touch, Mini, Glo, Aura, Glo HD, Aura HD, Aura H2O, Touch 2.0, Aura One, Aura Edition 2, Aura H2O Edition 2, Clara HD, Forma, Libra H2O
+## Kobo Devices 
 
-NOTE: **For proper Kobo Libra H2O support, you'll need to use KOReader version *2019.10* or newer.**  
+These instructions apply to the following devices:
+
+Touch, Mini, Glo, Aura, Glo HD, Aura HD, Aura H2O, Touch 2.0, Aura One, Aura Edition 2, Aura H2O Edition 2, Clara HD, Forma, Libra H2O
+
+## Important Notes
+
+NOTE1: **For proper Kobo Libra H2O support, you'll need to use KOReader version *2019.10* or newer.**  
+
+## Method to choose from
 
 ### Semi-Automated Installation Method:
 
@@ -19,7 +27,6 @@ Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthre
 
 Refer to [the second post it the dedicated forum thread](https://www.mobileread.com/forums/showpost.php?p=3797096&postcount=2).
 
-----
 
 ### Manual Installation Method based on KFMon:
 
@@ -32,7 +39,6 @@ Refer to [the second post it the dedicated forum thread](https://www.mobileread.
 
 You'll then be able to simply tap the KOReader icon in your Home or your Library to launch KOReader!
 
-----
 
 ### Alternative Manual Installation Method based on Kobo Start Menu:
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
@@ -42,17 +48,7 @@ You'll then be able to simply tap the KOReader icon in your Home or your Library
 
 Now you should be able to select KOReader in the Kobo Start Menu.
 
-----
-
-### What about manual updates?
-
-No matter your original installation method, whenever you want to update KOReader, it should be sufficient to update your existing `koreader` folder with the content of that same folder from the new release.
-
-We highly recommend that you stick with the in-app update mechanism, though ;).
-
-----
-
-## Help! I'm lost. Which method should I follow?
+#### Help! I'm lost. Should I choose KSM or KFmon ?
 
 You'll find that most Kobo users have chosen KSM. Part of it is because of its feature set and of its convenience, part of it is historical: the original implementation of fmon was problematic in a number of fun and interesting ways, and as such, we actively discouraged users from using it.
 
@@ -63,3 +59,11 @@ If you spend most of your time in Nickel, Kobo's own software, KFMon will probab
 On current devices, the fact that KFMon is hardware-agnostic will be a plus, as KSM is currently in maintenance mode, and as such doesn't support newer devices.
 
 Remember that launchers (i.e., KFMon/KSM/fmon) are mutually exclusive, and while nothing really bad will happen if you mix a few of them together, it can lead to puzzling results. By design, between fmon and KFMon, only the one installed *last* will take, while KSM will always take precedence over everything else.
+
+
+
+## What about manual updates?
+
+No matter your original installation method, whenever you want to update KOReader, it should be sufficient to update your existing `koreader` folder with the content of that same folder from the new release.
+
+We highly recommend that you stick with the in-app update mechanism, though ;).
