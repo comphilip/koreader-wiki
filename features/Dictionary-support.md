@@ -6,10 +6,20 @@ All you need to do to select a phrase for the dictionary and Wikipedia is hold o
 To use the dictionary lookup function, you first need to install one or more dictionaries in the [StarDict](https://en.wikipedia.org/wiki/StarDict) format. A list of freely available dictionaries can be found on the [Firedict site](https://tuxor1337.frama.io/firedict/dictionaries.html). ([Firedict](https://tuxor1337.github.io/firedict/) "is a simple offline dictionary software for Firefox OS with support for the StarDict format.")
 
 The dictionaries need to be installed into one of those directories:
-  *  `/sdcard/koreader/data/dict` directory for Android
+  * `/sdcard/koreader/data/dict` directory for Android
+  * `/mnt/private/koreader/data/dict` for Cervantes
   * `koreader/data/dict` directory for Kindle
-  *  `.adds/koreader/data/dict/` directory for Kobo
-  *  `applications/koreader/data/dict` directory for Pocketbook
+  * `.adds/koreader/data/dict/` directory for Kobo
+  * `applications/koreader/data/dict` directory for Pocketbook
+
+Since *v2020.04* you can override the directory where dictionaries are installed. This is useful if your device has more than one app that can deal with stardict dictionaries to avoid duplicities.
+
+You'll need to add the full path to `defaults.persistent.lua`
+
+For example:
+`STARDICT_DATA_DIR = "/mnt/onboard/.adds/vlasovsoft/dictionary"`
+
+# 
 
 The StarDict format dictionary files have suffixes `*.idx`, `*.ifo` or `*.ifo.gz`, `*.dict` or `*.dict.dz`.
 
