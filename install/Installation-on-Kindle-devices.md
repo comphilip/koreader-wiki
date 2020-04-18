@@ -41,6 +41,11 @@ NOTE: KPVBooklet may have some issues that don't happen with KUAL:
 [White screen after waking up](https://github.com/koreader/koreader/issues/4413).
 
 
+## Manual Update
+Download the latest version as described in the [Install section](#Install). Copy the **koreader-kindle*.zip** or koreader-kindle*.tar.gz** in the kindle root folder (a.k.a. /mnt/us ). On the kindle, go to KUAL->KOReader->Tools->Update KOReader. Done!
+(This calls the script on the kindle */mnt/us/extenstions/koreader/bin/koreader-ext.sh*, which extracts the archive to the koreader folder on the kindle.)
+[More information can be found here](https://www.mobileread.com/forums/showthread.php?t=326052)
+
 ## USB
 **IMPORTANT NOTE:** Switching your device to USBMS mode (by plugging it to a computer over USB) while KOReader is running is *entirely unsupported*, and risks crashing in fun and interesting ways, both KOReader, and possibly the Kindle's underlying system. Recent KOReader versions make an attempt at avoiding complete and utter mayhem, but it's still not recommended to try to test that theory ;).
 If you need to charge your device while KOReader is running, either do it with a charger, or switch your device to USBNet mode first.
