@@ -42,8 +42,12 @@ NOTE: KPVBooklet may have some issues that don't happen with KUAL:
 
 
 ## Manual Update
-Download the latest version as described in the [Install section](#Install). Copy the **koreader-kindle*.zip** or koreader-kindle*.tar.gz** in the kindle root folder (a.k.a. /mnt/us ). On the kindle, go to KUAL->KOReader->Tools->Update KOReader. Done!
+Download the latest version as described in the [Install section](#Install). Copy the **koreader-kindle\*.zip** or koreader-kindle\*.tar.gz** in the kindle root folder (a.k.a. /mnt/us ). On the kindle, go to KUAL->KOReader->Tools->Update KOReader. 
+
+Done!
+
 (This calls the script on the kindle */mnt/us/extenstions/koreader/bin/koreader-ext.sh*, which extracts the archive to the koreader folder on the kindle.)
+
 [More information can be found here](https://www.mobileread.com/forums/showthread.php?t=326052)
 
 ## USB
