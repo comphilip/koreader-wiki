@@ -38,6 +38,20 @@ You'll then be able to simply tap the KOReader icon in your Home or your Library
 
 ----
 
+### Alternative Manual Installation Method based on NickelMenu:
+
+*This method requires KOReader 2020.05+ (or nightly) and firmware 4.6+.*
+
+- Install [**NickelMenu**](https://www.mobileread.com/forums/showthread.php?t=329525) ([KoboRoot.tgz](https://github.com/geek1011/NickelMenu/releases/latest/download/KoboRoot.tgz), [Code](https://github.com/geek1011/NickelMenu)).
+- Download the latest KOReader ~~[release](https://github.com/koreader/koreader/releases)~~ [nightly](http://build.koreader.rocks/download/nightly/).
+- Extract the `koreader` folder of the zip into the `.adds` directory of your device. You'll probably also want to [prevent Kobo from scanning hidden folders on 4.17+](#important-notes).
+- Create a new file, `.adds/nm/koreader`, with the contents `menu_item:main:KOReader:cmd_spawn:/mnt/onboard/.adds/koreader/koreader.sh`.
+- Eject & unplug your device. Nickel should restart, and you should have a new `KOReader` item in the main menu.
+
+You can open KOReader directly from the main menu in the top-left of the home screen.
+
+----
+
 ### Alternative Manual Installation Method based on Kobo Start Menu:
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
 - Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.  
