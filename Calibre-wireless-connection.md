@@ -17,7 +17,7 @@ Note that if it's the first time you run Calibre Companion plugin, you may be pr
 
 If you want to use calibre and have books both on internal and external memory, you need to set Koreader to know how to access both places.
 
-This is done via the defaults.lua system (or, persistent.defaults.lua, which survives manual updates, so best to use it instead defaults.lua, to create it, just copy already existing defaults.lua to persistent.defaults.lua and afterwards edit new setting in it). In particular the section about SEARCH_LIBRARY_PATH
+This is done via the defaults.lua system (or, defaults.persistent.lua, which survives manual updates, so best to use it instead defaults.lua, to create it, just copy already existing defaults.lua to persistent.defaults.lua and afterwards edit new setting in it). In particular the section about SEARCH_LIBRARY_PATH
 
 If you actively use both storage locations with Calibre, you'll probably want to use something like:
 
