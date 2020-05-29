@@ -1,1 +1,1 @@
-Executes simple commands and shows their output.
+Executes simple Unix terminal commands and shows their output. While the plugin does not save the terminal's state between commands, multiple commands can be run at once, e.g. `cd / && pwd`
