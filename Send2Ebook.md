@@ -1,0 +1,1 @@
+This plugin downloads articles saved to an FTP server using the [Send2Ebook](https://github.com/mwoz123/send2ebook) PC/Android application.
