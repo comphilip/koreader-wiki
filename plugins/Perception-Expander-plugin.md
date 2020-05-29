@@ -1,4 +1,4 @@
-Based on the idea of using peripheral vision to read more quickly, from [How to Triple Your Reading Speed in 20 Minutes (Tim Ferriss)](https://youtu.be/jeOHqI9SqOI?t=137). This plugin implements the same approach (two vertical lines, adjustable) for KOReader. 
+Based on the idea of using peripheral vision to read more quickly, from [How to Triple Your Reading Speed in 20 Minutes (Tim Ferriss)](https://youtu.be/jeOHqI9SqOI?t=137). This plugin implements the same approach (two adjustable vertical lines) for KOReader. 
 
 Screenshots:
 
