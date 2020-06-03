@@ -1,4 +1,6 @@
-There are two configuration files that contain the initial settings for KOReader's behavior and appearance. However, the easiest way to set global default settings is actually to **long press** the option you wish to make the default.
+The easiest way to set a global default setting is from within the KOReader application &mdash; **long press** the option you wish to make the default. KOReader will ask you to confirm the new default.
+
+For users who wish to edit config files directly, there are two such files that contain the initial settings for KOReader's behavior and appearance:
 
 * 1. The `defaults.lua` located at `koreader/defaults.lua`.
 * 2. The `cr3.ini` located at `koreader/data/cr3.ini`, especially for EPUB/FB2 documents.
