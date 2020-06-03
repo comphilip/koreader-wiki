@@ -1,4 +1,6 @@
-The "Progress sync" plugin can synchronize your reading progress through a document across different KOReader devices. To get started, you need to create an account on one device by using the plugin's "Register/Login" menu. Use the same option to login on other devices. (Keep in mind that the plugin is only visible if a document is open.)  If "Auto sync" is checked, synchronization will be performed whenever a document is opened or closed. You can also manually synchronize your reading progress by tapping "Sync now".
+The "Progress sync" plugin can synchronize your reading progress through a document across different KOReader devices. 
+
+To get started, you need to create an account on one device by using the plugin's "Register/Login" menu. Use the same option to login on other devices. (Keep in mind that the plugin is only visible if a document is open.)  If "Auto sync" is checked, synchronization will be performed whenever a document is opened or closed. You can also manually synchronize your reading progress by tapping "Sync now".
 
 This plugin does not send file name, or any file content, to the KOReader sync server. All data transferred between the "Progress sync" plugin and the sync server are also secured by HTTPS (Hypertext Transfer Protocol Secure) connections.
 
