@@ -6,7 +6,8 @@ This plugin downloads the latest articles from a Wallabag server as individual E
 ## Configuration
 This is [very likely to change in future](https://github.com/wallabag/wallabag/issues/2800).
 
-The Plugin requires all 4 of `username`, `password`, `Client Id` and `Client Secret`.
+The Plugin requires all 4 of `username`, `password`, `Client Id` and `Client Secret`. You must set the download directory as well. 
 
-`Client Id` and `Client Secret` are generated in the _API Clients Management_ section of your Wallabag server's website.  
-They're long (~50 chars each) so you might prefer to save the empty settings and edit the config file directly in your installation directory's `settings/wallabag.lua`.
+`Client Id` and `Client Secret` are generated in the _API Clients Management_ section of your Wallabag server's website. The `Redirect URIs` which is optional should be empty.
+
+The `Client Id` and `Client Secret` are long (~50 chars each) so you might prefer to save the empty settings and edit the config file directly in your installation directory's `settings/wallabag.lua`. Triple check the `username`, `password`, `Client Id` and `Client Secret` as the variable names are very similar looking and can be confusing. 
