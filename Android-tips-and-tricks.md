@@ -63,3 +63,55 @@ return {
 }
 ```
 
+## Using scripts at startup/install to apply different hyphenation patterns
+
+Since v2020.7 KOReader can run scripts after an update and on every start.
+
+For this mechanism two folders on the sdcard are used:
+1. If it is the first startup after an update all ```*.sh``` scripts in ```koreader/scripts.afterupdate/``` are executed.
+2. On every start of KOReader all ```*.sh``` scripts in ```koreader/scripts.always/``` are executed.
+
+#### Use different hyphenation patterns (e.g. German.pattern)
+
+It is **important**, that your file has the same name as an existing pattern file!
+
+1. Place your desired ```German.pattern``` file on the sdcard in the ```koreader/hyph``` directory (e.g. ```/sdcard/koreader/hyph/German.pattern```). If the ```hyph``` subdirectory does not exist, create it.
+
+Copy the following script to ```/sdcard/koreader/scripts.afterupdate/update-pattern-afterupdate.sh```
+```
+#!/system/bin/sh
+
+# $1 is the koreader user directory
+# $2 is the koreader system directory
+
+SYSTEM_DIR="$2"
+
+# copy pattern files from user to system directory
+if  [ -d "$1"/hyph ]; then
+	for i in $(ls "$1"/hyph/*.pattern); do
+		[[ -e "$i" ]] || break
+		cp "$i" "$SYSTEM_DIR"/data/hyph/
+	done
+fi
+```
+
+2. If you want that KOReader updates its pattern files with newer patterns, place you new pattern file to ```/sdcard/koreader/hyp/``` and copy the following script to ```/sdcard/koreader/scripts.always/update-pattern-always.sh```
+
+```
+#!/system/bin/sh
+
+# $1 is the koreader user directory
+# $2 is the koreader system directory
+
+HYPH_DIR="$2"/data/hyph/
+
+#copy newer patterns from user to system directory
+if [ -d "$1"/hyph ]; then
+	cd "$1"/hyph/ 
+	for i in $(ls *.pattern); do
+		[ "$i" -nt "$HYPH_DIR"/"$i" ] && cp "$i" "$HYPH_DIR"/
+	done
+fi
+
+exit 0
+```
