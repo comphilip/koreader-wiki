@@ -65,7 +65,7 @@ return {
 
 ## Using scripts at startup/install to apply different hyphenation patterns
 
-Since v2020.7 KOReader can run scripts after an update and on every start.
+From v2020.7 on KOReader can run scripts after an update and on every start.
 
 For this mechanism two folders on the sdcard are used:
 1. If it is the first startup after an update all ```*.sh``` scripts in ```koreader/scripts.afterupdate/``` are executed.
