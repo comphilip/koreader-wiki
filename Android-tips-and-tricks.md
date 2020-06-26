@@ -67,7 +67,11 @@ return {
 
 From v2020.7 on KOReader can run scripts after an update and on every start.
 
-For this mechanism two folders on the sdcard are used:
+KOReader comes in two *flavors* depending on its installation method: *fdroid* or *rocks*.
+
+Only the *rocks* flavor can execute scripts on android. So for this trick you need to install KOReader from https://github.com/koreader/koreader/releases -> look under **assets**.
+
+For this trick two folders on the sdcard are used:
 1. If it is the first startup after an update all ```*.sh``` scripts in ```koreader/scripts.afterupdate/``` are executed.
 2. On every start of KOReader all ```*.sh``` scripts in ```koreader/scripts.always/``` are executed.
 
