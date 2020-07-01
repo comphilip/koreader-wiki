@@ -41,8 +41,16 @@ NOTE: KPVBooklet may have some issues that don't happen with KUAL:
 [White screen after waking up](https://github.com/koreader/koreader/issues/4413).
 
 
+## OTA Update
+1. Simply tap the top portion of the device to bring up the menu
+
+2. Tap item in the top right corner
+
+3. Tap update, and follow the on-screen instructions
+
+
 ## Manual Update
-Download the latest version as described in the [Install section](#Install). Copy the **koreader-kindle\*.zip** or koreader-kindle\*.tar.gz** in the kindle root folder (a.k.a. /mnt/us ). On the kindle, go to KUAL->KOReader->Tools->Update KOReader. 
+Download the latest version as described in the [Install section](#Install). Copy the **koreader-kindle\*.zip** or koreader-kindle\*.tar.gz** in the kindle root folder (a.k.a. /mnt/us, this is the folder that directly contains `documents` folder ). On the kindle, go to KUAL->KOReader->Tools->Update KOReader. 
 
 Done!
 
