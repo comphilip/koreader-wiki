@@ -73,7 +73,7 @@ For most every other user, especially if you spend some/most of your time in Nic
 
 On current devices, the fact that NickelMenu & KFMon are hardware-agnostic will be a plus, as KSM is currently in maintenance mode, and as such doesn't support newer devices and/or FW.
 
-Remember that launchers (i.e., KFMon/KSM/fmon) are mutually exclusive, and while nothing really bad will happen if you mix a few of them together, it can lead to puzzling results. By design, between fmon and KFMon, only the one installed *last* will take, while KSM will always take precedence over everything else. NickelMenu will not conflict with any of them.
+Remember that launchers (i.e., KFMon/KSM/fmon) are mutually exclusive, and while nothing really bad will happen if you mix a few of them together, it can lead to puzzling results. By design, between fmon and KFMon, only the one installed *last* will take, while KSM will always take precedence over everything else. NickelMenu should not conflict with most of them, but pairing it with KSM may lead to undefined behavior.
 
 ----
 
