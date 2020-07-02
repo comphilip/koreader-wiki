@@ -67,8 +67,8 @@ Now you should be able to select KOReader in the Kobo Start Menu.
 
 You'll find that most long-time Kobo users with older devices had chosen KSM at the time. Part of it was because of its feature set and of its apparent convenience, part of it was historical: the original implementation of fmon was problematic in a number of fun and interesting ways, and as such, we actively discouraged users from using it.
 
-Nowadays, the choice could be boiled down to this question: how do you actually intend to use your Kobo?
-Iff you have an older device and/or run an older firmware version, and spend most of your time in custom software, be it KOReader or other pieces of third-party software, then KSM might be a good fit for you, but remember that it's deprecated, so you may actually have better alternatives available to you.
+Nowadays, the choice could be boiled down to this question: how do you actually intend to use your Kobo?  
+Iff you have an older device and/or run an older firmware version, and spend most of your time in custom software, be it KOReader or other pieces of third-party software, then KSM might be a good fit for you, but remember that it's deprecated, so you may actually have better alternatives available to you.  
 For most every other user, especially if you spend some/most of your time in Nickel, Kobo's own software, NickelMenu & KFMon will probably be a better fit, because they're much less intrusive, and integrate directly with Nickel.
 
 On current devices, the fact that NickelMenu & KFMon are hardware-agnostic will be a plus, as KSM is currently in maintenance mode, and as such doesn't support newer devices and/or FW.
