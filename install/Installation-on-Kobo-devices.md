@@ -21,7 +21,7 @@ Most new users should stick to the first one, which relies on a semi-automated i
 ### Semi-Automated Installation Method:
 
 - Refer to [the dedicated forum thread](https://www.mobileread.com/forums/showthread.php?t=314220), in particular [the second post](https://www.mobileread.com/forums/showpost.php?p=3797096&postcount=2), which provides a script to automate the process, including dealing with the FW 4.17+ quirk mentioned above.  
-This bundles [**KFMon**](https://github.com/NiLuJe/kfmon), and should be the most logical choice for brand new users (with no other launcher currently installed on their device).
+This bundles both [**KFMon**](https://github.com/NiLuJe/kfmon) and [**NickelMenu**](https://www.mobileread.com/forums/showthread.php?t=329525), and should be the most logical choice for brand new users (with no other launcher currently installed on their device).
 
 ----
 
