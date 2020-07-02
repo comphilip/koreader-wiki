@@ -52,7 +52,8 @@ You can open KOReader directly from the main menu in the top-left of the home sc
 
 ----
 
-### Alternative Manual Installation Method based on Kobo Start Menu:
+### Deprecated Alternative Manual Installation Method based on Kobo Start Menu:
+- KSM is in maintenance mode. Only go this route if you *absolutely* know what you're doing.
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
 - Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.  
 ***This assumes that KSM actually supports your device, which may not be a given for recent devices, check the current KSM post first!***
@@ -64,13 +65,13 @@ Now you should be able to select KOReader in the Kobo Start Menu.
 
 ## Help! I'm lost. Which method should I follow?
 
-You'll find that most Kobo users have chosen KSM. Part of it is because of its feature set and of its convenience, part of it is historical: the original implementation of fmon was problematic in a number of fun and interesting ways, and as such, we actively discouraged users from using it.
+You'll find that most long-time Kobo users with older devices had chosen KSM at the time. Part of it was because of its feature set and of its apparent convenience, part of it was historical: the original implementation of fmon was problematic in a number of fun and interesting ways, and as such, we actively discouraged users from using it.
 
 Nowadays, the choice could be boiled down to this question: how do you actually intend to use your Kobo?
 If you spend most of your time in custom software, be it KOReader or other pieces of third-party software, you'll probably want to go with KSM.
-If you spend most of your time in Nickel, Kobo's own software, KFMon will probably appeal to you, because it's much less intrusive, and works in tandem with Nickel.
+If you spend most of your time in Nickel, Kobo's own software, NickelMenu & KFMon will probably appeal to you, because it's much less intrusive, and works in tandem with Nickel.
 
-On current devices, the fact that KFMon is hardware-agnostic will be a plus, as KSM is currently in maintenance mode, and as such doesn't support newer devices.
+On current devices, the fact that NickelMenu & KFMon are hardware-agnostic will be a plus, as KSM is currently in maintenance mode, and as such doesn't support newer devices and/or FW.
 
 Remember that launchers (i.e., KFMon/KSM/fmon) are mutually exclusive, and while nothing really bad will happen if you mix a few of them together, it can lead to puzzling results. By design, between fmon and KFMon, only the one installed *last* will take, while KSM will always take precedence over everything else. NickelMenu will not conflict with any of them.
 
