@@ -30,7 +30,7 @@
 | PDF text contrast | supported |
 | EPUB Image viewer | [supported](https://github.com/koreader/koreader/wiki/Image-Viewer) |
 | EPUB pagination | supported |
-| EPUB3 PageMaps and Nav TOC | [supported](https://github.com/koreader/koreader/wiki/Nav-TOC-and-page-maps) (only if ebook format, i.e. EPUB3 supports it |
+| EPUB3 PageMaps and Nav TOC | [supported](https://github.com/koreader/koreader/wiki/Nav-TOC-and-page-maps) (only if ebook format, i.e. EPUB3 supports it) |
 | EPUB embeded stylesheet | supported |
 | EPUB embeded font | supported |
 | EPUB font hinting | supported |
