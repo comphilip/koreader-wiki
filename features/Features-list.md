@@ -9,6 +9,7 @@
 | file manager | [supported](https://github.com/koreader/koreader/wiki/File-manager) |
 | screenshot | supported |
 | night mode | supported |
+| profiles | [supported](https://github.com/koreader/koreader/wiki/Profiles) |
 | landscape reading | supported |
 | partial refresh | supported |
 | DPI control | [supported](https://github.com/koreader/koreader/wiki/DPI-control) |
