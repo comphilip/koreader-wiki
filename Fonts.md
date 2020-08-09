@@ -11,6 +11,10 @@ On Android devices, copy the `.ttf` font file to:
 
 You may need to create the `/fonts/` directory
 
+### PocketBook
+
+For each font, make a directory in `/applications/koreader/fonts/` and copy the `.ttf` file(s) there.
+
 ## Recommended fonts
 
 * [Chareink](https://www.mobileread.com/forums/showthread.php?t=184056) is a Serif font specifically designed for eInk devices.
