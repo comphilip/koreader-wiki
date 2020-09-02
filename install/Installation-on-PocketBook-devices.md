@@ -7,6 +7,7 @@ You need to obtain a recent PocketBook package from [the releases page](https://
     1. Run koreader app
     2. Tap the "gear" settings menu
     3. Device->Associcate file extensions->Enable all
+    4. If the menu is missing, you need to remove `system/config/extensions.cfg` as koreader refuses to overwrite your custom definitions.
 1. Install Stardict dictionaries (optional)
     1. Copy Stardict format dictionary files (*.idx, *.ifo, *.dict) into the `applications/koreader/data/dict` directory.
 1. Install Tesseract language data (optional)
