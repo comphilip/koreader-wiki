@@ -3,8 +3,10 @@ You need to obtain a recent PocketBook package from [the releases page](https://
 
 1. Install KOReader in the applications menu
     1. copy and merge the `applications` directory in the unzipped archive into your PocketBook's USB root directory
-1. Associate PDF/DjVu/EPUB/FB2 documents with KOReader (optional)
-    1. copy and merge the `system` directory in the unzipped archive into your PocketBook's USB root directory (this now works with the newest firmware and no longer requires a separate script).
+1. Associate file formats so that koreader opens given file formats
+    1. Run koreader app
+    2. Tap the "gear" settings menu
+    3. Device->Associcate file extensions->Enable all
 1. Install Stardict dictionaries (optional)
     1. Copy Stardict format dictionary files (*.idx, *.ifo, *.dict) into the `applications/koreader/data/dict` directory.
 1. Install Tesseract language data (optional)
