@@ -26,10 +26,10 @@ with a USB cable.
 2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall)
 3. Create a draft launcher entry in the /home/root/.config/draft subdirectory; create a file called eg 05-koreader (the number determines where the entry appears in the menu sort order).
    ```
-name=koreader
-desc=EBook reader
-call=/home/root/koreader/koreader.sh
-term=:
+   name=koreader
+   desc=EBook reader
+   call=/home/root/koreader/koreader.sh
+   term=:
    ```
 
 ## Launch with button
