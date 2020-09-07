@@ -20,18 +20,19 @@ with a USB cable.
    cp -v koreader/*.service /etc/systemd/system/
    systemctl enable --now button-listen
    ```
-
+   Some reMarkable software updates will wipe the new systemd units so you will have
+to run the last two steps again when that happens.
 - Or you could set up to launch via swipe gesture that triggers the Draft launcher.
-1. Install reMarkable [touchgestures](https://github.com/ddvk/remarkable-touchgestures)
-2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall)
-3. Create a draft launcher entry in the /home/root/.config/draft subdirectory; create a file called eg 05-koreader (the number determines where the entry appears in the menu sort order).
-   ```
-   name=koreader
-   desc=EBook reader
-   call=/home/root/koreader/koreader.sh
-   term=:
-   ```
-
+  1. Install reMarkable [touchgestures](https://github.com/ddvk/remarkable-touchgestures)
+  2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall)
+  3. Create a draft launcher entry in the /home/root/.config/draft subdirectory; create a file called eg 05-koreader (the number determines 
+  where the entry appears in the menu sort order).
+  ```
+  name=koreader
+  desc=EBook reader
+  call=/home/root/koreader/koreader.sh
+  term=:
+  ```
 ## Launch with button
 
 Hold down the middle button for 3 seconds to start koreader. To return to
@@ -41,5 +42,3 @@ in the top right, Exit, Exit).
 ## Launch with upwards swipe
 You start koreader by pressing two fingers against the screen 10-12 cm apart, to activate the touchgesture module, then swipe up with one finger from bottom of screen.  The draft launcher menu should now appear. You can start koreader or any other app configured to appear in the draft menu. To return to draft launcher just exit koreader (swipe down from the top of the screen, select icon in the top right, Exit, Exit). To return to xochitl from the draft launcher swipe up from the bottom of the screen at the draft launch menu.
 
-Some reMarkable software updates will wipe the new systemd units so you will have
-to run the last two steps again when that happens.
