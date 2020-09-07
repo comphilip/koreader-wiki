@@ -39,7 +39,7 @@ xochitl just exit koreader (swipe down from the top of the screen, select icon
 in the top right, Exit, Exit).
 
 ## Launch with upwards swipe
-You start koreader by pressing two fingers against the screen 10-12 cm apart, to activate the touchgesture module, then sweep up with one finger from bottom of screen.  The draft launcher menu should now appear. You can start koreader or any other app configured to appear in the draft menu.
+You start koreader by pressing two fingers against the screen 10-12 cm apart, to activate the touchgesture module, then swipe up with one finger from bottom of screen.  The draft launcher menu should now appear. You can start koreader or any other app configured to appear in the draft menu. To return to draft launcher just exit koreader (swipe down from the top of the screen, select icon in the top right, Exit, Exit). To return to xochitl from the draft launcher swipe up from the bottom of the screen at the draft launch menu.
 
 Some reMarkable software updates will wipe the new systemd units so you will have
 to run the last two steps again when that happens.
