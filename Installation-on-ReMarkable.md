@@ -8,7 +8,7 @@ with a USB cable.
 
 ## Install
 
-- Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.
+- Download and install the latest [release](https://github.com/koreader/koreader/releases) of KOReader.
 
    ```
    scp koreader-remarkable-*.zip root@IP:
