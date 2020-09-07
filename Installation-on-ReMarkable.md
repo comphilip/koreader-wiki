@@ -21,7 +21,7 @@ with a USB cable.
    systemctl enable --now button-listen
    ```
    Some reMarkable software updates will wipe the new systemd units so you will have
-to run the last two steps again when that happens.
+to run these two steps again when that happens.
 - Or you could set up to launch via swipe gesture that triggers the Draft launcher.
   1. Install reMarkable [touchgestures](https://github.com/ddvk/remarkable-touchgestures)
   2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall)
