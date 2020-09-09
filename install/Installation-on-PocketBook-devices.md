@@ -3,6 +3,7 @@ You need to obtain a recent PocketBook package from [the releases page](https://
 
 1. Install KOReader in the applications menu
     1. copy and merge the `applications` directory in the unzipped archive into your PocketBook's USB root directory
+    2. copy and merge the `system` directory in the unzipped archive into your PocketBook's USB root directory
 1. Associate file extensions so that koreader opens given file formats from main explorer
     1. Run koreader app
     2. Tap the "gear" settings menu
