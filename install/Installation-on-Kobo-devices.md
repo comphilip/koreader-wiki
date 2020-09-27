@@ -56,7 +56,8 @@ You can open KOReader directly from the main menu in the top-left of the home sc
 - KSM is in maintenance mode. Only go this route if you *absolutely* know what you're doing.
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
 - Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.  
-***This assumes that KSM actually supports your device, which may not be a given for recent devices, check the current KSM post first! (Basically, if you have a Clara or a newer devices, forget it, support for those ranges from minimal to overtly broken, with a host of small wondrous broken quirks in between***
+***This assumes that KSM actually supports your device, which may not be a given for recent devices, check the current KSM post first!***  
+**Basically, if you have a Clara or a newer devices, forget it: support for those in KSM ranges from minimal to overtly broken, with a host of small wondrous broken quirks in between.**
 - Extract the `koreader` folder of the zip into the `.adds` directory of your device. If you are using a version of KSM older than version 8, please extract to the `.kobo` folder instead.
 
 Now you should be able to select KOReader in the Kobo Start Menu.
