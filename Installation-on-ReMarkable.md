@@ -40,5 +40,5 @@ xochitl just exit koreader (swipe down from the top of the screen, select icon
 in the top right, Exit, Exit).
 
 ## Launch with upwards swipe
-Press two fingers against the screen 10-12 cm apart to activate the touchgesture module, then swipe up with one finger from bottom of screen.  The draft launcher menu should now appear. You can start koreader or any other app configured to appear in the draft menu. To return to draft launcher just exit koreader (swipe down from the top of the screen, select icon in the top right, Exit, Exit). To return to xochitl from the draft launcher menu swipe up from the bottom of the screen.
+Press two fingers against the screen 10-12 cm apart to activate the touchgesture module, then swipe up with one finger from bottom of screen.  The draft launcher menu should now appear. You can start koreader or any other app configured to appear in the draft menu. To return to draft launcher just exit koreader (swipe down from the top of the screen, select icon in the top right, Exit, Exit). To return to xochitl from the draft launcher menu swipe up from the bottom of the screen. If you upgrade reMarkable to a new version of its software the touchgesture module must installed again. The other parts of the installation will still work.
 
