@@ -2,7 +2,7 @@ KOReader has some built-in fonts, and you can also install your own fonts.
 
 ## Installing Fonts
 
-You *must* use [`.ttf`](https://en.wikipedia.org/wiki/TrueType) (TrueType Fonts). You cannot use `.woff`, `.woff2`, `.eot`, `.svg` or other font types.
+You *must* use [`.ttf`](https://en.wikipedia.org/wiki/TrueType) or `.otf` (TrueType Fonts). The `.pfb` and `.pfa` formats are also supported. You cannot use `.woff`, `.woff2`, `.eot`, `.svg` or other font types.
 
 Also, when adding fonts, they can be in many different types (i.e. different file names). Very useful info about which font types (i.e. file names) to use you can find [here.](https://github.com/koreader/koreader/issues/4174#issuecomment-698520071)
 
