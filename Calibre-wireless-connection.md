@@ -11,18 +11,4 @@ After the calibre wireless device connection is established (the red indicator o
 You can send one or more documents to your KOreader device from your Calibre Library now:
 [![Send documents to KOReader](https://github.com/koreader/koreader/wiki/screenshots/calibre_companion_send.png)](https://github.com/koreader/koreader/wiki/screenshots/calibre_companion_send.png)
 
-Note that if it's the first time you run Calibre Companion plugin, you may be prompted to choose the "Inbox" directory in which the received documents will be saved.
-
-### Calibre and keeping books on internal and external storage
-
-If you want to use Calibre and have books both on internal and external memory, you need to set KOreader to know how to access both places.
-
-This is done via the defaults.lua system (or, defaults.persistent.lua, which survives manual updates, so best to use it instead defaults.lua, to create it, just copy already existing defaults.lua to persistent.defaults.lua and afterwards edit new setting in it). In particular the section about SEARCH_LIBRARY_PATH
-
-If you actively use both storage locations with Calibre, you'll probably want to use something like:
-
-SEARCH_LIBRARY_PATH  = "/mnt/onboard"
-
-SEARCH_LIBRARY_PATH2 = "/mnt/sd"
-
-(make sure to use correct path)
+Note that if it's the first time you run Calibre plugin, you may be prompted to choose the "Inbox" directory in which the received documents will be saved.
