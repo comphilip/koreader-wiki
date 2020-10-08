@@ -61,5 +61,8 @@ You can also launch KOReader via the swipe gesture that triggers the Draft launc
 
 If you upgrade reMarkable to a new version of its software the touchgesture module must be installed again. The other parts of the installation will still work.
 
-4. Press two fingers against the screen 10-12 cm apart to activate the touchgesture module, then swipe up with one finger from bottom of screen.  The draft launcher menu should now appear. You can start koreader or any other app configured to appear in the draft menu. To return to draft launcher just exit koreader (swipe down from the top of the screen, select icon in the top right, Exit, Exit). To return to xochitl from the draft launcher menu swipe up from the bottom of the screen.
+4. Press two fingers against the screen 10-12 cm apart to activate the touchgesture module
+5. Then swipe up with one finger from the bottom of the screen. The draft launcher menu should now appear.
+6. You can start koreader or any other app configured to appear in the draft menu.\
+To return to draft launcher just exit koreader (swipe down from the top of the screen, select icon in the top right, Exit, Exit). To return to xochitl from the draft launcher menu swipe up from the bottom of the screen.
 
