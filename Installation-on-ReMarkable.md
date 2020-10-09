@@ -1,27 +1,22 @@
 ## Finding your IP and password
 
-1. Connect your device via USB or connect to a Wi-Fi network
+1. Connect your device via USB (or Wi-Fi)
 2. Navigate to "Menu > Settings > Help > Copyright and Licenses"
-3. Under "GPLv3 Compliance" you will find your username, your password and your IP:
+3. Under "GPLv3 Compliance" you will find your username ("root"), your password and your IP ("10.11.99.1")
 
-    IP (USB): 10.11.99.1 (by default)\
-    IP (Wi-Fi): 192.168.0.# (where # is a number assigned in your local network)
+## Installation
 
-## Installation via Secure Shell (SSH)
+0. Windows users will need to enable the OpenSSH client. Mac OS and Linux users need no extra software.
 
-0. Windows users will need to install/enable the OpenSSH client. Mac OS and Linux users need no extra software.
+1. Download the [latest release](https://github.com/koreader/koreader/releases) of KOReader.
 
-1. Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.
+2. Open terminal and copy the zip file to your device by running:
 
-2. Open your terminal/command line application and transfer the zip file to the "/home/root" folder on your device:
-
-   `scp koreader-remarkable-*.zip root@10.11.99.1:`\
-   or\
-   `scp koreader-remarkable-*.zip root@192.168.0.#:`
+   `scp koreader-remarkable-*.zip root@10.11.99.1:`
 
 3. Log into your device and unzip the file:
    ```
-   ssh root@yourIP
+   ssh root@10.11.99.1
    unzip koreader-remarkable-*.zip
    ```
 4. Copy the service file to the system directory and reload all units:
@@ -58,9 +53,6 @@ You can also launch KOReader via the swipe gesture that triggers the Draft launc
    call=/home/root/koreader/koreader.sh
    term=:
    ```
-
-If you upgrade reMarkable to a new version of its software the touchgesture module must be installed again. The other parts of the installation will still work.
-
 4. Press two fingers against the screen 10-12 cm apart to activate the touchgesture module
 5. Then swipe up with one finger from the bottom of the screen. The draft launcher menu should now appear.
 6. You can start koreader or any other app configured to appear in the draft menu.\
