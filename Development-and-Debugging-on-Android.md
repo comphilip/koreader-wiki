@@ -1,3 +1,9 @@
+# Readme first
+
+Developers are suggested to use the KOReader emulator on linux and mac. The only reason to develop against an android emulator is to fix or enhance the platform support.
+
+While the minimum API supported is 14 (Ice Cream Sandwitch) there's no way to test changes on anything below API17 using emulators. So please check your changes in a real device instead.
+
 # Pre-development:
 Obtaining source code, required build tools etc are described in [readme](https://github.com/koreader/koreader/blob/master/README.md) :
 
@@ -35,6 +41,13 @@ Don't forget to `cd platform/android/luajit-launcher && ./mk-luajit.sh clean && 
 
 More info: https://github.com/koreader/koreader/pull/3353
 
+## Lint for kotlin:
+
+```
+cd platform/android/luajit-launcher
+make lint
+```
+
 # Start emulator:
 ```
 emulator -avd {avd_name}
@@ -44,6 +57,7 @@ If the emulator won't start on your system, try preloading the relevant libstdc+
 LD_PRELOAD='/usr/$LIB/libstdc++.so.6' emulator -avd Nexus_5X_API_23
 ```
 
+**Note:** Some emulators are broken for different reasons. Please check known working emulator at the end of this document.
 
 # Install generated apk on device:
 `./kodev run android` will automatically take care of it for you, but besides installing the APK through the usual means (e.g., dragging it onto the emulator, copying it over to the device and manually installing it) you can also run ADB yourself:
@@ -98,16 +112,20 @@ adb exec-out run-as org.koreader.launcher ls /data/user/0/org.koreader.launcher/
 
 We try to maintain compatibility with API level 14.
 
-Android version | API level
---- | ---
-Android 9.0 | 28
-Android 8.0 | 26
-Android 6.0 | 23
-Android 5.0 | 21
-Android 4.1 | 16
-Android 4.0.3, 4.0.4| 15
-Android 4.0, 4.0.1, 4.0.2 | 14
-Android 2.3 | 9
+Android version | API level | Working x86 emulator
+--- | --- | ---
+Android 11.0 | 30 | Yes
+Android 10.0 | 29 | No
+Android 9.0 | 28 | No
+Android 8.0 | 26 | No
+Android 7.1 | 25 | Yes
+Android 6.0 | 23 | Yes
+Android 5.0 | 21 | No
+Android 4.3 | 18 | No
+Android 4.2 | 17 | Yes
+Android 4.1 | 16 | No
+Android 4.0.3, 4.0.4| 15 | No
+Android 4.0, 4.0.1, 4.0.2 | 14 | No
 
 https://developer.android.com/guide/topics/manifest/uses-sdk-element.html#ApiLevels
 
