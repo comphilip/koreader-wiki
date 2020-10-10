@@ -32,13 +32,13 @@
 
 ### Automatic launch
 1. While ssh'd into the device, run:
-```
-systemctl disable xochitl
-systemctl enable koreader
-```
+   ```
+   systemctl disable xochitl
+   systemctl enable koreader
+   ```
 2. Reboot your device:\
 `reboot`
-3. KOReader starts automatically upon startup
+3. KOReader will launch automatically upon startup.
 - To return to xochitl simply exit KOReader or run `systemctl start xochitl`.
 - **Note:** Make sure at least one service is enabled. If both xochitl and koreader are disabled, your device will become stuck at "reMarkable is starting" screen.
 ### Launch with middle button
@@ -54,12 +54,12 @@ systemctl enable koreader
 - **Note:** ReMarkable firmware updates will wipe KOReader's systemd units so you will have to run `cp -v koreader/*.service /etc/systemd/system/` again when that happens.
 
 ### Launch with external launcher
-KOReader is supported by launchers such as: [oxide](https://github.com/Eeems/oxide/releases), [draft](https://github.com/dixonary/draft-reMarkable) and [remux](https://rmkit.dev/apps/remux)
+KOReader is supported by launchers such as: [oxide](https://github.com/Eeems/oxide/releases), [draft](https://github.com/dixonary/draft-reMarkable) and [remux](https://rmkit.dev/apps/remux).
 
 As an example, here are the steps to launch KOReader via the draft's swipe gesture:
-   1. Install reMarkable [touchgestures](https://github.com/ddvk/remarkable-touchgestures).
-   2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall).
-   3. Create a draft launcher entry in the `/home/root/.config/draft` subdirectory and within it create a file called `eg 05-koreader` (the number determines where the entry appears in the menu sort order)
+1. Install reMarkable [touchgestures](https://github.com/ddvk/remarkable-touchgestures).
+2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall).
+3. Create a draft launcher entry in the `/home/root/.config/draft` subdirectory and within it create a file called `eg 05-koreader` (the number determines where the entry appears in the menu sort order):
    ```
    name=koreader
    desc=EBook reader
