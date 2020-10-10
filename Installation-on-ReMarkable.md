@@ -1,8 +1,8 @@
 ## Finding your IP and password
 
-1. Connect your device via USB (or Wi-Fi)
-2. Navigate to "Menu > Settings > Help > Copyright and Licenses"
-3. Under "GPLv3 Compliance" you will find your username ("root"), your password and your IP ("10.11.99.1")
+1. Connect your device via USB (or Wi-Fi).
+2. Navigate to "Menu > Settings > Help > Copyright and Licenses".
+3. Under "GPLv3 Compliance" you will find your username ("root"), your password and your IP ("10.11.99.1").
 
 ## Installation
 
@@ -39,8 +39,8 @@ systemctl enable koreader
 2. Reboot your device:\
 `reboot`
 3. KOReader starts automatically upon startup
-- To return to xochitl simply exit KOReader or run `systemctl start xochitl`
-- **Note:** Make sure at least one service is enabled. If both xochitl and koreader services are disabled, your device will be stuck at "reMarkable is starting" screen
+- To return to xochitl simply exit KOReader or run `systemctl start xochitl`.
+- **Note:** Make sure at least one service is enabled. If both xochitl and koreader are disabled, your device will become stuck at "reMarkable is starting" screen.
 ### Launch with middle button
 
 1. Copy and enable the button-listen service file:
@@ -48,18 +48,18 @@ systemctl enable koreader
    cp -v koreader/button-listen.service /etc/systemd/system/
    systemctl enable --now button-listen
    ```
-2. Reboot your device
-3. Hold down the middle button for 3 seconds to start koreader.
+2. Reboot your device.
+3. Hold down the middle button for 3 seconds to start KOReader.
 - To return to xochitl simply exit KOReader.
 - **Note:** ReMarkable firmware updates will wipe KOReader's systemd units so you will have to run `cp -v koreader/*.service /etc/systemd/system/` again when that happens.
 
 ### Launch with external launcher
 KOReader is supported by launchers such as: [oxide](https://github.com/Eeems/oxide/releases), [draft](https://github.com/dixonary/draft-reMarkable) and [remux](https://rmkit.dev/apps/remux)
 
-For example, here are the steps to launch KOReader via the swipe gesture that triggers the draft launcher.
-   1. Install reMarkable [touchgestures](https://github.com/ddvk/remarkable-touchgestures)
-   2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall)
-   3. Create a draft launcher entry in the `/home/root/.config/draft` subdirectory and within it create a file called `eg 05-koreader` (the number determines where the entry appears in the menu sort order).
+As an example, here are the steps to launch KOReader via the draft's swipe gesture:
+   1. Install reMarkable [touchgestures](https://github.com/ddvk/remarkable-touchgestures).
+   2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall).
+   3. Create a draft launcher entry in the `/home/root/.config/draft` subdirectory and within it create a file called `eg 05-koreader` (the number determines where the entry appears in the menu sort order)
    ```
    name=koreader
    desc=EBook reader
