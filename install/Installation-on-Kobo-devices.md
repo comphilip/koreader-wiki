@@ -48,7 +48,7 @@ You'll then be able to simply tap the KOReader icon in your Home or your Library
 - Create a new file, `.adds/nm/koreader`, with the contents `menu_item:main:KOReader:cmd_spawn:quiet:exec /mnt/onboard/.adds/koreader/koreader.sh`.
 - Eject & unplug your device. Nickel should restart, and you should have a new `KOReader` item in the main menu.
 
-You can open KOReader directly from the main menu in the top-left of the home screen.
+You can now open KOReader directly from the main menu.
 
 ----
 
