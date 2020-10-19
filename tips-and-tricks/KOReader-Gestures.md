@@ -1,3 +1,12 @@
+________________
+
+
+### **NOTICE**: this info is old and only applies to devices with multitouch(MT) support. Please use [multiswipe gestures](https://github.com/koreader/koreader/wiki/multiswipes) instead, as these work with all devices.
+
+If you came here to figure out how to do a screenshot *without* a MT device, then [long diagonal swipe is your friend](https://www.mobileread.com/forums/showpost.php?p=4048990&postcount=3)
+________________
+
+
 KOReader on Kindle Touch/Paperwhite supports various [multi-touch gestures](http://en.wikipedia.org/wiki/Multi-touch#Multi-touch_gestures).
 
 ### Features that can be triggered by gestures:
