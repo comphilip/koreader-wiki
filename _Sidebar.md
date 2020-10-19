@@ -1,6 +1,6 @@
 # [Installation](https://github.com/koreader/koreader/wiki#installationupgrading)
 
-* [Changelog](https://github.com/koreader/koreader/wiki/Changelog)
+* [Changelog](https://github.com/koreader/koreader/releases)
 * [Install on Android](https://github.com/koreader/koreader/wiki/Installation-on-Android-devices)
 * [Install on Cervantes](https://github.com/koreader/koreader/wiki/Installation-on-BQ-devices)
 * [Install on Kindle](https://github.com/koreader/koreader/wiki/Installation-on-Kindle-devices)
