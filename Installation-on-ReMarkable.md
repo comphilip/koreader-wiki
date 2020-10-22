@@ -1,3 +1,5 @@
+:warning:[koreader doesn't work on reMarkable 2 yet](https://github.com/koreader/koreader/issues/6792):warning:
+
 ## Finding your IP and password
 
 1. Connect your device via USB (or Wi-Fi).
