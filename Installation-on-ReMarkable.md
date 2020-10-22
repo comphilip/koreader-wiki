@@ -1,4 +1,4 @@
-:warning:[koreader doesn't work on reMarkable 2 yet](https://github.com/koreader/koreader/issues/6792):warning:
+:warning: ReMarkable 2 is currently [not supported](https://github.com/koreader/koreader/issues/6792)
 
 ## Finding your IP and password
 
