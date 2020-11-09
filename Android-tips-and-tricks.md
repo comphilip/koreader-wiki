@@ -120,7 +120,7 @@ fi
 exit 0
 ```
 
-## Save cover image to a file -> can be used as screensaver on Tolinos
+## (coming soon) Save cover image to a file -> can be used as screensaver on Tolinos
 
 When you have a book opened, you can find in the menu (`Gear->Screen->Save cover image`) the plugin for configuration.
 
