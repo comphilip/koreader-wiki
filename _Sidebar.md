@@ -49,6 +49,7 @@
 * [Battery statistics](https://github.com/koreader/koreader/wiki/Battery-statistics)
 * [Calibre wireless connection](https://github.com/koreader/koreader/wiki/Calibre-wireless-connection)
 * [Cover browser](https://github.com/koreader/koreader/wiki/Cover-browser)
+* [Cover image](https://github.com/koreader/koreader/wiki/Coverimage)
 * [Evernote (currently broken)](https://github.com/koreader/koreader/wiki/Evernote-export)
 * [Frontlight gesture controller](https://github.com/koreader/koreader/wiki/Frontlight-gesture-controller)
 * [Goodreads](https://github.com/koreader/koreader/wiki/Goodreads)
