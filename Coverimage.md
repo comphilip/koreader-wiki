@@ -44,4 +44,15 @@ You can also use a user supplied fallback image on `/sdcard`.
 
 **NOTE1:** Root is **not** needed.
 
-**NOTE2:** The image is only shown, when the Tolino **is not connected per USB**.
+**NOTE2:** The image is only shown, when the Tolino **is not connected via USB**.
+
+## Onyx Boox devices:
+1. Go to `Screen -> Save cover image`
+2. Select `Save book cover`
+3. Select `Set system screensaver image`
+4. Set path to: /sdcard/Pictures/<insert any name here>.png
+5. In the boox software go to `Storage -> Pictures`
+6. Right click your file -> Set as screensaver
+7. Confirm any dialogs that pop up
+
+Since now, whatever book you open last in KOReader should end up as a screensaver. For more information see [this issue](https://github.com/koreader/koreader/issues/6876#issuecomment-727527509).
