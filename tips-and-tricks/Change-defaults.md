@@ -19,10 +19,10 @@ For users who wish to edit config files directly, there are two such files that 
 | `DCREREADER_CONFIG_MARGIN_SIZES` | `defaults.lua` | `5` - `50` | page margins {left, top, right, bottom} in pixels | EPUB/FB2 |
 | `DSHOWHIDDENFILES = false` | `defaults.lua` | `false` or `true` | showing hidden files (name begins with a ".") | FileManager |
 
-Note that configuration changes to the `koreader/defaults.lua` file will be overridden by nightly releases / OTA updates automatically without notification. To make configuration changes persist between updates,you need to move your changes into `koreader/defaults.persistent.lua`.
+Note that configuration changes to the `koreader/defaults.lua` file will be overridden by nightly releases/OTA updates automatically without notification. To make configuration changes persist between updates, you need to move your changes into `koreader/defaults.persistent.lua`.
 
-
+Alternatively, you can lookup or modify these settings from within KOReader, via the Tools > More tools > Advanced settings menu (top menu, in the File Manager). The modifications will be properly (i.e., in `defaults.persistent.lua`) stored on exit.
 
 # Advanced
 
-A few settings, not (yet) available in menus, can be manually added to `settings.reader.lua`. They are documented at https://github.com/koreader/koreader/issues/2589#issuecomment-323927682
+A (very) few settings, not (yet) available in menus, can be manually added to `settings.reader.lua`. They are documented at https://github.com/koreader/koreader/issues/2589#issuecomment-323927682
