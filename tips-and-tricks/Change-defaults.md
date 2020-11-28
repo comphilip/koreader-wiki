@@ -21,7 +21,7 @@ Note that configuration changes to the `koreader/defaults.lua` file will be over
 
 Alternatively, you can lookup or modify these settings from within KOReader, via the *Tools* > *More tools* > *Advanced settings* menu (top menu, in the File Manager). The modifications will be properly (i.e., in `defaults.persistent.lua`) stored on exit.
 
-Of particular interest in there are the various tap zones (`DTAP_ZONE_*`), as well as the default ranges for the various CRe settings available n the bottom menu (`DCREREADER_CONFIG_*`).
+Of particular interest in there are the various tap zones (`DTAP_ZONE_*`), as well as the default ranges for the various CRe settings available in the bottom menu (`DCREREADER_CONFIG_*`).
 
 # Advanced
 
