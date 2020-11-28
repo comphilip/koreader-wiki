@@ -17,7 +17,7 @@ A very few examples (some of these settings are actually available in the UI, to
 | `DCREREADER_CONFIG_DEFAULT_FONT_SIZE = 22` | `defaults.lua` | `16` - `44` | default font size | EPUB/FB2 |
 | `DSHOWHIDDENFILES = false` | `defaults.lua` | `false` or `true` | showing hidden files (name begins with a ".") | FileManager |
 
-Note that configuration changes to the `koreader/defaults.lua` file will be overridden by nightly releases/OTA updates automatically without notification. To make configuration changes persist between updates, you need to move your changes into `koreader/defaults.persistent.lua`.
+Note that configuration changes to the `koreader/defaults.lua` file will be overridden by nightly releases/OTA updates automatically and without warning. To make configuration changes persist between updates, you need to move your changes into `koreader/defaults.persistent.lua`.
 
 Alternatively, you can lookup or modify these settings from within KOReader, via the *Tools* > *More tools* > *Advanced settings* menu (top menu, in the File Manager). The modifications will be properly (i.e., in `defaults.persistent.lua`) stored on exit.
 
