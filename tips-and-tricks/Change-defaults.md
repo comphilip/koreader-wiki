@@ -25,4 +25,4 @@ Of particular interest in there are the various tap zones (`DTAP_ZONE_*`), as we
 
 # Advanced
 
-A (very) few settings, not (yet) available in menus, can be manually added to `settings.reader.lua`. They are documented at https://github.com/koreader/koreader/issues/2589#issuecomment-323927682
+A (very) few settings, not (yet) available in menus, can be manually added to `settings.reader.lua` (while KOReader is *not* running). They are documented at https://github.com/koreader/koreader/issues/2589#issuecomment-323927682
