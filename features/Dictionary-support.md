@@ -66,7 +66,7 @@ From the output, several things can be extracted. One - the main tag for paragra
 ```
 return function(html)
     html = html:gsub('<rref[^>]*>[^<]*%.wav</rref>', '🔊')
-    html = html:gsub('<k[^>]*>[^<]*%</k>', '')
+    html = html:gsub('<k[^>]*>[^<]*</k>', '')
     html = html:gsub('<c>', '<span>')
     html = html:gsub('</c>', '</span>')
     html = html:gsub('<c c=\"', '<span style=\"color:')
