@@ -109,15 +109,13 @@ You can download dictionaries from the internet as shown [here.](https://github.
 
 ### Sorting how dictionaries are displayed
 
-Dictionaries are shown in the order as they were placed in `data/dict` folder. To sort them, you need to move them out of this directory and then place them again back in order you want them to be displayed.
+You can configure the order of dictionaries in the interface below.
 
-The safest procedure is:
+![](https://user-images.githubusercontent.com/9250103/95028137-68560780-069e-11eb-8127-15a81499c64e.png)
 
-1. First rename the `dict` folder to some new name (e.g. `dict.old`).
-2. Then create a new `dict` directory.
-3. Start moving dictionaries back into the new `dict` directory one by one, in the order you want them to appear.
+Tap the name of one dictionary(not the checkbox). Then it's selected. And you can move it upward and downward using the buttons on the bottom of the screen.
 
-More info can be found [here.](https://github.com/koreader/koreader/issues/4504#issuecomment-457388178)
+More info can be found [here.](https://github.com/koreader/koreader/pull/6751)
 
 ### Tips and tricks
 
