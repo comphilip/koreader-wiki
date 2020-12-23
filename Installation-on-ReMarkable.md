@@ -1,8 +1,7 @@
 ## :warning: Known Issues
 
-ReMarkable 2 support: [pre-release](https://github.com/koreader/koreader/pull/6992)
-
-Wi-Fi Network Manager: [not implemented](https://github.com/koreader/koreader/issues/6677)
+- ReMarkable 2 support: [pre-release](https://github.com/koreader/koreader/pull/6992)
+- Wi-Fi Network Manager: [not implemented](https://github.com/koreader/koreader/issues/6677)
 
 ## Finding your IP and password
 
@@ -13,13 +12,9 @@ Wi-Fi Network Manager: [not implemented](https://github.com/koreader/koreader/is
 ## Installation
 
 0. Windows users will need to enable the OpenSSH client. Mac OS and Linux users need no extra software.
-
 1. Download the [latest release](https://github.com/koreader/koreader/releases) of KOReader.
-
 2. Open terminal and copy the zip file to your device by running:
-
    `scp koreader-remarkable-*.zip root@10.11.99.1:`
-
 3. Log into your device and unzip the file:
    ```
    ssh root@10.11.99.1
@@ -31,7 +26,6 @@ Wi-Fi Network Manager: [not implemented](https://github.com/koreader/koreader/is
    systemctl daemon-reload
    ```
 5. Launch KOReader:
-   
    `systemctl start koreader`
 
 ## Launching methods
@@ -62,7 +56,7 @@ Wi-Fi Network Manager: [not implemented](https://github.com/koreader/koreader/is
 ### Launch with external launcher
 KOReader is supported by launchers such as: [oxide](https://github.com/Eeems/oxide/releases), [draft](https://github.com/dixonary/draft-reMarkable) and [remux](https://rmkit.dev/apps/remux).
 
-As an example, here are the steps to launch KOReader via the draft's swipe gesture:
+Steps to launch KOReader via the draft's swipe gesture:
 1. Install reMarkable [touchgestures](https://github.com/ddvk/remarkable-touchgestures).
 2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall).
 3. Create a draft launcher entry in the `/home/root/.config/draft` subdirectory and within it create a file called `eg 05-koreader` (the number determines where the entry appears in the menu sort order):
@@ -77,4 +71,3 @@ As an example, here are the steps to launch KOReader via the draft's swipe gestu
 6. You can start koreader or any other app configured to appear in the draft menu.
 - To return to draft launcher just exit koreader (swipe down from the top of the screen > Top right icon > Exit > Exit).
 - To return to xochitl from the draft launcher menu swipe up from the bottom of the screen.
-
