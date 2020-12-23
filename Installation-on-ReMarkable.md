@@ -1,8 +1,12 @@
-:warning: ReMarkable 2 is currently [not supported](https://github.com/koreader/koreader/issues/6792)
+## :warning: Known Issues
+
+ReMarkable 2 support: [pre-release](https://github.com/koreader/koreader/pull/6992)
+
+Wi-Fi Network Manager: [not implemented](https://github.com/koreader/koreader/issues/6677)
 
 ## Finding your IP and password
 
-1. Connect your device via USB (or Wi-Fi).
+1. Connect your device via USB.
 2. Navigate to "Menu > Settings > Help > Copyright and Licenses".
 3. Under "GPLv3 Compliance" you will find your username ("root"), your password and your IP ("10.11.99.1").
 
