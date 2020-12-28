@@ -53,7 +53,7 @@ You can now open KOReader directly from the main menu.
 ----
 
 ### Deprecated Alternative Manual Installation Method based on Kobo Start Menu:
-- KSM is in maintenance mode. Only go this route if you *absolutely* know what you're doing.
+- KSM is in maintenance mode. Only go this route if you *absolutely* know what you're doing. (Of particular mention, it's ***broken*** on FW 4.25+).
 - Install [**Kobo Start Menu**](https://www.mobileread.com/forums/showthread.php?t=293804).
 - Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.  
 ***This assumes that KSM actually supports your device, which may not be a given for recent devices, check the current KSM post first!***  
