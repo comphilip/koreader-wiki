@@ -1,6 +1,6 @@
-Now you can get more characters by swiping from character in one of the nine directions.
+Now you can get more characters by swiping from character in one of the eight directions.
 
-To see what are the possible results of a sweep, you can hold a character to display a popup window (extra character are available beyond the first nine direction)
+To see what are the possible results of a sweep, you can hold a character to display a popup window (extra characters are available beyond the first eight direction)
 
 After holding, you get extended set of similar characters, like shown on image:
 
