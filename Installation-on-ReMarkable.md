@@ -38,9 +38,9 @@
    ```
 2. Reboot your device:\
 `reboot`
-3. KOReader will launch automatically upon startup.
+3. KOReader will replace Xochitl as the program launched at boot.
 - To return to xochitl simply exit KOReader or run `systemctl start xochitl`.
-- **Note:** Make sure at least one service is enabled. If both xochitl and koreader are disabled, your device will become stuck at "reMarkable is starting" screen.
+- **Note:** This method is [not supported](https://github.com/koreader/koreader/issues/7076) on reMarkable 2. On ReMarkable 1, make sure at least one service is enabled. If both `xochitl` and `koreader` are disabled, your device will become stuck at "reMarkable is starting" screen.
 ### Launch with middle button
 
 1. Copy and enable the button-listen service file:
@@ -51,7 +51,7 @@
 2. Reboot your device.
 3. Hold down the middle button for 3 seconds to start KOReader.
 - To return to xochitl simply exit KOReader.
-- **Note:** ReMarkable firmware updates will wipe KOReader's systemd units so you will have to run `cp -v koreader/*.service /etc/systemd/system/` again when that happens.
+- **Note:** ReMarkable firmware updates will wipe KOReader's systemd units so you will have to run `cp -v koreader/*.service /etc/systemd/system/` again after every update.
 
 ### Launch with external launcher
 KOReader is supported by launchers such as: [oxide](https://github.com/Eeems/oxide/releases), [draft](https://github.com/dixonary/draft-reMarkable) and [remux](https://rmkit.dev/apps/remux).
