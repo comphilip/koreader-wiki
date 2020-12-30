@@ -1,6 +1,6 @@
 ## :warning: Known Issues
 
-- ReMarkable 2 support: [pre-release](https://github.com/koreader/koreader/pull/6992)
+- ReMarkable 2 support status: [pre-release](https://github.com/koreader/koreader/pull/6992)
 - Wi-Fi Network Manager: [not implemented](https://github.com/koreader/koreader/issues/6677)
 
 ## Finding your IP and password
@@ -31,6 +31,8 @@
 ## Launching methods
 
 ### Automatic launch
+**WARNING:** Only do this if you are sure you know what you are doing, and ensure that koreader is working correctly before configuring automatic launch
+
 1. While ssh'd into the device, run:
    ```
    systemctl disable xochitl
