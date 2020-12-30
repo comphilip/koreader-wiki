@@ -8,6 +8,7 @@
 * [Install on PocketBook](https://github.com/koreader/koreader/wiki/Installation-on-PocketBook-devices)
 * [Install on ReMarkable](https://github.com/koreader/koreader/wiki/Installation-on-ReMarkable)
 * [Install on Desktop Linux](https://github.com/koreader/koreader/wiki/Installation-on-desktop-linux)
+* [Install on MacOS](https://github.com/koreader/koreader/wiki/Installation-on-MacOS)
 
 # Usage
 
