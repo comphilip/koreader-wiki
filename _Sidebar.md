@@ -53,7 +53,7 @@
 * [Cover image](https://github.com/koreader/koreader/wiki/Coverimage)
 * [Evernote (currently broken)](https://github.com/koreader/koreader/wiki/Evernote-export)
 * [Frontlight gesture controller](https://github.com/koreader/koreader/wiki/Frontlight-gesture-controller)
-* [Goodreads](https://github.com/koreader/koreader/wiki/Goodreads)
+* [Goodreads (deprecated)](https://github.com/koreader/koreader/wiki/Goodreads)
 * [Keep alive](https://github.com/koreader/koreader/wiki/Keep-alive)
 * [News downloader](https://github.com/koreader/koreader/wiki/News-downloader)
 * [Perception expander](https://github.com/koreader/koreader/wiki/Perception-Expander-plugin)
