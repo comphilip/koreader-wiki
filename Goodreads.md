@@ -1,3 +1,5 @@
+> As of December 8th 2020, Goodreads no longer issues new developer keys for our public developer API and plans to retire the current version of these tools. You can find more information [here](https://help.goodreads.com/s/article/Does-Goodreads-support-the-use-of-APIs).
+
 Allows browsing and searching the Goodreads database of books.
 
 It's located in the 5th tab of the top menu
