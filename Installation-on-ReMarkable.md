@@ -1,6 +1,6 @@
 ## :warning: Known Issues
 
-- ReMarkable 2 support status: [pre-release](https://github.com/koreader/koreader/pull/6992)
+- ReMarkable 2 support status: [now available](https://github.com/koreader/koreader/pull/6992#issuecomment-756667595)
 - Wi-Fi Network Manager: [not implemented](https://github.com/koreader/koreader/issues/6677)
 
 ## Finding your IP and password
