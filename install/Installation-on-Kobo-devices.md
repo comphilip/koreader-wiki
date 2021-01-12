@@ -9,7 +9,7 @@ If you choose to install KOReader manually, *start* by double-checking that your
 
 ```
 [FeatureSettings]
-ExcludeSyncFolders=\\.(?!kobo|adobe).*?
+ExcludeSyncFolders=(\\.(?!kobo|adobe).+|([^.][^/]*/)+\\..+)
 ```
 See [#5430](https://github.com/koreader/koreader/issues/5430) for more details.
 
