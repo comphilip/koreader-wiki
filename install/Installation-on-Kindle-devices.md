@@ -12,9 +12,9 @@ Certain minor features may currently still be unavailable on non-touch devices s
 Besides the reader itself, you will also need to install a launcher. For that purpose, you can use KPVBooklet or KUAL, or even both, with the caveat that KPVBooklet only supports devices running FW 5.x, and may not function properly on recent FW 5.x releases ;).
 
   1. Jailbreak your Kindle, refer to [this post](https://www.mobileread.com/forums/showthread.php?t=320564) or others, depending on your device (see the NOTE at the top of this page).
-  1. Install a launcher
-      * Install KUAL, refer to [the official thread](http://www.mobileread.com/forums/showthread.php?t=203326)
-      * Install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki). ***NOTE***: KPV is deprecated, largely because it is unmaintained, and is known to be broken on a wide range of not-so-recent FW versions.
+  1. Install **a** launcher
+      * Install KUAL, refer to [the official thread](http://www.mobileread.com/forums/showthread.php?t=203326). If you've followed any halfway recent JB thread, you most likely already have it :).
+      * Install KPV Booklet, refer to [this wiki](https://github.com/koreader/kpvbooklet/wiki). **NOTE**: KPV is deprecated, largely because it is unmaintained, and is known to be broken on a wide range of not-so-recent FW versions.
   1. Install KOReader
       1. Read [this section at the end of the page](#err-there-are-three-kindle-packages-to-choose-from-which-do-i-pick) to figure out which Kindle release you want to download.
       1. Download the latest Kindle package from [this page](https://github.com/koreader/koreader/releases).
