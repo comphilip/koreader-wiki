@@ -56,3 +56,15 @@ You can also use a user supplied fallback image on `/sdcard`.
 7. Confirm any dialogs that pop up
 
 Since now, whatever book you open last in KOReader should end up as a screensaver. For more information see [this issue](https://github.com/koreader/koreader/issues/6876#issuecomment-727527509).
+
+## Pocketbook devices:
+1. Go to `System settings -> Personalize -> Logos -> Power-off Logo`
+2. Select `Random logo`
+3. Open any book in Koreader
+4. Go to `Settings -> Screen -> Save cover image`
+5. Select `Save book cover`
+6. Select `Set system screensaver image`
+7. Set path to: `/mnt/ext1/system/logo/offlogo/cover.bmp` and save
+8. Check `Save book cover`
+9. Select `Size, background and format`
+10. Check `Scale, gray background` and `BMP file format`
