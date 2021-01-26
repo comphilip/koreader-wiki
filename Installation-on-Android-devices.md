@@ -6,7 +6,7 @@ KOReader isn't currently available on the Google Playstore. It will need to be i
 
     2.1 **From F-Droid**: if you have F-Droid installed, you can install KOReader just by searching for the package inside Fdroid.
 
-    **Note:** Stable releases only (only English for the moment)
+    **Note:** Stable releases only
 
     2.2 **From your device**: download the latest release package using the browser on your device and open the package once downloaded. It will prompt you to start the installation.
 
