@@ -1,8 +1,3 @@
-## :warning: Known Issues
-
-- ReMarkable 2 support status: [now available](https://github.com/koreader/koreader/pull/6992#issuecomment-756667595)
-- Wi-Fi Network Manager: [now available](https://github.com/koreader/koreader/pull/7216#issue-564667653)
-
 ## Finding your IP and password
 
 1. Connect your device via USB.
