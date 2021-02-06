@@ -20,7 +20,8 @@
    cp -v koreader/koreader.service /etc/systemd/system/
    systemctl daemon-reload
    ```
-5. Launch KOReader:
+5. If your device is reMarkable 2, you will need to install [rm2fb](https://github.com/ddvk/remarkable2-framebuffer) first.
+6. Launch KOReader:
    `systemctl start koreader`
 
 ## Launching methods
