@@ -1,18 +1,41 @@
-## Finding your IP and password
+## SSH into your device
 
-1. Connect your device via USB.
-2. Navigate to "Menu > Settings > Help > Copyright and Licenses".
-3. Under "GPLv3 Compliance" you will find your username ("root"), your password and your IP ("10.11.99.1").
+0. Windows users will need to install an [OpenSSH Client](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse#installing-openssh-from-the-settings-ui-on-windows-server-2019-or-windows-10-1809). Mac OS and Linux users need no extra software.
+1. Connect your device via USB
+2. Navigate to `Menu > Settings > Help > Copyright and Licenses`
+3. Under "GPLv3 Compliance" you will find your username `root`, your IP `10.11.99.1` and your password
+4. Open terminal and run:
+    ```
+    ssh root@10.11.99.1
+    ```
 
-## Installation
+## Installing
 
-0. Windows users will need to enable the OpenSSH client. Mac OS and Linux users need no extra software.
-1. Download the [latest release](https://github.com/koreader/koreader/releases) of KOReader.
-2. Open terminal and copy the zip file to your device by running:
-   `scp koreader-remarkable-*.zip root@10.11.99.1:`
-3. Log into your device and unzip the file:
+### Installation via Toltec
+1. SSH into your device and install [Toltec](https://github.com/toltec-dev/toltec#install-it)
+2. For reMarkable 1 run: 
+    ```
+    opkg install koreader
+    ```
+3. For reMarkable 2 run:
+    ```
+    opkg install rm2fb koreader
+    ```
+4. Launch KOReader:
+    ```
+    systemctl start koreader
+    ```
+- KOReader will be installed to `/home/root/.entware/koreader` and mounted to `/opt/koreader`
+- You may want to check for updates from within KOReader as Toltec may not have indexed the [latest release](https://github.com/koreader/koreader/releases) yet
+
+### Manual installation
+1. Download the [latest release](https://github.com/koreader/koreader/releases) of KOReader
+2. Copy the zip file to your device by running:
    ```
-   ssh root@10.11.99.1
+   scp koreader-remarkable-*.zip root@10.11.99.1:
+   ```
+3. SSH into your device and unzip the file:
+   ```
    unzip koreader-remarkable-*.zip
    ```
 4. Copy the service file to the system directory and reload all units:
@@ -20,52 +43,47 @@
    cp -v koreader/koreader.service /etc/systemd/system/
    systemctl daemon-reload
    ```
-5. If your device is reMarkable 2, you will need to install [rm2fb](https://github.com/ddvk/remarkable2-framebuffer) first.
+5. reMarkable 2 users must install [rm2fb](https://github.com/ddvk/remarkable2-framebuffer)
 6. Launch KOReader:
-   `systemctl start koreader`
+    ```
+    systemctl start koreader
+    ```
+- KOReader will be installed to `/home/root/koreader`
 
-## Launching methods
+## Launching
 
 ### Automatic launch
-**WARNING:** Only do this if you are sure you know what you are doing, and ensure that koreader is working correctly before configuring automatic launch
-
-1. While ssh'd into the device, run:
+**Warning:** Make sure KOReader starts successfully before configuring the automatic launch
+1. SSH into your device and run:
    ```
    systemctl disable xochitl
    systemctl enable koreader
    ```
-2. Reboot your device:\
-`reboot`
-3. KOReader will replace Xochitl as the program launched at boot.
-- To return to xochitl simply exit KOReader or run `systemctl start xochitl`.
-- **Note:** This method is [not supported](https://github.com/koreader/koreader/issues/7076) on reMarkable 2. On ReMarkable 1, make sure at least one service is enabled. If both `xochitl` and `koreader` are disabled, your device will become stuck at "reMarkable is starting" screen.
-### Launch with middle button
+2. Restart your device by running:
+    ```
+    reboot
+    ```
+3. KOReader will replace Xochitl as the program launched at boot
+- To return to Xochitl simply exit KOReader or run `systemctl start xochitl`
+- **Note:** Make sure at least one service is enabled. If both `xochitl` and `koreader` are disabled, your device will become stuck at "reMarkable is starting"
 
-1. Copy and enable the button-listen service file:
+### Launch with external launcher
+KOReader is supported by [oxide](https://github.com/Eeems/oxide), [draft](https://github.com/dixonary/draft-reMarkable) and [remux](https://github.com/rmkit-dev/rmkit/tree/master/src/remux). The example below uses oxide:
+1. Install [Toltec](https://github.com/toltec-dev/toltec#install-it)
+2. SSH into your device and run:
+    ```
+    opkg install oxide
+    ```
+3. Reboot your device
+4. Tap on KOreader from the oxide menu
+
+### Launch with middle button
+1. SSH into your device and run:
    ```
    cp -v koreader/button-listen.service /etc/systemd/system/
    systemctl enable --now button-listen
    ```
-2. Reboot your device.
-3. Hold down the middle button for 3 seconds to start KOReader.
-- To return to xochitl simply exit KOReader.
-- **Note:** ReMarkable firmware updates will wipe KOReader's systemd units so you will have to run `cp -v koreader/*.service /etc/systemd/system/` again after every update.
-
-### Launch with external launcher
-KOReader is supported by launchers such as: [oxide](https://github.com/Eeems/oxide/releases), [draft](https://github.com/dixonary/draft-reMarkable) and [remux](https://rmkit.dev/apps/remux).
-
-Steps to launch KOReader via the draft's swipe gesture:
-1. Install reMarkable [touchgestures](https://github.com/ddvk/remarkable-touchgestures).
-2. Install reMarkable [autoinstall](https://github.com/ddvk/remarkable-autoinstall).
-3. Create a draft launcher entry in the `/home/root/.config/draft` subdirectory and within it create a file called `eg 05-koreader` (the number determines where the entry appears in the menu sort order):
-   ```
-   name=koreader
-   desc=EBook reader
-   call=/home/root/koreader/koreader.sh
-   term=:
-   ```
-4. Press two fingers against the screen 10-12 cm apart to activate the touchgesture module.
-5. Swipe up with one finger from the bottom of the screen. The draft launcher menu should now appear.
-6. You can start koreader or any other app configured to appear in the draft menu.
-- To return to draft launcher just exit koreader (swipe down from the top of the screen > Top right icon > Exit > Exit).
-- To return to xochitl from the draft launcher menu swipe up from the bottom of the screen.
+2. Reboot your device
+3. Hold down the middle button for 3 seconds to start KOReader
+- To return to Xochitl simply exit KOReader
+- **Note:** reMarkable firmware updates will delete KOReader's systemd units so you will have to run `cp -v koreader/*.service /etc/systemd/system/` again after every update
