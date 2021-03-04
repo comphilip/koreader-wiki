@@ -8,6 +8,10 @@ Install it from your package manager or from the commandline with `dpkg -i korea
 Download the `AppImage` and make it executable with `chmod +x koreader*.appImage`
 Execute it with `./koreader*.appImage`
 
+- For Arch Linux
+
+You can install the AppImage as above, or install the third-party package from AUR: https://aur.archlinux.org/packages/koreader-appimage/ for automatic updates.
+
 ## So what is this “AppImage”?
 
 Simply put, it's a portable app for Linux, which has been a long-standing request (#1417). After you download the file, you'll first need to allow it to run as a program. You can do so by right clicking in your file manager, choosing `Properties` → `Permissions` and checking the box that reads `Allow this file to run as a program` or something equivalent. If you prefer to use the terminal, run `chmod +x koreader-appimage-x86_64-linux-gnu-v2015.11-1644-ge39ed90_2018-04-09.AppImage`.
