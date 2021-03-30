@@ -2,7 +2,7 @@ Koreader supports keymapping (i.e. defining different commands to physical butto
 
 To do this, you need to create document (if it doesn't already exist) `koreader/settings/event_map.lua` and there you can edit key bindings.
 
-One example is shown [here,](https://github.com/koreader/koreader/pull/3862#issue-181100453) with example bellow.
+One example is shown [here,](https://github.com/koreader/koreader/pull/3862#issue-181100453) with example below.
 
 `return {
    [42] = "Back"
