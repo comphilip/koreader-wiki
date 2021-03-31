@@ -15,17 +15,14 @@ Connect/Share > Start Content Server
 
 - 1a) Note the address and port
 <BR>
-
 2. Go to the above module on KoReader and either:
 - tap on the existing LOCAL CALIBRE LIBRRY (long-press if you wish to edit an existing connection)
 - or "add new OPDS catalog"
-
-
+<BR>
 3. Enter the following:
 Calibre host:the address shown in Calibre (at 1a)
 Port: the port (at 1a)
-
-
+<BR>
 4. Tap on LOCAL CALIBRE LIBRARY. You will see a list of parameters that will match various parameters in your Calibre library - including custom columns you created yourself. 
 Eg.
 By Newest
@@ -33,7 +30,7 @@ By Title
 By Authors
 By Tags
 By [your custom parameter]
-
+<BR>
 NOTES:
 * If either of these are running, it is not a problem:
 KOReader: the wireless connection (via Tools > Connect)
