@@ -24,9 +24,9 @@ Connect/Share > Start Content Server
 <BR>
 - Calibre host: the address shown in Calibre (at 1a)
 - Port: the port (at 1a)
+<BR>
 5. Tap on LOCAL CALIBRE LIBRARY again. You will see a list of parameters that will match various parameters in your Calibre library - including custom columns you created yourself. 
 Eg.
-<BR>
 - By Newest<BR>
 - By Title<BR>
 - By Authors<BR>
