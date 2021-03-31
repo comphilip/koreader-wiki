@@ -28,17 +28,17 @@ Connect/Share > Start Content Server
 5. Tap on LOCAL CALIBRE LIBRARY again. You will see a list of parameters that will match various parameters in your Calibre library - including custom columns you created yourself. 
 Eg.
 <BR>
-- By Newest
-- By Title
-- By Authors
-- By Tags
-- By [your custom parameter]
+- By Newest<BR>
+- By Title<BR>
+- By Authors<BR>
+- By Tags<BR>
+- By [your custom parameter]<BR>
 <BR><BR>
 6. By tapping on one of these you will see the books that match that parameter
 <BR><BR>
 7. Tapping on a book will bring up a dialog to allow you to download it
 <BR><BR>
 NOTES:
-* If either of these are running, it is not a problem:
-KOReader: the wireless connection (via Tools > Connect)
-Calibre: Connect/Share > 'Wireless device connection'
+* If either of these are running, it is not a problem:<BR>
+KOReader: the wireless connection (via Tools > Connect)<BR>
+Calibre: Connect/Share > 'Wireless device connection'<BR>
