@@ -18,9 +18,7 @@ Connect/Share > Start Content Server
 
 
 2. In KOReader go to Search (magnifying glass) > OPDS Catalog
-
-
-
+<BR><BR>
 3. Tap on LOCAL CALIBRE LIBRARY (long-press if you wish to edit an existing connection)
 
 
