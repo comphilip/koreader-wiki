@@ -27,24 +27,24 @@ Connect/Share > Start Content Server
 
 4. Enter the following:
 
-Calibre host:the address shown in Calibre (at 1a)
+-Calibre host:the address shown in Calibre (at 1a)
 
-Port: the port (at 1a)
+-Port: the port (at 1a)
 
 
 
 5. Tap on LOCAL CALIBRE LIBRARY again. You will see a list of parameters that will match various parameters in your Calibre library - including custom columns you created yourself. 
 Eg.
 
-By Newest
+-By Newest
 
-By Title
+-By Title
 
-By Authors
+-By Authors
 
-By Tags
+-By Tags
 
-By [your custom parameter]
+-By [your custom parameter]
 
 
 6. By tapping on one of these you will see the books that match that parameter
