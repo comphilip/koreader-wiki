@@ -7,8 +7,8 @@ This plugin adds an OPDS browser to the filemanager, which lets you browse publi
 [![OPDS catalog](https://github.com/koreader/koreader/wiki/screenshots/screenshot_opds_server.png)](https://github.com/koreader/koreader/wiki/screenshots/screenshot_opds_server.png)
 
 
-HOW TO ACCESS YOUR OWN CALIBRE LIBRARY ON YOUR WIFI NETWORK
-STEP-BY-STEP:
+*HOW TO ACCESS YOUR OWN CALIBRE LIBRARY ON YOUR WIFI NETWORK
+STEP-BY-STEP:*
 
 1. In Calibre:
 Connect/Share > Start Content Server
