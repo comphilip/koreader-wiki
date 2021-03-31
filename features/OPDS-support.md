@@ -11,10 +11,10 @@ This plugin adds an OPDS browser to the filemanager, which lets you browse publi
 **How to access your own Calibre library on your wifi network using OPDS**
 <BR>
 <BR>
-1 In Calibre:
+1) In Calibre:
 Connect/Share > Start Content Server
 <BR>
-- a) Note the address and port
+-a) Note the address and port
 <BR><BR>
 2. In KOReader go to Search (magnifying glass) > OPDS Catalog
 <BR><BR>
