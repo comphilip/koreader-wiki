@@ -12,6 +12,7 @@ This plugin adds an OPDS browser to the filemanager, which lets you browse publi
 
 1. In Calibre:
 Connect/Share > Start Content Server
+
 a) Note the address and port
 
 2. Go to the above module on KoReader and either:
