@@ -13,7 +13,7 @@ This plugin adds an OPDS browser to the filemanager, which lets you browse publi
 1. In Calibre:
 Connect/Share > Start Content Server
 <BR>
-- 1a) Note the address and port
+-1a) Note the address and port
 <BR><BR>
 2. In KOReader go to Search (magnifying glass) > OPDS Catalog
 <BR><BR>
@@ -38,7 +38,7 @@ Eg.
 <BR><BR>
 7. Tapping on a book will bring up a dialog to allow you to download it
 <BR><BR>
-NOTES:
+NOTES:<BR>
 * If either of these are running, it is not a problem:<BR>
 KOReader: the wireless connection (via Tools > Connect)<BR>
 Calibre: Connect/Share > 'Wireless device connection'<BR>
