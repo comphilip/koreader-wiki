@@ -21,8 +21,7 @@
     ```
     opkg install rm2fb koreader
     ```
-4. Make sure the service was [configured correctly](https://github.com/koreader/koreader/issues/7494#issuecomment-812888641)
-5. Launch KOReader:
+4. Launch KOReader:
     ```
     systemctl start koreader
     ```
