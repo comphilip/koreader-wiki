@@ -16,24 +16,23 @@ ssh root@10.11.99.1
 ```
 cd Downloads
 ```
-2. Copy the zip file to your device by running:
+3. Copy the zip file to your device by running:
 ```
 scp koreader-remarkable-*.zip root@10.11.99.1:
 ```
-3. SSH into your device and unzip the file:
+4. SSH into your device and unzip the file:
 ```
 unzip koreader-remarkable-*.zip
 ```
-4. Copy the service file to the system directory::
+5. Copy the service file to the system directory::
 ```
 cp -v koreader/koreader.service /etc/systemd/system/
 ```
-5. reMarkable 2 users must install [rm2fb](https://github.com/ddvk/remarkable2-framebuffer)
-6. Launch KOReader:
+6. reMarkable 2 users must install [rm2fb](https://github.com/ddvk/remarkable2-framebuffer)
+7. Launch KOReader:
 ```
 systemctl start koreader
 ```
-- KOReader will be installed to `/home/root/koreader`
 
 ## Launching
 
@@ -45,8 +44,7 @@ systemctl disable xochitl
 systemctl enable koreader
 ```
 2. Reboot your device
-3. KOReader will replace Xochitl as the program launched at boot
-- To return to Xochitl simply exit KOReader or run `systemctl start xochitl`
+- To return to Xochitl simply exit KOReader
 - **Note:** Make sure at least one service is enabled. If both `xochitl` and `koreader` are disabled, your device will become stuck at "reMarkable is starting"
 
 ### Launch with middle button
@@ -64,7 +62,7 @@ systemctl enable --now button-listen
 
 ### Override System Splashscreens
 
-To use KOReader's built-in screensaver feature for poweroff and reboot events:
+To use KOReader's screensaver feature for poweroff and reboot events:
 
 1. SSH into your device and run:
 ```
