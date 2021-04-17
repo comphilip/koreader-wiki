@@ -21,10 +21,7 @@
     ```
     opkg install rm2fb koreader
     ```
-4. Launch KOReader:
-    ```
-    systemctl start koreader
-    ```
+
 - KOReader will be installed to `/home/root/.entware/koreader` and mounted to `/opt/koreader`
 - You may want to check for updates from within KOReader as Toltec may not have indexed the [latest release](https://github.com/koreader/koreader/releases) yet
 
