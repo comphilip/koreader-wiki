@@ -88,3 +88,16 @@ KOReader is supported by [oxide](https://github.com/Eeems/oxide), [draft](https:
 3. Hold down the middle button for 3 seconds to start KOReader
 - To return to Xochitl simply exit KOReader
 - **Note:** reMarkable firmware updates will delete KOReader's systemd units so you will have to run `cp -v koreader/*.service /etc/systemd/system/` again after every update
+
+## Optional
+
+### Override System Splashscreens
+
+To use KOReader's built-in screensaver feature for poweroff and reboot events:
+
+1. SSH into your device and run:
+```
+systemctl disable remarkable-shutdown
+systemctl disable remarkable-reboot
+```
+2. Reboot your device
