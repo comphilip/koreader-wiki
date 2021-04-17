@@ -11,21 +11,6 @@
 
 ## Installing
 
-### Installation via Toltec
-1. SSH into your device and install [Toltec](https://github.com/toltec-dev/toltec#install-it)
-2. For reMarkable 1 run: 
-    ```
-    opkg install koreader
-    ```
-3. For reMarkable 2 run:
-    ```
-    opkg install rm2fb koreader
-    ```
-
-- KOReader will be installed to `/home/root/.entware/koreader` and mounted to `/opt/koreader`
-- You may want to check for updates from within KOReader as Toltec may not have indexed the [latest release](https://github.com/koreader/koreader/releases) yet
-
-### Manual installation
 1. Download the [latest release](https://github.com/koreader/koreader/releases) of KOReader
 2. Copy the zip file to your device by running:
    ```
@@ -56,23 +41,10 @@
    systemctl disable xochitl
    systemctl enable koreader
    ```
-2. Restart your device by running:
-    ```
-    reboot
-    ```
+2. Reboot your device
 3. KOReader will replace Xochitl as the program launched at boot
 - To return to Xochitl simply exit KOReader or run `systemctl start xochitl`
 - **Note:** Make sure at least one service is enabled. If both `xochitl` and `koreader` are disabled, your device will become stuck at "reMarkable is starting"
-
-### Launch with external launcher
-KOReader is supported by [oxide](https://github.com/Eeems/oxide), [draft](https://github.com/dixonary/draft-reMarkable) and [remux](https://github.com/rmkit-dev/rmkit/tree/master/src/remux). The example below uses oxide:
-1. Install [Toltec](https://github.com/toltec-dev/toltec#install-it)
-2. SSH into your device and run:
-    ```
-    opkg install oxide
-    ```
-3. Reboot your device
-4. Tap on KOreader from the oxide menu
 
 ### Launch with middle button
 1. SSH into your device and run:
