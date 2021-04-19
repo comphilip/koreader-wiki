@@ -36,8 +36,11 @@ Eg.<BR>
 6. By tapping on one of these you will see the books that match that parameter
 <BR><BR>
 7. Tapping on a book will bring up a dialog to allow you to download it
-<BR><BR>
-NOTES:<BR>
-* If either of these are running, it is not a problem:<BR>
-KOReader: the wireless connection (via Tools > Connect)<BR>
-Calibre: Connect/Share > 'Wireless device connection'<BR>
+
+## Notes
+
+If either of these are running, it is not a problem:
+ * KOReader: the wireless connection (via Tools > Connect)
+ * Calibre: Connect/Share > 'Wireless device connection'
+
+If Calibre is set to require authentication, it must use "basic" authentication, not "digest" authentication.  Digest authentication is the default for unencrypted communications, but KOReader doesn't support digest authentication.  See [issue #3953](https://github.com/koreader/koreader/issues/3953).  **Warning**: Unencrypted basic authentication is *insecure*.  Anyone who can inspect your network traffic will be able to see your password.  Only use basic authentication with SSL or when it's only run on a completely-trusted network without being exposed to the Internet.
