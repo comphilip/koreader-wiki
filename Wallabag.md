@@ -11,3 +11,28 @@ The Plugin requires all 4 of `username`, `password`, `Client Id` and `Client Sec
 `Client Id` and `Client Secret` are generated in the _API Clients Management_ section of your Wallabag server's website. The `Redirect URIs` which is optional should be empty.
 
 The `Client Id` and `Client Secret` are long (~50 chars each) so you might prefer to save the empty settings and edit the config file directly in your installation directory's `settings/wallabag.lua`. Triple check the `username`, `password`, `Client Id` and `Client Secret` as the variable names are very similar looking and can be confusing. 
+
+On certain legacy devices saving empty settings may not be possible, in that case you can use the following settings file directly in your installation directory's `settings/wallabag.lua`. 
+```
+-- we can read Lua syntax here!
+return {
+    ["wallabag"] = {
+        ["articles_per_sync"] = 30,
+        ["download_queue"] = {},
+        ["filter_tag"] = "",
+        ["ignore_tags"] = "",
+        ["is_archiving_deleted"] = false,
+        ["is_auto_delete"] = false,
+        ["is_delete_finished"] = true,
+        ["is_delete_read"] = false,
+        ["is_sync_remote_delete"] = false,
+        ["remove_finished_from_history"] = false,
+        ["server_url"] = "",
+        ["client_id"] = "",
+        ["client_secret"] = "",
+        ["username"] = "",
+        ["password"] = "",
+        ["directory"] = "",
+    },
+}
+```
