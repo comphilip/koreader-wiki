@@ -12,7 +12,7 @@ The Plugin requires all 4 of `username`, `password`, `Client Id` and `Client Sec
 
 The `Client Id` and `Client Secret` are long (~50 chars each) so you might prefer to save the empty settings and edit the config file directly in your installation directory's `settings/wallabag.lua`. Triple check the `username`, `password`, `Client Id` and `Client Secret` as the variable names are very similar looking and can be confusing. 
 
-On certain legacy devices saving empty settings may not be possible, in that case you can use the following settings file directly in your installation directory's `settings/wallabag.lua`. 
+On certain legacy devices saving empty settings may not be possible, in that case you can add and modify the following settings, directly in your installation directory's `settings/wallabag.lua`. 
 ```
 -- we can read Lua syntax here!
 return {
