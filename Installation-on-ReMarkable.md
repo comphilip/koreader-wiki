@@ -1,4 +1,4 @@
-**This page is about Remarkable 1. For the status of Remarkable 2 support, see issue #6792**
+**This page is about Remarkable 1. For the status of Remarkable 2 support, see https://github.com/koreader/koreader/issues/6792**
 
 ## SSH into your device
 
