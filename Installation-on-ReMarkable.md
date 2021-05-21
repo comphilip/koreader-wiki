@@ -1,3 +1,5 @@
+**This page is about Remarkable 1. For the status of Remarkable 2 support, see issue #6792**
+
 ## SSH into your device
 
 0. Windows users will need to install an [OpenSSH Client](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse#installing-openssh-from-the-settings-ui-on-windows-server-2019-or-windows-10-1809). Mac OS and Linux users need no extra software.
