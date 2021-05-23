@@ -31,6 +31,9 @@ After installing KOReader, you will see related entries in the KUAL menu. Just t
 
 NOTE: After a firmware update, you will most likely have to reinstall some stuff. Of particular importance to KOReader: KPVBooklet itself if you're using it, as well as [KUAL](http://www.mobileread.com/forums/showthread.php?t=203326) itself if you're running the Booklet version. More generally, the [JB Hotfix](https://www.mobileread.com/forums/showpost.php?p=3004892&postcount=1597) is the first thing to try, although current JB versions should ensure basic functionality makes it through. 
 
+### via KOL
+There is a [Booklet version](https://github.com/yparitcher/KUAL_Booklet/releases) of KOReader launcher which opens KOReader from Kindle main menu. Default behavior is defined by KOReader -> File Manager -> Top menu, first tab -> Start with (file browser / history / favorites / folder shortcuts / last file). The Booklet must be installed with MR installer.
+
 ### via KPV Booklet
 Just open any book from the native system, all files except for mobi and txt will be opened with KOReader.
 
