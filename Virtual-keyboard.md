@@ -11,7 +11,7 @@ The <kbd>Earth</kbd> icon switches between the added language layouts.
 
 ![VirtualKeyboard-screenshot07](https://user-images.githubusercontent.com/62179190/119448664-51058080-bd3a-11eb-8a5c-bc66612ca67a.png)
 
-Holding the <kbd>Earth</kbd> icon allows to choose from selected language layouts in the settings, or from any available language layout directly (by tapping the second <kbd>Earth</kbd> icon in the popup).
+Holding the <kbd>Earth</kbd> icon allows to choose from language layouts which you selected in the Settings, or from any other available language layout directly (by tapping the second <kbd>Earth</kbd> icon in the popup).
 
 ![VirtualKeyboard-screenshot08](https://user-images.githubusercontent.com/62179190/119448667-52cf4400-bd3a-11eb-9ba7-d3eedb66ecd2.png)
 
