@@ -11,6 +11,8 @@ The dictionaries need to be installed into one of those directories:
   * `koreader/data/dict` directory for Kindle
   * `.adds/koreader/data/dict/` directory for Kobo
   * `applications/koreader/data/dict` directory for Pocketbook
+  * `$HOME/.config/koreader/data/dict` directory for Linux
+  * `$HOME/Library/Application Support/data/dict` directory for macOS
 
 Since *v2020.04* you can override the directory where dictionaries are installed. This is useful if your device has more than one app that can deal with stardict dictionaries to avoid duplicities.
 
