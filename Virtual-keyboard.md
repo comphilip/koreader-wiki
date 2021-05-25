@@ -7,20 +7,20 @@ Language layouts can be added in the main menu `Settings` - `Device` - `Keyboard
 
 ![VirtualKeyboard-screenshot11](https://user-images.githubusercontent.com/62179190/119448684-5793f800-bd3a-11eb-8992-cebc1cd1d960.png)
 --
-<kbd>Earth</kbd> switches between the added language layouts.
+The <kbd>Earth</kbd> icon switches between the added language layouts.
 
 ![VirtualKeyboard-screenshot07](https://user-images.githubusercontent.com/62179190/119448664-51058080-bd3a-11eb-8a5c-bc66612ca67a.png)
 
-Holding <kbd>Earth</kbd> allows to choose the language layout directly.
+Holding the <kbd>Earth</kbd> icon allows to choose from selected language layouts in the settings, or from any available language layout directly (by tapping the second <kbd>Earth</kbd> icon in the popup).
 
 ![VirtualKeyboard-screenshot08](https://user-images.githubusercontent.com/62179190/119448667-52cf4400-bd3a-11eb-9ba7-d3eedb66ecd2.png)
 
 ## Keyboard layers
-<kbd>Shift</kbd> switches to the upper case layer.
+<kbd>Shift</kbd> switches to the upper case layer. Please note that after typing the first capital letter, the keyboard will **not** turn off the <kbd>Shift</kbd>, so you need to do that manually.
 
 ![VirtualKeyboard-screenshot02](https://user-images.githubusercontent.com/62179190/119448611-3fbc7400-bd3a-11eb-8a4f-9bd3f7040bcb.png)
 --
-<kbd>Sym</kbd> switches to the symbols / digits layer.
+<kbd>Sym</kbd> switches to the symbols / digits layer. The <kbd>1/2</kbd> or <kbd>2/2</kbd> icon shows on which symbol layer you are currently on.
 
 ![VirtualKeyboard-screenshot03](https://user-images.githubusercontent.com/62179190/119448629-44812800-bd3a-11eb-843d-af4edffb2960.png)
 
@@ -55,4 +55,4 @@ To input an additional character from a [small popup keyboard](https://github.co
 
 ![VirtualKeyboard-screenshot12](https://user-images.githubusercontent.com/62179190/119448686-58c52500-bd3a-11eb-9d7c-cc45d9bbf1fe.png)
 
-Tap the input field to show the keyboard on.
+Tap the input field to bring up the keyboard.
