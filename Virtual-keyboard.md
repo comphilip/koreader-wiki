@@ -55,4 +55,4 @@ To input an additional character from a [small popup keyboard](https://github.co
 
 ![VirtualKeyboard-screenshot12](https://user-images.githubusercontent.com/62179190/119448686-58c52500-bd3a-11eb-9d7c-cc45d9bbf1fe.png)
 
-Tap the input field to bring up the keyboard.
+Tap the input field to show the keyboard.
