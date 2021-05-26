@@ -16,7 +16,9 @@ Holding the <kbd>Earth</kbd> icon allows to choose from language layouts which y
 ![VirtualKeyboard-screenshot08](https://user-images.githubusercontent.com/62179190/119448667-52cf4400-bd3a-11eb-9ba7-d3eedb66ecd2.png)
 
 ## Keyboard layers
-<kbd>Shift</kbd> switches to the upper case layer. Please note that after typing the first capital letter, the keyboard will **not** turn off the <kbd>Shift</kbd>, so you need to do that manually.
+<kbd>Shift</kbd> switches to the upper case layer.
+
+After typing the first capital letter the keyboard will **not** turn off the <kbd>Shift</kbd> mode, so you need to do that manually.
 
 ![VirtualKeyboard-screenshot02](https://user-images.githubusercontent.com/62179190/119448611-3fbc7400-bd3a-11eb-8a4f-9bd3f7040bcb.png)
 --
@@ -41,18 +43,14 @@ To input an additional character from a [small popup keyboard](https://github.co
 
 ![VirtualKeyboard-screenshot10](https://user-images.githubusercontent.com/62179190/119448680-55ca3480-bd3a-11eb-8726-7f2e5205220a.png)
 --
-**Special actions** are invoked with the hold of the following buttons:
+**Special actions** are invoked with the **hold** of the following buttons:
 
 ![VirtualKeyboard-screenshot03](https://user-images.githubusercontent.com/62179190/119448629-44812800-bd3a-11eb-843d-af4edffb2960.png)
 
-<kbd>Backspace</kbd> - deletes all characters to the beginning of the line
+<kbd>Backspace</kbd> - deletes all characters from the cursor to the beginning of the line;
 
-<kbd>←</kbd> - moves the cursor to the beginning of the line
+<kbd>←</kbd> - moves the cursor to the beginning of the line;
 
-<kbd>→</kbd> - moves the cursor to the end of the line
+<kbd>→</kbd> - moves the cursor to the end of the line;
 
-<kbd>↓</kbd> - hides the keyboard
-
-![VirtualKeyboard-screenshot12](https://user-images.githubusercontent.com/62179190/119448686-58c52500-bd3a-11eb-9d7c-cc45d9bbf1fe.png)
-
-Tap the input field to show the keyboard.
+<kbd>↓</kbd> - hides the keyboard. Tap the input field to show the keyboard.
