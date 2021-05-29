@@ -9,6 +9,10 @@ Hold the start point of the block and drag the end of the selection, then press 
 --
 To change the block boundaries tap the selection and move boundaries with the popup menu buttons.
 
+Short press of the arrow buttons moves the selection boundaries by words.
+
+Long press of the arrow buttons moves the selection boundaries by characters.
+
 ![2](https://user-images.githubusercontent.com/62179190/119809517-e006ca00-beed-11eb-9dcf-ddbcf8fb1e92.png)
 --
 Then press <kbd>...</kbd> and <kbd>Copy</kbd>.
