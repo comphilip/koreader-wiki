@@ -31,7 +31,7 @@ To know which keycodes are being emmited by your device please follow [this link
 
 Since v2019.11.69 you can customize your third party dictionary list by creating koreader/dictionaries.lua
 
-Check the [default list](https://github.com/koreader/koreader/blob/master/frontend/device/android/dictionaries.lua#L8-L17) and create your own based on your preferences.
+Check the [default list](https://github.com/koreader/koreader/blob/master/frontend/device/android/device.lua#L49-L63) and create your own based on your preferences.
 
 You can also configure an action without a specific package. In that case the application picker will be shown with all the available options.
 
