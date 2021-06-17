@@ -99,10 +99,20 @@ You may also be able to use `DICT` files used by the [standard dictd daemon](htt
 
 ### Dictionary lookups in scanned pages
 
-KOReader has a built-in OCR engine for recognizing words in scanned PDF/DJVU pages. In order to use OCR in scanned pages, you need to install Tesseract trained data for your document language.
+KOReader has a built-in OCR engine for recognizing words in scanned PDF/DJVU pages. In order to use OCR in scanned pages, you need to install respective Tesseract trained data and add new document languages to `koreader/defaults.lua`, if your language is other than English or Chinese.
 
-* install [Tesseract language data](https://github.com/tesseract-ocr/tessdoc/blob/a28acb1ca0b89942ed3e4fbd6601b942e9234c54/Data-Files.md#data-files-for-version-304305)
-    * copy the language data files for Tesseract 3.04 (e.g. `eng.*` in `tesseract-ocr-3.02.eng.tar.gz` for English and `spa.*` in `tesseract-ocr-3.04.spa.tar.gz` for Spanish) into `koreader/data/tessdata`
+1) * Download [language data for Tesseract 3.04](https://github.com/tesseract-ocr/tessdata/tree/3.04.00) and copy the language data files (e.g. `eng.*` in `tesseract-ocr-3.02.eng.tar.gz` for English and `spa.*` in `tesseract-ocr-3.04.spa.tar.gz` for Spanish) into `koreader/data/tessdata`.
+* The main files are `*.traineddata`, however you can also add other complementary files such a cube data files. While making OCR slightly slower, they might provide better search results.
+* Files for Tesseract 4.0 are also acceptable, but quality varies a lot. You can try both of them to see what is best for you.
+
+2) To add new langauges, open `koreader/defaults.lua` and add languages to these lines (116-117) in pairs of `Title` (not so important, this is how it appears in the Menu) and `ISO 3-letter code` (important!):
+```
+DKOPTREADER_CONFIG_DOC_LANGS_TEXT = {"English", "Chinese"} 
+DKOPTREADER_CONFIG_DOC_LANGS_CODE = {"eng", "chi_sim"}    -- language code, make sure you have corresponding training data
+```
+For example, for Kazakh these would be `Kazakh` and `kaz`; for Russian - `Russian` and `rus`, etc. If you are unsure of the code for your language, look at the tessdata first.
+
+`Forced OCR` option make KOReader to ignore any built-in text layers that come with pdf/djvu and use only OCR tessdata instead.
 
 
 ### Dictionaries can be downloaded from the internet
