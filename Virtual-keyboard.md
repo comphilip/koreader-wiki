@@ -1,5 +1,11 @@
 KOReader has a built-in [virtual keyboard](https://github.com/koreader/koreader/blob/master/frontend/ui/widget/virtualkeyboard.lua).
 
+Virtual keyboard automatically pops up with the input dialog.
+
+Tap the screen outside of the input field to hide the keyboard.
+
+Tap the input field to show the keyboard.
+
 ![VirtualKeyboard-screenshot01](https://user-images.githubusercontent.com/62179190/119448603-3cc18380-bd3a-11eb-8804-52661148af6a.png)
 
 ## Keyboard language layouts
@@ -51,6 +57,4 @@ To input an additional character from a [small popup keyboard](https://github.co
 
 <kbd>←</kbd> - moves the cursor to the beginning of the line;
 
-<kbd>→</kbd> - moves the cursor to the end of the line;
-
-<kbd>↓</kbd> - hides the keyboard. Tap the input field to show the keyboard.
+<kbd>→</kbd> - moves the cursor to the end of the line.
