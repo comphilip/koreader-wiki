@@ -53,25 +53,25 @@ NOTE: KPVBooklet may have some issues that don't happen with KUAL:
 
 
 ## 手动安装
-根据 [Install section](#Install) 的描述下载最新版，将 **koreader-kindle\*.zip** 或者 koreader-kindle\*.tar.gz** 复制到 kindle 的根目录 (又称 /mnt/us，就是那个能直接看到 `documents` 文件夹的文件夹）。在 kindle 上，选择 KUAL->KOReader->Tools->Update KOReader。 
+根据 [Install section](#Install) 的描述下载最新版，将 **koreader-kindle\*.zip** 或者 **koreader-kindle\*.tar.gz** 复制到 kindle 的根目录 (又称 /mnt/us，就是那个能直接看到 `documents` 文件夹的文件夹）。在 kindle 上，选择 KUAL->KOReader->Tools->Update KOReader。 
 
 搞定！
 
-(This calls the script on the kindle */mnt/us/extenstions/koreader/bin/koreader-ext.sh*, which extracts the archive to the koreader folder on the kindle.)
+（这将调用kindle上的脚本*/mnt/us/extenstions/koreader/bin/koreader-ext.sh*，它将档案提取到kindle上的koreader文件夹。）
 
-[More information can be found here](https://www.mobileread.com/forums/showthread.php?t=326052)
+[更多内容见这里](https://www.mobileread.com/forums/showthread.php?t=326052)
 
 ## USB
-**IMPORTANT NOTE:** Switching your device to USBMS mode (by plugging it to a computer over USB) while KOReader is running is *entirely unsupported*, and risks crashing in fun and interesting ways, both KOReader, and possibly the Kindle's underlying system. Recent KOReader versions make an attempt at avoiding complete and utter mayhem, but it's still not recommended to try to test that theory ;).
-If you need to charge your device while KOReader is running, either do it with a charger, or switch your device to USBNet mode first.
+**重要提示：**在KOReader运行时将你的设备切换到USBMS模式（通过USB将其插入电脑）是完全*行不通的*，Kindle 的底层系统，或者包括 KOReader 在内，可能以滑稽有趣的方式崩溃。近期的 KOReader 版本试图避免完全和彻底的混乱，但我们仍然不建议你尝试测试这项假说;)。
+如果你需要在 KOReader 运行时给你的设备充电，要么用充电器，要么先把你的设备切换到 USBNet 模式。
 
-## Err, 有三个Kindle软件包可供选择，我该选哪个？
+## 啊这，有三个 Kindle 软件包可供选择，我该选哪个？
 
-它们表明了二进制文件所支持的最早的设备系列（并为之进行了优化）。理想情况下，选择与你的实际设备最接近的那个，获得最佳的性能体验。
+下面的表格表明了各个版本二进制文件所支持的最早的设备系列（并为之进行了优化）。理想情况下，选择与你的实际设备最接近的那个，获得最佳的性能体验。
 
 * **Legacy**: K2, DX, K3（和它们的衍生版本）
 * **Kindle**: K4, K5, PW1
-* **PW2**: 其他的，从 PW2 开始（i.e., PW2, KV, KT2, PW3, KOA, KT3, KOA2, PW4, KT4）。
+* **PW2**: 其他的，从 PW2 开始（也就是 PW2, KV, KT2, PW3, KOA, KT3, KOA2, PW4, KT4）。
 
 
 如果你不确定你的确切型号，或者如果这些昵称让你感到困惑，请参考[这个方便的表格](https://wiki.mobileread.com/wiki/Kindle_Serial_Numbers);)。
