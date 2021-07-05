@@ -23,7 +23,12 @@
   1. 安装 Tesseract 语言数据(可选)
       * 将 Tesseract 3.02 的 Tesseract-OCR 语言数据文件（eng.*）复制到 koreader/data/tessdata 目录中。
 
-## 启动
+## 运行 KOReader
+### 通过 KPVBooklet 运行
+KPVBooklet可以与原生系统集成, 在Kindle主界面点击文档即可用KOReader打开。MOBI、AZW和TXT文档仍然使用原生阅读器打开。安装KPVBooklet之后如果仍然希望使用原生阅读器打开PDF文档，可以在主界面长按PDF文档在弹出的对话框中选择GOTO/前往即可。
+### 通过KUAL运行
+KOReader安装过后会在KUAL的菜单出现，单击KOReader即可打开KOReader的文件管理器。
+
 ### via KUAL
 After installing KOReader, you will see related entries in the KUAL menu. Just tap on it :). The **(no framework)** variants will kill the native GUI first, and restart it once you've quit KOReader (the goal being to gain some more free RAM). Note that said variant may not be completely functional on some model/FW combinations. It's mostly aimed at older devices.
 
@@ -44,12 +49,12 @@ NOTE: KPVBooklet may have some issues that don't happen with KUAL:
 [White screen after waking up](https://github.com/koreader/koreader/issues/4413).
 
 
-## OTA Update
-1. Simply tap the top portion of the device to bring up the menu
+## OTA更新
+1. 只需点击设备的顶部部分就可以调出菜单。
 
-2. Tap item in the top right corner
+2. 点击右上角的项目
 
-3. Tap update, and follow the on-screen instructions
+3. 点选更新，并按照屏幕上的指示操作。
 
 
 ## 手动安装
