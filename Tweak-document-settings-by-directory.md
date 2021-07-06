@@ -2,8 +2,8 @@
 You can set specific default options for documents in specific directories.
 **This will only apply to newly opened documents.**
 
-To do this, first enable `Tweak document settings` in Top Menu - Tools - Plugin management.
-Then open and edit `koreader/settings/directory_defaults.lua` file.
+To do this, first enable `Tweak document settings` in `Top Menu - Tools - Plugin management`.
+Then open and edit `koreader/settings/directory_defaults.lua` file. If you tap the plugin title itself, this will open the Text Editor in KOReader, where you can edit strings manually. However, for larger edits I would recommend opening this file on PC.
 
 For example, to have specific options for any document in `/mnt/us/books/[manga]/` directory and its sub-directories, add:
 ```
