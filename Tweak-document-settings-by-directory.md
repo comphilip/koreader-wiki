@@ -2,7 +2,8 @@
 You can set specific default options for documents in specific directories.
 **This will only apply to newly opened documents.**
 
-To do this, open and edit `koreader/settings/directory_defaults.lua` file.
+To do this, first enable `Tweak document settings` in Top Menu - Tools - Plugin management.
+Then open and edit `koreader/settings/directory_defaults.lua` file.
 
 For example, to have specific options for any document in `/mnt/us/books/[manga]/` directory and its sub-directories, add:
 ```
