@@ -21,7 +21,14 @@ For example:
 `["copt_block_rendering_mode"] = 0,` sets `Bottom menu - documents settings - Render mode` setting to `legacy`.
 
 If you are unsure what setting should have what value, manually set it first in the UI and re-open the metadata file.
-If you can't find a setting, most probably it is not supported by this feature. For example, `Alt Status Bar`.
+
+You should be able to find the most of the settings from the bottom menu. Some of the settings have slightly different names, though.
+For example, `Alt Status Bar`:
+```
+["copt_status_line"] = 1, -- toggles the Alternative status bar OFF
+["copt_status_line"] = 0, -- toggles the Alternative status bar ON
+```
+Yes, the `1` for OFF and `0` for ON above are correct.
 
 ## Duplicate settings
 Due to engine and UI code complications, some of the settings must have two defining settings in the `directory_defaults.lua` to properly work.
