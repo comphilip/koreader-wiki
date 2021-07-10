@@ -29,6 +29,7 @@
 | PDF cropping | supported |
 | PDF regional zoom | supported |
 | PDF text contrast | supported |
+| PDF annotations | [supported](https://github.com/koreader/koreader/wiki/PDF-Annotations) |
 | EPUB Image viewer | [supported](https://github.com/koreader/koreader/wiki/Image-Viewer) |
 | EPUB pagination | supported |
 | EPUB3 PageMaps and Nav TOC | [supported](https://github.com/koreader/koreader/wiki/Nav-TOC-and-page-maps) (only if ebook format, i.e. EPUB3 supports it) |
