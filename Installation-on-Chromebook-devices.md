@@ -6,12 +6,22 @@ You'll need to enable support for Linux apps on your chromebook. Then go to rele
 
 Double clicking the "deb" file on your chromebook will prompt you to install the app.
 
+### 1.1 Known limitations:
+
+- Battery will report 0% of charge (unable to fix, SDL doesn't know we're running on ChromeOS)
+
 ## 2. Install the Android package.
 
 You can follow [this guide](https://beebom.com/how-sideload-android-apps-chromebook/) and sideload the android apk. Check your chromebook arch. Most of them are based on Intel and you'll need the x86 apk.
 
+### 2.1 Known limitations:
+
+- OTA updates are broken unless you're on Developer mode.
+- Certain UI features have no effect when the app is running on ChromeOS (ie: brightness control)
+
+
 ## Which I should choose?
 
-Some features like sharing chunks of text or doing lookups in thirdparty apps are just available on the Android app. The rest should be almost the same. The Linux/Debian version works fine in multi window mode, while the Android version will only work at fullscreen.
+When in doubt choose the Debian version. It is easier to install and to keep updated, works on multiwindow mode and you can type with your physical keyboard.
 
-If you don't need these specific android features the suggestion would be the Debian package. It is easier to install and require less fiddling with your device. If you go the android install route you'll get a nasty message on the login window saying that the machine could have apps not verified by Google.
+If you're already on developer mode and/or want to improve the android port behaviour on ChromeOS you can try the android APK. In that case please don't open new tickets on this repo issue tracker. Just edit this wiki entry and add your issue to the list of *known limitations*
