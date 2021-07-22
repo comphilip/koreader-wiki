@@ -1,27 +1,42 @@
-By default ChromeOS won't allow to install an application that's not on the (Android) Play Store or the Chrome Web Store. You can workaround this using two different methods:
+Recent ChromeOS versions support both Debian packages and Android APKs.
 
-## 1. Install the Debian package.
+## Debian package
 
-You'll need to enable support for Linux apps on your chromebook. Then go to releases and download the debian package for your arch. (amd64 for Intel based Chromebooks, arm64 for arm ones)
+#### Known issues
 
-Double clicking the "deb" file on your chromebook will prompt you to install the app.
+- Battery will report 0% of charge (SDL expects a fully compliant Linux system. ChromeOS isn't one yet)
 
-### 1.1 Known limitations:
+#### Prerequisistes
 
-- Battery will report 0% of charge (unable to fix, SDL doesn't know we're running on ChromeOS)
+Linux support enabled on your chromebook.
 
-## 2. Install the Android package.
+#### Installation
 
-You can follow [this guide](https://beebom.com/how-sideload-android-apps-chromebook/) and sideload the android apk. Check your chromebook arch. Most of them are based on Intel and you'll need the x86 apk.
+1. Go to releases and download the debian package for your arch. (amd64/arm64 for intel/arm chromebooks).
+2. Open the file and confirm installation.
 
-### 2.1 Known limitations:
+## Android APK
 
-- OTA updates are broken unless you're on Developer mode.
+#### Known issues
+
+- Lack of keyboard support
+- Lack of multiwindow support. App is fullscreen
+- OTA updates don't work unless you're on developer mode
 - Certain UI features have no effect when the app is running on ChromeOS (ie: brightness control)
 
+#### Prerequisistes
+
+Linux support enabled on your chromebook or a ChromeOS device on developer mode.
+
+#### Installation
+
+1. Go to releases and download the android apk for your arch. (x86/arm for intel/arm chromebooks).
+2. Sideload* the application (or open it directly if you're in developer mode)
+
+* [sideload android apps on a chromebook](https://developer.android.com/topic/arc/development-environment)
 
 ## Which I should choose?
 
-When in doubt choose the Debian version. It is easier to install and to keep updated, works on multiwindow mode and you can type with your physical keyboard.
+When in doubt choose the Debian version. It is easier to install and to keep updated.
 
-If you're already on developer mode and/or want to improve the android port behaviour on ChromeOS you can try the android APK. In that case please don't open new tickets on this repo issue tracker. Just edit this wiki entry and add your issue to the list of *known limitations*
+If you're already on developer mode and/or want to improve the android port behaviour on ChromeOS you can try the android APK. In that case please don't open new tickets on this repo issue tracker. Just edit this wiki entry and add your issue to the list of *known issues*. Most of them need to be handled in https://github.com/koreader/android-luajit-launcher
