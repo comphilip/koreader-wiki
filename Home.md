@@ -48,7 +48,6 @@ After starting up KOReader, all you need to do is navigate the file manager to a
 * [[Calibre wireless connection]]
 * [[Evernote export]]
 * [[Progress sync]]
-* [[Zsync transport]]
 * [[Statistics plugin]]
 * [[Fonts]]
 
