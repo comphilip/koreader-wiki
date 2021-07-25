@@ -42,7 +42,6 @@
 * [OPDS-support](https://github.com/koreader/koreader/wiki/OPDS-support)
 * [Progress-sync](https://github.com/koreader/koreader/wiki/Progress-sync)
 * [Wikipedia-support](https://github.com/koreader/koreader/wiki/Wikipedia-support)
-* [Zsync-transport](https://github.com/koreader/koreader/wiki/Zsync-transport)
 
 # [Plugins](https://github.com/koreader/koreader/wiki/Plugins-overview)
 * [Auto frontlight](https://github.com/koreader/koreader/wiki/Auto-frontlight)
@@ -67,7 +66,6 @@
 * [Terminal emulator](https://github.com/koreader/koreader/wiki/Terminal-emulator)
 * [Time sync](https://github.com/koreader/koreader/wiki/Time-sync)
 * [Wallabag](https://github.com/koreader/koreader/wiki/Wallabag)
-* [ZSync](https://github.com/koreader/koreader/wiki/Zsync-transport)
 
 # [Development](https://github.com/koreader/koreader/wiki#hackers)
 * [[Building the emulator|https://github.com/koreader/koreader/blob/master/doc/Building.md]]
