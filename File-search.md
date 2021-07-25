@@ -2,7 +2,7 @@ KOReader can search a book on your device by filename.
 
 Invoke a search via filebrowser main menu `Search` - `File search` or with an assigned gesture.
 
-![filesearch](https://user-images.githubusercontent.com/62179190/113472225-6eb91680-946a-11eb-917f-9e3526837afa.png)
+<kbd>![filesearch](https://user-images.githubusercontent.com/62179190/126889480-9a41f44f-f852-45a6-b0b0-be810ae74caf.png)</kbd>
 
 Start a search from the current folder or from the Home folder. Subfolders are included.
 
@@ -10,7 +10,9 @@ If `Show hidden files` in the filebrowser settings is enabled, search results wi
 
 If `Show unsupported files` in the filebrowser settings is enabled, search results will include unsupported files.
 
-A search for `*` ([single asterisk](https://github.com/koreader/koreader/pull/7362)) will show all files.
+Wildcards `?` for one and `*` for more characters can be used.
+
+A search for single `*` will show all files.
 
 Search string can include special characters in accordance with the [Lua patterns](https://www.lua.org/pil/20.2.html).
 
