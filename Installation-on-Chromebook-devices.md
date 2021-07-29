@@ -2,10 +2,6 @@ Recent ChromeOS versions support both Debian packages and Android APKs.
 
 ## Debian package
 
-#### Known issues
-
-- Battery will report 0% of charge (SDL expects a fully compliant Linux system. ChromeOS isn't one yet)
-
 #### Prerequisistes
 
 Linux support enabled on your chromebook.
