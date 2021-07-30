@@ -2,6 +2,10 @@ Recent ChromeOS versions support both Debian packages and Android APKs.
 
 ## Debian package
 
+#### Known issues
+
+- There's no way to hide ChromeOS bottom decoration while in tablet mode.
+
 #### Prerequisistes
 
 Linux support enabled on your chromebook.
@@ -15,10 +19,13 @@ Linux support enabled on your chromebook.
 
 #### Known issues
 
+- APKs are 32bits only
 - Lack of keyboard support
 - Lack of multiwindow support. App is fullscreen
-- OTA updates don't work unless you're on developer mode
-- Certain UI features have no effect when the app is running on ChromeOS (ie: brightness control)
+- ~~OTA updates don't work unless you're on developer mode~~ * ()
+- ~~Brightness control has no effect when the app is running on ChromeOS~~ *
+
+`*` Disabled in https://github.com/koreader/android-luajit-launcher/pull/328
 
 #### Prerequisistes
 
