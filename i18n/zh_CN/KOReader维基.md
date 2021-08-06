@@ -72,7 +72,7 @@ KOReader 基于 kindlepdfviewer 重写。kindlepdfviewer 项目由 [hawhill](htt
 
 ## 已知问题 ##
 
-查看我们的 [Issues 跟踪](https://github.com/koreader/koreader/issues?q=is%3Aopen)
+查看我们的 [Issues 跟踪](https://github.com/koreader/koreader/releases)
 
 ## 更新日志 ##
 
