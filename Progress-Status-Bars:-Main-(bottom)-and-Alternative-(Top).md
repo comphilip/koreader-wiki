@@ -12,10 +12,10 @@ Swiping along the progress bar right/left will make the reader jump to the next/
 
 ## Include current page in pages left
 Since KOReader Release 2021.08, there is a new setting `Include current page in pages left`.
-- When **ON**, `Pages left` shows how many pages are left for you to actually read before end current chapter. This includes current page as well, which is treated unread.
+- When **ON**, `Pages left` shows how many pages are left to actually read to end current chapter. This includes current page as well, which is treated unread.
 - When **OFF**, the number of `Pages left` shows how many page flips are left to end current chapter.
 
-Here are examples of what `Pages left` shows in a 10-page chapter's first page and last page:
+Here are examples of what `Pages left` shows in a 10-page chapter's first and last pages:
 |                                               | First page of a chapter | Last page of a chapter |
 | ---                                           | ---                   | ---                   |
 | `Include current page in pages left`: **ON**  | `10/10`, you haven't read any pages yet | `1/10`, so you need to read the last page before the chapter ends |
