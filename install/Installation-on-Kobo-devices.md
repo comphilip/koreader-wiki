@@ -30,7 +30,7 @@ This bundles both [**KFMon**](https://github.com/NiLuJe/kfmon) and [**NickelMenu
 
 ### Manual Installation Method based on KFMon:
 
-- You'll probably want to [prevent Nickel from scanning our custom directories](https://github.com/NiLuJe/kfmon/blob/812b7dc46eef92772c8a5f756a92a54e1c7f6c37/tools/install.sh#L85-L99), too (see [the note above](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices#important-notes)).
+- First, you'll probably want to [prevent Nickel from scanning our custom directories](https://github.com/NiLuJe/kfmon/blob/812b7dc46eef92772c8a5f756a92a54e1c7f6c37/tools/install.sh#L85-L99) (see [the note above](https://github.com/koreader/koreader/wiki/Installation-on-Kobo-devices#important-notes)).
 - Download the latest [install package](http://www.mobileread.com/forums/showthread.php?t=274231) for [**KFMon**](https://github.com/NiLuJe/kfmon).
 - Extract the full content of this archive into the *root* directory of your device (i.e., not under *any* subdirectory).
 - Download the latest [release](https://github.com/koreader/koreader/releases) of KOReader.
