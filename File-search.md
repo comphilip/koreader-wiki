@@ -18,4 +18,6 @@ If `Show unsupported files` in the filebrowser settings is enabled, search resul
 
 The sorting order in the search results is the same as in the file browser.
 
+Long-press on a file to view its full path.
+
 Tap a supported file in the search results to open it.
