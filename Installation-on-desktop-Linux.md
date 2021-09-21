@@ -1,7 +1,7 @@
 - For distributions based on Debian/Ubuntu:
 
 Download the `.deb` package for your computer architecture, `x86_64` when in doubt.
-Install it from your package manager or from the commandline with `dpkg -i koreader*.deb`
+Install it from your package manager or from the commandline with `apt install koreader*.deb`
 
 - For generic distributions (x86_64):
 
