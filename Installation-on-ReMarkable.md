@@ -10,10 +10,7 @@
 ### Installation via Toltec
 
 1. SSH into your device and install [Toltec](https://github.com/toltec-dev/toltec#install-it)
-2.
-    - For reMarkable 1: `opkg install koreader`
-    - For reMarkable 2: `opkg install rm2fb koreader`
-
+2. Run `opkg install koreader`
 3. Create a Toltec-compatible service file by running:
 ```
 sed 's|/.*sh|/opt/bin/koreader|' /opt/koreader/koreader.service > /etc/systemd/system/koreader.service
