@@ -20,7 +20,11 @@ The AppImage is a release version of what we KOReader developers call “the emu
 
 Because the AppImage is built on top of the emulator, you can set default window sizes and DPI through the command line. `EMULATE_READER_W=2000 EMULATE_READER_H=1500 EMULATE_READER_DPI=180 ./koreader-appimage-x86_64-linux-gnu-v2015.11-1644-ge39ed90_2018-04-09.AppImage`. You could also try out other debugging aids such as `EMULATE_READER_FLASH=100`. There's also another more practical use besides just reading documents: you could use the AppImage to verify whether a bug is specific to your device or if it's inherent in the program.
 
-The desktop version of KOReader implements game controller support (#3819). The control scheme is depicted below, and you can use it in the AppImage. It's currently equivalent to the functionality offered by the Kindle 4NT. It might sound slightly odd, but it's rather nice to just lean back with a gamepad while having some document on your screen.
+## Reading controls
+
+Interaction with the KOReader GUI can be entirely handled using a mouse, and the function is the same as that of touch-native platforms. Additionally, KOReader implements [keyboard shortcuts](https://github.com/koreader/koreader/wiki/Keyboard-navigation) for navigating through pages of books, menu options, etc.
+
+The desktop version of KOReader also implements game controller support (#3819). The control scheme is depicted below, and you can use it in the AppImage. It's currently equivalent to the functionality offered by the Kindle 4NT. It might sound slightly odd, but it's rather nice to just lean back with a gamepad while having some document on your screen.
 
 <kbd><img src=https://user-images.githubusercontent.com/202757/38541203-a50d455c-3c9e-11e8-9cb0-de21cda0ca0e.png width=70%></kbd>
 
