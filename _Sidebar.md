@@ -13,8 +13,11 @@
 
 # Usage
 
-* Basic reading controls (TODO)
-* <details><summary>Advanced reading controls (click to open)</summary>
+<details><summary>Basic reading controls (click to open)</summary>
+
+  * [Keyboard navigation](https://github.com/koreader/koreader/wiki/Keyboard-navigation)
+</details>
+<details><summary>Advanced reading controls (click to open)</summary>
 
   * [Gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures)
   * [Press and hold](https://github.com/koreader/koreader/wiki/Press-and-hold-function)
