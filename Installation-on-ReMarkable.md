@@ -1,12 +1,12 @@
 ## Installation via Toltec
 
-1. Install [Toltec](https://github.com/toltec-dev/toltec/tree/stable#install-it)
+1. Install [Toltec](https://github.com/toltec-dev/toltec#install-it)
 2. Run: 
 ```
 opkg install koreader
 ```
 
-- You may also install a [launcher](https://toltec-dev.org/stable/)
+- You may also install a [launcher](https://toltec-dev.org/stable#section-launchers)
 
 ## Manual installation
 
@@ -26,16 +26,13 @@ tar -xf /home/root/koreader-remarkable-*targz
 ```
 6. Copy the systemd unit file to the system directory:
 ```
-cp /home/root/koreader/*service /etc/systemd/system/
+cp /home/root/koreader/koreader.service /etc/systemd/system/
 ```
 7. Launch KOReader:
 ```
 systemctl start koreader
 ```
-- To launch KOReader by holding down the middle button for 3 seconds (reMarkable 1):
-```
-systemctl enable --now button-listen
-```
+
 - To launch KOReader at startup:
 ```
 systemctl disable --now xochitl && systemctl enable --now koreader
