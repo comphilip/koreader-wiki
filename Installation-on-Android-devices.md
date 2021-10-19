@@ -8,7 +8,7 @@ KOReader isn't currently available on the Google Playstore. It will need to be i
 
     **Note:** Stable releases only
 
-    2.2 **From your device**: download the [latest release](https://github.com/koreader/koreader/releases) package using the browser on your device and open the package once downloaded. It will prompt you to start the installation.
+    2.2 **From your device**: download the latest release package using the browser on your device and open the package once downloaded. It will prompt you to start the installation. [**Github release page**](https://linkify.me/lmKHXdu)
 
     2.3 **From your computer**: download the latest release package to your computer. Once it is downloaded you can install it using `adb` with the command `adb install koreader-*.apk`
 
