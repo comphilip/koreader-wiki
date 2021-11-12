@@ -33,6 +33,7 @@
 * [Gestures](https://github.com/koreader/koreader/wiki/KOReader-Gestures)
 * [Change defaults](https://github.com/koreader/koreader/wiki/Change-defaults)
 * [DPI control](https://github.com/koreader/koreader/wiki/DPI-control)
+* [Style tweaks for misbehaving books](https://github.com/koreader/koreader/wiki/Style-tweaks)
 * [Reflowing tweaks](https://github.com/koreader/koreader/wiki/Reflowing-tweaks)
 * [Screenshots](https://github.com/koreader/koreader/wiki/KOReader-Screenshots)
 * [Troubleshooting](https://github.com/koreader/koreader/wiki/Troubleshooting)
