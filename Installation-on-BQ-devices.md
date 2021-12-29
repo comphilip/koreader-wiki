@@ -1,3 +1,7 @@
+# NOTICE - NOTICE - NOTICE
+
+## Instructions here require Developers FW, which is no longer available for users running stock. If that's your case you're out of luck.
+
 You'll need an SD card.
 
 1. [Install Developer firmware and enable telnet](https://www.mobileread.com/forums/showpost.php?p=3762198&postcount=5).
