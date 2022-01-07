@@ -1,6 +1,6 @@
 KOReader 2021.11 and later has improved support for Japanese dictionary lookups and word selection through the Japanese Support plugin.
 
-This plugin requires you to have a Japanese dictionary installed in KOReader's stardict `data/dicts` directory. It doesn't matter whether it is a bilingual (Japanese-to-Another-Language) or monolingual (Japanese-to-Japanese) dictionary. [JMDict](https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project) is a freely licensed Japanese-to-English dictionary.
+This plugin requires you to have a Japanese dictionary installed in [KOReader's stardict dictionary directory](https://github.com/koreader/koreader/wiki/Dictionary-support). It doesn't matter whether it is a bilingual (Japanese-to-Another-Language) or monolingual (Japanese-to-Japanese) dictionary. [JMDict](https://www.edrdg.org/wiki/index.php/JMdict-EDICT_Dictionary_Project) is a freely licensed Japanese-to-English dictionary.
 
 This plugin can be configured through the Language support plugins menu (Settings Cog > Document > Language support plugins > Japanese). 
 
