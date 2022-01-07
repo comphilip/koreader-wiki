@@ -58,6 +58,7 @@
 * [Highlight export (Joplin)](https://github.com/koreader/koreader/wiki/Highlight-export)
 * [Frontlight gesture controller](https://github.com/koreader/koreader/wiki/Frontlight-gesture-controller)
 * [Goodreads (deprecated)](https://github.com/koreader/koreader/wiki/Goodreads)
+* [Japanese Support](https://github.com/koreader/koreader/wiki/Japanese-Support)
 * [Keep alive](https://github.com/koreader/koreader/wiki/Keep-alive)
 * [News downloader](https://github.com/koreader/koreader/wiki/News-downloader)
 * [Perception expander](https://github.com/koreader/koreader/wiki/Perception-Expander-plugin)
