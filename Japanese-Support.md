@@ -18,7 +18,9 @@ Please also note there is a [known bug](https://github.com/koreader/koreader/iss
 
 ## Deinflection ##
 
-Japanese verbs can be highly inflected in a way that most dictionary lookup programs cannot handle. However, the Japanese Support plugin knows how to deinflect verbs and can take text like 食わせられている and figure out that the dictionary form is 食う (食わせられている -> 食わせられる -> 食わせる -> 食う). This works both in conjunction with the word selection quick dictionary lookup (which will correctly select Japanese verbs in full) and manual lookups.
+Japanese verbs can be highly inflected in a way that most dictionary lookup programs cannot handle. Most StarDict dictionaries for Japanese instead have workarounds (using the synonym database) to make looking up Japanese words somewhat tolerable with StarDict-powered readers. 
+
+However, the Japanese Support plugin knows how to deinflect verbs and can take text like 食わせられている and figure out that the dictionary form is 食う (食わせられている -> 食わせられる -> 食わせる -> 食う). This works both in conjunction with the word selection quick dictionary lookup (which will correctly select Japanese verbs in full) and manual lookups.
 
 In addition, the deinflector can handle apply conversions (between katakana and hiragana, half-width to full-width kana, and removing emotive markers like 〜, ー, ッ, っ, and so on). The set of enabled conversions can be configured in the plugin submenu.
 
