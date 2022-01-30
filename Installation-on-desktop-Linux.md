@@ -5,8 +5,8 @@ Install it from your package manager or from the commandline with `apt install k
 
 - For generic distributions (x86_64):
 
-Download the `AppImage` and make it executable with `chmod +x koreader*.appImage`
-Execute it with `./koreader*.appImage`
+Download the `AppImage` and make it executable with `chmod +x koreader*.AppImage`
+Execute it with `./koreader*.AppImage`
 
 - For Arch Linux
 
